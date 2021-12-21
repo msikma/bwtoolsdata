@@ -1,0 +1,29 @@
+{
+  "name": "sctoolsdata",
+  "version": "0.1.0",
+  "description": "A collection of StarCraft data used to help interpret replay and map files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js",
+    "lib/",
+    "package.json",
+    "license.md",
+    "readme.md"
+  ],
+  "keywords": [
+    "StarCraft",
+    "StarCraft: Remastered",
+    "StarCraft: Brood War"
+  ],
+  "homepage": "https://github.com/msikma/sctoolsdata",
+  "repository": "https://github.com/msikma/sctoolsdata",
+  "author": "Michiel Sikma <michiel@sikma.org>",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
