@@ -2,5 +2,5 @@
 // © MIT license
 
 module.exports = {
-  ...require('./data')
+  ...require('./lib')
 }
