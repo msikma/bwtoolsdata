@@ -146,7 +146,7 @@ E.g. for "Fastest", there are approximately 1000 / 42 = ~23.81 frames in a secon
 | Slower  | 111 | 9.009 | 37.8% |
 | Slowest | 167 | 5.988 | 25.1% |
 
-By far most replays use "Fastest" as the speed, but this map can be used for the rare case that isn't.
+By far most replays use "Fastest" as the speed, but this map can be used for the rare case that isn't. In the very old days of StarCraft, the ladder speed setting was "Fast" by default, but this got changed to "Fastest" relatively early on.
 
 ## License
 
