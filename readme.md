@@ -90,7 +90,7 @@ Colors work quite inconsistently in StarCraft. There are two sets of color codes
 
 Here's a list of all colors:
 
-<table border="2">
+<table>
 <tbody>
 <tr><th colspan="2" align="left">Briefing/map name colors</th><th colspan="2" align="left">Hex value</th><th align="left">Code</th></tr>
 <tr><td colspan="2">Pale blue</td><td><img src="./resources/swatch-previews/swatch-briefing-a4b4f8.png" width="32" height="12" alt="Preview for briefing swatch #a4b4f8"></td><td>#a4b4f8</td><td>0x02</td></tr>
