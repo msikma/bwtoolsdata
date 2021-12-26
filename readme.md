@@ -24,14 +24,14 @@ framesToMs(frames[, speed])
 
 **Parameters:**
 
-* `frames` **number**
+* `frames` **number**\
   number of in-game frames per second
 * `speed` **string** (default: *"fastest"*)\
   game speed (virtually always "fastest")
 
 **Returns:**
 
-* **number**
+* **number**\
   the number of milliseconds representing the duration of the game frames
 
 Used to get timestamps of game events for a given game speed. For example, this can be used to display a timestamp for a chat message, or to show the duration of a game.
@@ -46,12 +46,12 @@ getSwatchFromPlayerID(id)
 
 **Parameters:**
 
-* `id` **number**
+* `id` **number**\
   player ID to return the color for
 
 **Returns:**
 
-* **string**
+* **string**\
   swatch name for the color associated with that player ID
 
 Every player ID has a default color; for example, player 1 is red, player 2 is blue, etc. This function is used to return the color swatch name associated with a given ID.
@@ -66,14 +66,14 @@ getColorFromSwatch(swatch[, returnType])
 
 **Parameters:**
 
-* `swatch` **string**
+* `swatch` **string**\
   swatch name to return the color value for
-* `returnType` **string<"hex" | "int">** (default: *"hex"*)
+* `returnType` **string<"hex" | "int">** (default: *"hex"*)\
   type of value to return; either a hex string or a number
 
 **Returns:**
 
-* **string&nbsp;|&nbsp;number**
+* **string&nbsp;|&nbsp;number**\
   the color value of the given swatch name
 
 This function can be used to get the actual colors to be displayed for a given swatch (e.g. `"paleBlue"` will return `"#b8b8e8"`).
