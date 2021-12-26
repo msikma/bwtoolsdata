@@ -82,9 +82,7 @@ This function can be used to get the actual colors to be displayed for a given s
 
 TODO.
 
-### Internal StarCraft data
-
-#### Colors
+### In-game colors
 
 Colors work quite inconsistently in StarCraft. There are two sets of color codes: one for briefing messages (and map names), and one for in-game chat messages. These each have their quirks that can be different between Brood War (v1.16.1 and below) and Remastered.
 
@@ -132,7 +130,7 @@ Here's a list of all colors:
 
 See the [edge cases](edge-cases.md) document for more information.
 
-#### Speed
+### Game speed
 
 Number of milliseconds per game frame for each game speed.
 
