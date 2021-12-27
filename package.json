@@ -23,6 +23,7 @@
   "author": "Michiel Sikma <michiel@sikma.org>",
   "license": "MIT",
   "devDependencies": {
+    "jest": "^27.0.6"
   },
   "dependencies": {
   }
