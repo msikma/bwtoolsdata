@@ -41,18 +41,18 @@ Used to get timestamps of game events for a given game speed. For example, this 
 **Function:**
 
 ```js
-getSwatchFromPlayerID(id)
+getSwatchFromSlotID(id)
 ```
 
 **Parameters:**
 
 * `id` **number**\
-  player ID to return the color for
+  slot ID to return the color for
 
 **Returns:**
 
 * **string**\
-  swatch name for the color associated with that player ID
+  swatch name for the color associated with that player slot ID
 
 Every player ID has a default color; for example, player 1 is red, player 2 is blue, etc. This function is used to return the color swatch name associated with a given ID.
 
