@@ -137,6 +137,19 @@ Here's a list of all colors:
 
 ‡: Slot IDs 11, 14, 15 and 20 are not selectable as player colors (the color for 11 is used for the neutral player, however). 11 and 15 are still usable as text color. 14 and 20 are duplicates of Pale Yellow and Cerulean.
 
+A few of the player colors are unavailable on certain tilesets:
+
+| Tileset name   | ID | Disallowed colors       |
+|:---------------|:---|:------------------------|
+| Ash World      | 3  | Gray, Black             |
+| Badlands       | 0  | –                       |
+| Desert         | 5  | Orange                  |
+| Ice            | 6  | White                   |
+| Installation   | 2  | Blue, Navy, Bluish gray |
+| Jungle World   | 4  | –                       |
+| Space Platform | 1  | Gray, Black             |
+| Twilight       | 7  | Bluish gray             |
+
 See the [edge cases](edge-cases.md) document for more information.
 
 ### Game speed
