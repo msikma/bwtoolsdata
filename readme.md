@@ -150,8 +150,6 @@ A few of the player colors are unavailable on certain tilesets:
 | Space Platform | 1  | Gray, Black             |
 | Twilight       | 7  | Bluish gray             |
 
-See the [edge cases](edge-cases.md) document for more information.
-
 ### Game speed
 
 Number of milliseconds per game frame for each game speed.
