@@ -1,6 +1,6 @@
 {
   "name": "sctoolsdata",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A collection of StarCraft data used to help interpret replay and map files",
   "main": "index.js",
   "scripts": {
