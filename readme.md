@@ -139,16 +139,72 @@ Here's a list of all colors:
 
 A few of the player colors are unavailable on certain tilesets:
 
-| Tileset name   | ID | Disallowed colors       |
-|:---------------|:---|:------------------------|
-| Ash World      | 3  | Gray, Black             |
-| Badlands       | 0  | –                       |
-| Desert         | 5  | Orange                  |
-| Ice            | 6  | White                   |
-| Installation   | 2  | Blue, Navy, Bluish gray |
-| Jungle World   | 4  | –                       |
-| Space Platform | 1  | Gray, Black             |
-| Twilight       | 7  | Bluish gray             |
+<table>
+<tbody>
+<tr>
+<th colspan="2" align="left">Tileset name</th>
+<th align="left">ID</th>
+<th align="left">Disallowed colors</th>
+</tr>
+
+<tr>
+<td>Ash World</td>
+<td><img src="./resources/tileset-previews/tileset-ashworld.png" width="64" height="32" alt="Preview for tileset Ash World"></td>
+<td>3</td>
+<td>Gray, Black</td>
+</tr>
+
+<tr>
+<td>Badlands</td>
+<td><img src="./resources/tileset-previews/tileset-badlands.png" width="64" height="32" alt="Preview for tileset Ash World"></td>
+<td>0</td>
+<td>–</td>
+</tr>
+
+<tr>
+<td>Desert</td>
+<td><img src="./resources/tileset-previews/tileset-desert.png" width="64" height="32" alt="Preview for tileset Ash World"></td>
+<td>5</td>
+<td>Orange</td>
+</tr>
+
+<tr>
+<td>Ice</td>
+<td><img src="./resources/tileset-previews/tileset-arctic.png" width="64" height="32" alt="Preview for tileset Ash World"></td>
+<td>6</td>
+<td>White</td>
+</tr>
+
+<tr>
+<td>Installation</td>
+<td><img src="./resources/tileset-previews/tileset-installation.png" width="64" height="32" alt="Preview for tileset Ash World"></td>
+<td>2</td>
+<td>Blue, Navy, Bluish gray</td>
+</tr>
+
+<tr>
+<td>Jungle World</td>
+<td><img src="./resources/tileset-previews/tileset-jungle.png" width="64" height="32" alt="Preview for tileset Ash World"></td>
+<td>4</td>
+<td>–</td>
+</tr>
+
+<tr>
+<td>Space Platform</td>
+<td><img src="./resources/tileset-previews/tileset-space_platform.png" width="64" height="32" alt="Preview for tileset Ash World"></td>
+<td>1</td>
+<td>Gray, Black</td>
+</tr>
+
+<tr>
+<td>Twilight</td>
+<td><img src="./resources/tileset-previews/tileset-twilight.png" width="64" height="32" alt="Preview for tileset Ash World"></td>
+<td>7</td>
+<td>Bluish gray</td>
+</tr>
+
+</tbody>
+</table>
 
 ### Game speed
 
