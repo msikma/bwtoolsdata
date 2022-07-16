@@ -1,0 +1,6199 @@
+{
+  "mapNames": [
+    {
+      "dataRaw": "\u0003Neo Sylphid \u00052.0",
+      "dataParsed": {
+        "plainName": "Neo Sylphid",
+        "plainNameVersioned": "Neo Sylphid 2.0",
+        "cleanName": "Neo Sylphid",
+        "cleanNameVersioned": "Neo Sylphid 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "cpl s8 playoffs w3 Vint_vs_ingo505_G2.rep"
+    },
+    {
+      "dataRaw": "(2)Butter 2.0b",
+      "dataParsed": {
+        "plainName": "Butter",
+        "plainNameVersioned": "Butter 2.0b",
+        "cleanName": "Butter",
+        "cleanNameVersioned": "Butter 2.0b",
+        "version": "2.0b",
+        "players": 2,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "cpl s8 regular w6 EskiyaPRIME_vs_ExAmazon_G1.rep"
+    },
+    {
+      "dataRaw": "\u0007투혼 \u00051.3",
+      "dataParsed": {
+        "plainName": "투혼",
+        "plainNameVersioned": "투혼 1.3",
+        "cleanName": "투혼",
+        "cleanNameVersioned": "투혼 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "zergman vs minty.special.rep"
+    },
+    {
+      "dataRaw": "\u0004신 \u0007단장의 \u0006능선 \u00052.1",
+      "dataParsed": {
+        "plainName": "신 단장의 능선",
+        "plainNameVersioned": "신 단장의 능선 2.1",
+        "cleanName": "신 단장의 능선",
+        "cleanNameVersioned": "신 단장의 능선 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "vsocnk1ZNsP_IUT_4.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Empire of the Sun 2.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Empire of the Sun",
+        "plainNameVersioned": "| iCCup | Empire of the Sun 2.0",
+        "cleanName": "Empire of the Sun",
+        "cleanNameVersioned": "Empire of the Sun 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3505 LexuZ ZeusT LRMIZ DaiZ.rep"
+    },
+    {
+      "dataRaw": "\u0006Neo \u0003Jade \u00052.0",
+      "dataParsed": {
+        "plainName": "Neo Jade",
+        "plainNameVersioned": "Neo Jade 2.0",
+        "cleanName": "Neo Jade",
+        "cleanNameVersioned": "Neo Jade 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "ever)p(Pianist vs snail.rep"
+    },
+    {
+      "dataRaw": "| iCCup | ColosseumII 2.0",
+      "dataParsed": {
+        "plainName": "| iCCup | ColosseumII",
+        "plainNameVersioned": "| iCCup | ColosseumII 2.0",
+        "cleanName": "ColosseumII",
+        "cleanNameVersioned": "ColosseumII 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "Violet vs Ever)T(Reality 11.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Python 1.3",
+      "dataParsed": {
+        "plainName": "| iCCup | Python",
+        "plainNameVersioned": "| iCCup | Python 1.3",
+        "cleanName": "Python",
+        "cleanNameVersioned": "Python 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "mvp vs tzeentch.rep"
+    },
+    {
+      "dataRaw": "\u0006Icarus \u00051.0",
+      "dataParsed": {
+        "plainName": "Icarus",
+        "plainNameVersioned": "Icarus 1.0",
+        "cleanName": "Icarus",
+        "cleanNameVersioned": "Icarus 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "vsocnk1ZEver)T(ShineeT_2.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Fighting Spirit 1.3",
+      "dataParsed": {
+        "plainName": "| iCCup | Fighting Spirit",
+        "plainNameVersioned": "| iCCup | Fighting Spirit 1.3",
+        "cleanName": "Fighting Spirit",
+        "cleanNameVersioned": "Fighting Spirit 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "zerg[kal] vs minus)mvp 2.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Jade 1.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Jade",
+        "plainNameVersioned": "| iCCup | Jade 1.0",
+        "cleanName": "Jade",
+        "cleanNameVersioned": "Jade 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3963 NeOxScanT GtSemihP.rep"
+    },
+    {
+      "dataRaw": "\u0006Hunters\u0003_KeSPA \u00051.4",
+      "dataParsed": {
+        "plainName": "Hunters_KeSPA",
+        "plainNameVersioned": "Hunters_KeSPA 1.4",
+        "cleanName": "Hunters_KeSPA",
+        "cleanNameVersioned": "Hunters_KeSPA 1.4",
+        "version": "1.4",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "4v4 [neox]hwangsoT[NEOX]GUT.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Electric Circuit 2.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Electric Circuit",
+        "plainNameVersioned": "| iCCup | Electric Circuit 2.1",
+        "cleanName": "Electric Circuit",
+        "cleanNameVersioned": "Electric Circuit 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "6188367_Game_2.rep"
+    },
+    {
+      "dataRaw": "\u0005E\u0006l\u0005e\u0006c\u0005t\u0006r\u0005i\u0006c\u0005 C\u0006i\u0005r\u0006c\u0005u\u0006i\u0005t \u00051.0",
+      "dataParsed": {
+        "plainName": "Electric Circuit",
+        "plainNameVersioned": "Electric Circuit 1.0",
+        "cleanName": "Electric Circuit",
+        "cleanNameVersioned": "Electric Circuit 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "mahell vs iops..wing.rep"
+    },
+    {
+      "dataRaw": "\u0007피의 \u0006능선 \u00051.2",
+      "dataParsed": {
+        "plainName": "피의 능선",
+        "plainNameVersioned": "피의 능선 1.2",
+        "cleanName": "피의 능선",
+        "cleanNameVersioned": "피의 능선 1.2",
+        "version": "1.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "lyh vs shine[kal] 2.rep"
+    },
+    {
+      "dataRaw": "\u0007저격\u0006능선 \u00051.0",
+      "dataParsed": {
+        "plainName": "저격능선",
+        "plainNameVersioned": "저격능선 1.0",
+        "cleanName": "저격능선",
+        "cleanNameVersioned": "저격능선 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "ssinz vs SamA[ScM].rep"
+    },
+    {
+      "dataRaw": "\u0003Circuit Breakers \u00051.0",
+      "dataParsed": {
+        "plainName": "Circuit Breakers",
+        "plainNameVersioned": "Circuit Breakers 1.0",
+        "cleanName": "Circuit Breakers",
+        "cleanNameVersioned": "Circuit Breakers 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "zerg[kal] vs candy.rep"
+    },
+    {
+      "dataRaw": "\u0003Jade \u00051.0",
+      "dataParsed": {
+        "plainName": "Jade",
+        "plainNameVersioned": "Jade 1.0",
+        "cleanName": "Jade",
+        "cleanNameVersioned": "Jade 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "sexy[fou] vs rare_lt.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Othello 1.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Othello",
+        "plainNameVersioned": "| iCCup | Othello 1.1",
+        "cleanName": "Othello",
+        "cleanNameVersioned": "Othello 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "sas.DrawP_galfordP_to5bo.rep"
+    },
+    {
+      "dataRaw": "\u0003N\u0004eo \u0006Aztec\u00052.1",
+      "dataParsed": {
+        "plainName": "Neo Aztec",
+        "plainNameVersioned": "Neo Aztec 2.1",
+        "cleanName": "Neo Aztec",
+        "cleanNameVersioned": "Neo Aztec 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "ssinz vs jy_lt 2.rep"
+    },
+    {
+      "dataRaw": "\u0003La \u0006Mancha \u00051.1",
+      "dataParsed": {
+        "plainName": "La Mancha",
+        "plainNameVersioned": "La Mancha 1.1",
+        "cleanName": "La Mancha",
+        "cleanNameVersioned": "La Mancha 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "ssinz vs jy_lt 1.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Grand Line SE 2.2",
+      "dataParsed": {
+        "plainName": "| iCCup | Grand Line SE",
+        "plainNameVersioned": "| iCCup | Grand Line SE 2.2",
+        "cleanName": "Grand Line SE",
+        "cleanNameVersioned": "Grand Line SE 2.2",
+        "version": "2.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3710 aGdynaP HatcheryP.rep"
+    },
+    {
+      "dataRaw": "\u0004신 \u0007피의 \u0006능선 \u00052.1",
+      "dataParsed": {
+        "plainName": "신 피의 능선",
+        "plainNameVersioned": "신 피의 능선 2.1",
+        "cleanName": "신 피의 능선",
+        "cleanNameVersioned": "신 피의 능선 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "wyvern_lt vs [hon]tasy.rep"
+    },
+    {
+      "dataRaw": "\u0007[Op 9-] \u0005투혼 \u00051.3 (옵)",
+      "dataParsed": {
+        "plainName": "[Op 9-] 투혼",
+        "plainNameVersioned": "[Op 9-] 투혼 1.3",
+        "cleanName": "[Op 9-] 투혼 1.3 (옵)",
+        "cleanNameVersioned": "[Op 9-] 투혼 1.3 (옵) 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "옵"
+        ]
+      },
+      "filename": "1885 Mind vs herO.rep"
+    },
+    {
+      "dataRaw": "eSpi.FightingSpirits(Ob)",
+      "dataParsed": {
+        "plainName": "eSpi.FightingSpirits",
+        "plainNameVersioned": "eSpi.FightingSpirits",
+        "cleanName": "eSpi.FightingSpirits",
+        "cleanNameVersioned": "eSpi.FightingSpirits",
+        "version": null,
+        "players": null,
+        "isObserverMap": true,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "0012 Bizzy vs Sziky.rep"
+    },
+    {
+      "dataRaw": "\u0007Super ★ 빠른무한",
+      "dataParsed": {
+        "plainName": "Super ★ 빠른무한",
+        "plainNameVersioned": "Super ★ 빠른무한",
+        "cleanName": "Super ★ 빠른무한",
+        "cleanNameVersioned": "Super ★ 빠른무한",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "3v3 SinHwa.rimePSinHwa.SinT.rep"
+    },
+    {
+      "dataRaw": "\u0003Jade \u00051.1",
+      "dataParsed": {
+        "plainName": "Jade",
+        "plainNameVersioned": "Jade 1.1",
+        "cleanName": "Jade",
+        "cleanNameVersioned": "Jade 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "3856 sasDP NeOxT sasLZ sasP.rep"
+    },
+    {
+      "dataRaw": "The_Hunters KeSPA STXSouLTeam",
+      "dataParsed": {
+        "plainName": "The_Hunters KeSPA STXSouLTeam",
+        "plainNameVersioned": "The_Hunters KeSPA STXSouLTeam",
+        "cleanName": "The_Hunters KeSPA STXSouLTeam",
+        "cleanNameVersioned": "The_Hunters KeSPA STXSouLTeam",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "3v3 hwang-hyojinZMinus)orzZ.rep"
+    },
+    {
+      "dataRaw": "\u0007Destination \u00051.1",
+      "dataParsed": {
+        "plainName": "Destination",
+        "plainNameVersioned": "Destination 1.1",
+        "cleanName": "Destination",
+        "cleanNameVersioned": "Destination 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "trap vs lx-3.rep"
+    },
+    {
+      "dataRaw": "\u0004Neo\u0007Medusa\u00052.2",
+      "dataParsed": {
+        "plainName": "NeoMedusa",
+        "plainNameVersioned": "NeoMedusa 2.2",
+        "cleanName": "NeoMedusa",
+        "cleanNameVersioned": "NeoMedusa 2.2",
+        "version": "2.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Light vs July.rep"
+    },
+    {
+      "dataRaw": "\u0005Python 1.3",
+      "dataParsed": {
+        "plainName": "Python",
+        "plainNameVersioned": "Python 1.3",
+        "cleanName": "Python",
+        "cleanNameVersioned": "Python 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "vsocnk1Zhochi.sT.rep"
+    },
+    {
+      "dataRaw": "\u0003Tau \u0006Cross \u00051.1",
+      "dataParsed": {
+        "plainName": "Tau Cross",
+        "plainNameVersioned": "Tau Cross 1.1",
+        "cleanName": "Tau Cross",
+        "cleanNameVersioned": "Tau Cross 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "trap vs lx-4.rep"
+    },
+    {
+      "dataRaw": "\u0006투혼 1.3 (OB) TB",
+      "dataParsed": {
+        "plainName": "투혼 1.3 (OB) TB",
+        "plainNameVersioned": "투혼 1.3 (OB) TB",
+        "cleanName": "투혼 1.3 (OB) TB",
+        "cleanNameVersioned": "투혼 1.3 (OB) TB",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "loveuP holemanHyOZ.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Longinus",
+      "dataParsed": {
+        "plainName": "| iCCup | Longinus",
+        "plainNameVersioned": "| iCCup | Longinus",
+        "cleanName": "Longinus",
+        "cleanNameVersioned": "Longinus",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "reps)gagT_sas.DrawP.rep"
+    },
+    {
+      "dataRaw": "\u0006HSL \u0007서킷브레이커\u0004 1.0",
+      "dataParsed": {
+        "plainName": "HSL 서킷브레이커",
+        "plainNameVersioned": "HSL 서킷브레이커 1.0",
+        "cleanName": "HSL 서킷브레이커",
+        "cleanNameVersioned": "HSL 서킷브레이커 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "0108 Hiya vs Zergman.rep"
+    },
+    {
+      "dataRaw": "\u0006HSL \u0007신피의능선\u0004 2.1",
+      "dataParsed": {
+        "plainName": "HSL 신피의능선",
+        "plainNameVersioned": "HSL 신피의능선 2.1",
+        "cleanName": "HSL 신피의능선",
+        "cleanNameVersioned": "HSL 신피의능선 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "0028 hiya vs pusan.rep"
+    },
+    {
+      "dataRaw": "\u0006Hunters\u0003_KeSPA \u00051.3",
+      "dataParsed": {
+        "plainName": "Hunters_KeSPA",
+        "plainNameVersioned": "Hunters_KeSPA 1.3",
+        "cleanName": "Hunters_KeSPA",
+        "cleanNameVersioned": "Hunters_KeSPA 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "3v3 Chulmin.JaJiZ[neox]hwaT.rep"
+    },
+    {
+      "dataRaw": "\u0004신 \u0007저격\u0006능선 \u00052.0",
+      "dataParsed": {
+        "plainName": "신 저격능선",
+        "plainNameVersioned": "신 저격능선 2.0",
+        "cleanName": "신 저격능선",
+        "cleanNameVersioned": "신 저격능선 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "shuttle vs by.hero 3.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Sniper Ridge 1.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Sniper Ridge",
+        "plainNameVersioned": "| iCCup | Sniper Ridge 1.0",
+        "cleanName": "Sniper Ridge",
+        "cleanNameVersioned": "Sniper Ridge 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "2596 iFuTT ScanP nizzZ iFUZ.rep"
+    },
+    {
+      "dataRaw": "\u0004[gm] \u0006투혼 \u00071.3",
+      "dataParsed": {
+        "plainName": "[gm] 투혼",
+        "plainNameVersioned": "[gm] 투혼 1.3",
+        "cleanName": "[gm] 투혼",
+        "cleanNameVersioned": "[gm] 투혼 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "shuttle vs savior 3.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Aztec 2.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Aztec",
+        "plainNameVersioned": "| iCCup | Aztec 2.1",
+        "cleanName": "Aztec",
+        "cleanNameVersioned": "Aztec 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3820 HatcheryZ lamboP.rep"
+    },
+    {
+      "dataRaw": "\u0006HSL \u0007투혼\u0004 1.3",
+      "dataParsed": {
+        "plainName": "HSL 투혼",
+        "plainNameVersioned": "HSL 투혼 1.3",
+        "cleanName": "HSL 투혼",
+        "cleanNameVersioned": "HSL 투혼 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "0029 hiya vs pusan.rep"
+    },
+    {
+      "dataRaw": "\u0007A\u0006rcadia II",
+      "dataParsed": {
+        "plainName": "Arcadia II",
+        "plainNameVersioned": "Arcadia II",
+        "cleanName": "Arcadia II",
+        "cleanNameVersioned": "Arcadia II",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Violet vs kkong_V_.rep"
+    },
+    {
+      "dataRaw": "\u0007피의 \u0006능선 \u00051.0",
+      "dataParsed": {
+        "plainName": "피의 능선",
+        "plainNameVersioned": "피의 능선 1.0",
+        "cleanName": "피의 능선",
+        "cleanNameVersioned": "피의 능선 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "firebathero vs windy.rep"
+    },
+    {
+      "dataRaw": "\u0007[Nyx] \u0005투혼 \u00051.3 (수동옵)",
+      "dataParsed": {
+        "plainName": "[Nyx] 투혼",
+        "plainNameVersioned": "[Nyx] 투혼 1.3",
+        "cleanName": "[Nyx] 투혼 1.3 (수동옵)",
+        "cleanNameVersioned": "[Nyx] 투혼 1.3 (수동옵) 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "수동옵"
+        ]
+      },
+      "filename": "zergman vs snail.rep"
+    },
+    {
+      "dataRaw": "\u0004Neo \u0007G\u0006round \u0007Z\u0006ero \u00052.0",
+      "dataParsed": {
+        "plainName": "Neo Ground Zero",
+        "plainNameVersioned": "Neo Ground Zero 2.0",
+        "cleanName": "Neo Ground Zero",
+        "cleanNameVersioned": "Neo Ground Zero 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "2210 Killer vs Mong.rep"
+    },
+    {
+      "dataRaw": "[Dream]\u0007투혼 \u00051.3",
+      "dataParsed": {
+        "plainName": "[Dream]투혼",
+        "plainNameVersioned": "[Dream]투혼 1.3",
+        "cleanName": "[Dream]투혼",
+        "cleanNameVersioned": "[Dream]투혼 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "0040 Melverc@T vs Larva@Z B.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Fighting Spirit 1.3 (Ob)",
+      "dataParsed": {
+        "plainName": "| iCCup | Fighting Spirit",
+        "plainNameVersioned": "| iCCup | Fighting Spirit 1.3",
+        "cleanName": "Fighting Spirit",
+        "cleanNameVersioned": "Fighting Spirit 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": true,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3145 ceZ ShP emZ NeP RaT TZ.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Destination 1.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Destination",
+        "plainNameVersioned": "| iCCup | Destination 1.1",
+        "cleanName": "Destination",
+        "cleanNameVersioned": "Destination 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "Violet vs hyvaa[S.G].rep"
+    },
+    {
+      "dataRaw": "\u0004Blue \u0007S\u0006torm \u00051.2",
+      "dataParsed": {
+        "plainName": "Blue Storm",
+        "plainNameVersioned": "Blue Storm 1.2",
+        "cleanName": "Blue Storm",
+        "cleanNameVersioned": "Blue Storm 1.2",
+        "version": "1.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "sea.kh vs kt.mgw)cookie.rep"
+    },
+    {
+      "dataRaw": "\u0007토\u0006너먼트\u0007컨\u0006트롤\u0004\u0007N\u0006eti\u0007Z\u0006en2",
+      "dataParsed": {
+        "plainName": "토너먼트컨트롤NetiZen2",
+        "plainNameVersioned": "토너먼트컨트롤NetiZen2",
+        "cleanName": "토너먼트컨트롤NetiZen2",
+        "cleanNameVersioned": "토너먼트컨트롤NetiZen2",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "4097 OverlordT StoProcentT.rep"
+    },
+    {
+      "dataRaw": "P\u0006olaris\u0002Rh\u0006apsody\u0005 1.0",
+      "dataParsed": {
+        "plainName": "PolarisRhapsody",
+        "plainNameVersioned": "PolarisRhapsody 1.0",
+        "cleanName": "PolarisRhapsody",
+        "cleanNameVersioned": "PolarisRhapsody 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "wOw vs jungahlove 2.rep"
+    },
+    {
+      "dataRaw": "\u0007Neo \u0003E\u0006lectric \u0003C\u0006ircuit \u00052.1",
+      "dataParsed": {
+        "plainName": "Neo Electric Circuit",
+        "plainNameVersioned": "Neo Electric Circuit 2.1",
+        "cleanName": "Neo Electric Circuit",
+        "cleanNameVersioned": "Neo Electric Circuit 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "shuttle vs by.hero.rep"
+    },
+    {
+      "dataRaw": "\u0007저격\u0006능선 \u00051.1",
+      "dataParsed": {
+        "plainName": "저격능선",
+        "plainNameVersioned": "저격능선 1.1",
+        "cleanName": "저격능선",
+        "cleanNameVersioned": "저격능선 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "wyvern_lt vs sleepqueenP.rep"
+    },
+    {
+      "dataRaw": "\u0004[397] \u0006투혼 \u00071.3",
+      "dataParsed": {
+        "plainName": "[397] 투혼",
+        "plainNameVersioned": "[397] 투혼 1.3",
+        "cleanName": "[397] 투혼",
+        "cleanNameVersioned": "[397] 투혼 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "infinite vs dream.t)5zim.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Tau Cross",
+      "dataParsed": {
+        "plainName": "| iCCup | Tau Cross",
+        "plainNameVersioned": "| iCCup | Tau Cross",
+        "cleanName": "Tau Cross",
+        "cleanNameVersioned": "Tau Cross",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "5913 Stim4meZ gosulingZ.rep"
+    },
+    {
+      "dataRaw": "VGT30 - SC - Space",
+      "dataParsed": {
+        "plainName": "VGT30 - SC - Space",
+        "plainNameVersioned": "VGT30 - SC - Space",
+        "cleanName": "VGT30 - SC - Space",
+        "cleanNameVersioned": "VGT30 - SC - Space",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "0063 SzikP prstT gengZ ManZ.rep"
+    },
+    {
+      "dataRaw": "\u0004M\u0006atch\u0004Point \u00051.3",
+      "dataParsed": {
+        "plainName": "MatchPoint",
+        "plainNameVersioned": "MatchPoint 1.3",
+        "cleanName": "MatchPoint",
+        "cleanNameVersioned": "MatchPoint 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "trap vs lx-2.rep"
+    },
+    {
+      "dataRaw": "\u0006B\u0005e\u0006n\u0005z\u0006e\u0005n\u0006e\u00051.1",
+      "dataParsed": {
+        "plainName": "Benzene",
+        "plainNameVersioned": "Benzene 1.1",
+        "cleanName": "Benzene",
+        "cleanNameVersioned": "Benzene 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "miso vs piano 2.rep"
+    },
+    {
+      "dataRaw": "\u0004[전프]이영웅선수전용 \u0003투혼옵",
+      "dataParsed": {
+        "plainName": "[전프]이영웅선수전용 투혼옵",
+        "plainNameVersioned": "[전프]이영웅선수전용 투혼옵",
+        "cleanName": "[전프]이영웅선수전용 투혼옵",
+        "cleanNameVersioned": "[전프]이영웅선수전용 투혼옵",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "0074 hiya vs anytime.rep"
+    },
+    {
+      "dataRaw": "\u0003L\u0004una",
+      "dataParsed": {
+        "plainName": "Luna",
+        "plainNameVersioned": "Luna",
+        "cleanName": "Luna",
+        "cleanNameVersioned": "Luna",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1a2a3a[fOu]ZwaCk[WHITE]Z.rep"
+    },
+    {
+      "dataRaw": "\u0004M\u0006atch\u0004Point \u00051.2",
+      "dataParsed": {
+        "plainName": "MatchPoint",
+        "plainNameVersioned": "MatchPoint 1.2",
+        "cleanName": "MatchPoint",
+        "cleanNameVersioned": "MatchPoint 1.2",
+        "version": "1.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "revival[scm] vs my.mudda.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Blue Storm 1.2",
+      "dataParsed": {
+        "plainName": "| iCCup | Blue Storm",
+        "plainNameVersioned": "| iCCup | Blue Storm 1.2",
+        "cleanName": "Blue Storm",
+        "cleanNameVersioned": "Blue Storm 1.2",
+        "version": "1.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "UEDHobbangT ISL2OctZeZ.rep"
+    },
+    {
+      "dataRaw": "\u0003개인 \u0004넥서스 \u0007부수기 \u00062 \u0002test",
+      "dataParsed": {
+        "plainName": "개인 넥서스 부수기 2 test",
+        "plainNameVersioned": "개인 넥서스 부수기 2 test",
+        "cleanName": "개인 넥서스 부수기 2 test",
+        "cleanNameVersioned": "개인 넥서스 부수기 2 test",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "0079 adm1rT SzikyZ.rep"
+    },
+    {
+      "dataRaw": "\u0003B\u0004yzantium \u0002III \u00053.0",
+      "dataParsed": {
+        "plainName": "Byzantium III",
+        "plainNameVersioned": "Byzantium III 3.0",
+        "cleanName": "Byzantium III",
+        "cleanNameVersioned": "Byzantium III 3.0",
+        "version": "3.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Flash vs 815 3.rep"
+    },
+    {
+      "dataRaw": "\u0007Outsider SE \u00052.2",
+      "dataParsed": {
+        "plainName": "Outsider SE",
+        "plainNameVersioned": "Outsider SE 2.2",
+        "cleanName": "Outsider SE",
+        "cleanNameVersioned": "Outsider SE 2.2",
+        "version": "2.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "trap vs lx-5.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Sniper Ridge 1.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Sniper Ridge",
+        "plainNameVersioned": "| iCCup | Sniper Ridge 1.1",
+        "cleanName": "Sniper Ridge",
+        "cleanNameVersioned": "Sniper Ridge 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "4388 sasDrawP ScanZ.rep"
+    },
+    {
+      "dataRaw": "\u0007Carthage III \u00053.0",
+      "dataParsed": {
+        "plainName": "Carthage III",
+        "plainNameVersioned": "Carthage III 3.0",
+        "cleanName": "Carthage III",
+        "cleanNameVersioned": "Carthage III 3.0",
+        "version": "3.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "fOrGG vs Stats 2.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Outsider 2.2",
+      "dataParsed": {
+        "plainName": "| iCCup | Outsider",
+        "plainNameVersioned": "| iCCup | Outsider 2.2",
+        "cleanName": "Outsider",
+        "cleanNameVersioned": "Outsider 2.2",
+        "version": "2.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "idra vs clare.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Empire of the Sun",
+      "dataParsed": {
+        "plainName": "| iCCup | Empire of the Sun",
+        "plainNameVersioned": "| iCCup | Empire of the Sun",
+        "cleanName": "Empire of the Sun",
+        "cleanNameVersioned": "Empire of the Sun",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "1014 Rudy vs dsaqwe.rep"
+    },
+    {
+      "dataRaw": "\u0007G\u0006round \u0007Z\u0006ero \u00051.2",
+      "dataParsed": {
+        "plainName": "Ground Zero",
+        "plainNameVersioned": "Ground Zero 1.2",
+        "cleanName": "Ground Zero",
+        "cleanNameVersioned": "Ground Zero 1.2",
+        "version": "1.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "dream.t)check 5 vs rare_lt.rep"
+    },
+    {
+      "dataRaw": "",
+      "dataParsed": {
+        "plainName": "",
+        "plainNameVersioned": "",
+        "cleanName": "",
+        "cleanNameVersioned": "",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Asiasin[ScM] vs maejang.rep"
+    },
+    {
+      "dataRaw": "\u0006HSL \u0007저격능선\u0004 1.1",
+      "dataParsed": {
+        "plainName": "HSL 저격능선",
+        "plainNameVersioned": "HSL 저격능선 1.1",
+        "cleanName": "HSL 저격능선",
+        "cleanNameVersioned": "HSL 저격능선 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "0106 Hiya vs Zergman.rep"
+    },
+    {
+      "dataRaw": "투혼1.3 (OB) Boni",
+      "dataParsed": {
+        "plainName": "투혼1.3 (OB) Boni",
+        "plainNameVersioned": "투혼1.3 (OB) Boni",
+        "cleanName": "투혼1.3 (OB) Boni",
+        "cleanNameVersioned": "투혼1.3 (OB) Boni",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "model.blueT_TRGP.rep"
+    },
+    {
+      "dataRaw": "\u0004Alternative \u00051.3",
+      "dataParsed": {
+        "plainName": "Alternative",
+        "plainNameVersioned": "Alternative 1.3",
+        "cleanName": "Alternative",
+        "cleanNameVersioned": "Alternative 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "0813 mrchP MutaP fryoT repT.rep"
+    },
+    {
+      "dataRaw": "\u0003T\u0006roy \u00051.0",
+      "dataParsed": {
+        "plainName": "Troy",
+        "plainNameVersioned": "Troy 1.0",
+        "cleanName": "Troy",
+        "cleanNameVersioned": "Troy 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Pusan vs F.Monster 2.rep"
+    },
+    {
+      "dataRaw": "\u0006The Fortress SE \u00052.0",
+      "dataParsed": {
+        "plainName": "The Fortress SE",
+        "plainNameVersioned": "The Fortress SE 2.0",
+        "cleanName": "The Fortress SE",
+        "cleanNameVersioned": "The Fortress SE 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1894 Shuttle vs herO.rep"
+    },
+    {
+      "dataRaw": "\u0007Neo \u0006Beltway \u00052.0",
+      "dataParsed": {
+        "plainName": "Neo Beltway",
+        "plainNameVersioned": "Neo Beltway 2.0",
+        "cleanName": "Neo Beltway",
+        "cleanNameVersioned": "Neo Beltway 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "major vs neo.g_soulkey 2.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Circuit Breakers 1.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Circuit Breakers",
+        "plainNameVersioned": "| iCCup | Circuit Breakers 1.0",
+        "cleanName": "Circuit Breakers",
+        "cleanNameVersioned": "Circuit Breakers 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "4113 Sziky Z vs Scan T.rep"
+    },
+    {
+      "dataRaw": "\u0006신 \u0007태양의 제국 \u00052.0",
+      "dataParsed": {
+        "plainName": "신 태양의 제국",
+        "plainNameVersioned": "신 태양의 제국 2.0",
+        "cleanName": "신 태양의 제국",
+        "cleanNameVersioned": "신 태양의 제국 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "ssinz vs spica.rep"
+    },
+    {
+      "dataRaw": "(1) ZvT LT Muta harass (4xObs)",
+      "dataParsed": {
+        "plainName": "ZvT LT Muta harass (4xObs)",
+        "plainNameVersioned": "ZvT LT Muta harass (4xObs)",
+        "cleanName": "ZvT LT Muta harass (4xObs)",
+        "cleanNameVersioned": "ZvT LT Muta harass (4xObs)",
+        "version": null,
+        "players": 1,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "2263 NeOxScanZ CompT.rep"
+    },
+    {
+      "dataRaw": "| iCCup | La Mancha 1.1",
+      "dataParsed": {
+        "plainName": "| iCCup | La Mancha",
+        "plainNameVersioned": "| iCCup | La Mancha 1.1",
+        "cleanName": "La Mancha",
+        "cleanNameVersioned": "La Mancha 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "sas.DrawP_BOSS.WeeklT.rep"
+    },
+    {
+      "dataRaw": "\u0007태양의 제국 \u00051.4",
+      "dataParsed": {
+        "plainName": "태양의 제국",
+        "plainNameVersioned": "태양의 제국 1.4",
+        "cleanName": "태양의 제국",
+        "cleanNameVersioned": "태양의 제국 1.4",
+        "version": "1.4",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "turn vs lovedambi.rep"
+    },
+    {
+      "dataRaw": "\u0006폭풍의 \u0004언덕 \u00051.0",
+      "dataParsed": {
+        "plainName": "폭풍의 언덕",
+        "plainNameVersioned": "폭풍의 언덕 1.0",
+        "cleanName": "폭풍의 언덕",
+        "cleanNameVersioned": "폭풍의 언덕 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Pusan vs F.Monster 1.rep"
+    },
+    {
+      "dataRaw": "\u0004SSabi",
+      "dataParsed": {
+        "plainName": "SSabi",
+        "plainNameVersioned": "SSabi",
+        "cleanName": "SSabi",
+        "cleanNameVersioned": "SSabi",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "2323 INH vs jeak.studyhard.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Eye of the Storm",
+      "dataParsed": {
+        "plainName": "| iCCup | Eye of the Storm",
+        "plainNameVersioned": "| iCCup | Eye of the Storm",
+        "cleanName": "Eye of the Storm",
+        "cleanNameVersioned": "Eye of the Storm",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "2407 vTvrT ezzZ 1o0fZ qqP.rep"
+    },
+    {
+      "dataRaw": "\u0003R\u0006oadrunner\u00051.3",
+      "dataParsed": {
+        "plainName": "Roadrunner",
+        "plainNameVersioned": "Roadrunner 1.3",
+        "cleanName": "Roadrunner",
+        "cleanNameVersioned": "Roadrunner 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "2127 sONgdURIlTZ DogT.rep"
+    },
+    {
+      "dataRaw": "\u0007투혼 \u00051.1",
+      "dataParsed": {
+        "plainName": "투혼",
+        "plainNameVersioned": "투혼 1.1",
+        "cleanName": "투혼",
+        "cleanNameVersioned": "투혼 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "0227 jaedong vs lucifer.rep"
+    },
+    {
+      "dataRaw": "\u0007Super★빠른무한\u0004(Ob내전용)",
+      "dataParsed": {
+        "plainName": "Super★빠른무한",
+        "plainNameVersioned": "Super★빠른무한",
+        "cleanName": "Super★빠른무한(Ob내전용)",
+        "cleanNameVersioned": "Super★빠른무한(Ob내전용)",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "Ob내전용"
+        ]
+      },
+      "filename": "shuttle vs amateur P.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Circuit Breakers",
+      "dataParsed": {
+        "plainName": "| iCCup | Circuit Breakers",
+        "plainNameVersioned": "| iCCup | Circuit Breakers",
+        "cleanName": "Circuit Breakers",
+        "cleanNameVersioned": "Circuit Breakers",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "4128 FirebatT BJMinhOZ.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Match Point 1.2",
+      "dataParsed": {
+        "plainName": "| iCCup | Match Point",
+        "plainNameVersioned": "| iCCup | Match Point 1.2",
+        "cleanName": "Match Point",
+        "cleanNameVersioned": "Match Point 1.2",
+        "version": "1.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "zerg[kal] vs clare.rep"
+    },
+    {
+      "dataRaw": "\u0007심판의 날 \u00051.1",
+      "dataParsed": {
+        "plainName": "심판의 날",
+        "plainNameVersioned": "심판의 날 1.1",
+        "cleanName": "심판의 날",
+        "cleanNameVersioned": "심판의 날 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "icarus vs artofobserver.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Troy 1.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Troy",
+        "plainNameVersioned": "| iCCup | Troy 1.0",
+        "cleanName": "Troy",
+        "cleanNameVersioned": "Troy 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "4307 SaDP sktsZ TattP GirlP.rep"
+    },
+    {
+      "dataRaw": " | iCCup | Vampire",
+      "dataParsed": {
+        "plainName": "| iCCup | Vampire",
+        "plainNameVersioned": "| iCCup | Vampire",
+        "cleanName": "Vampire",
+        "cleanNameVersioned": "Vampire",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3534 HatcheryZ winterZ.rep"
+    },
+    {
+      "dataRaw": "\u0007Nostalgia",
+      "dataParsed": {
+        "plainName": "Nostalgia",
+        "plainNameVersioned": "Nostalgia",
+        "cleanName": "Nostalgia",
+        "cleanNameVersioned": "Nostalgia",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "0343 ISL2Z aafnZ StoPZ ScaT.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Nostalgia 1.3",
+      "dataParsed": {
+        "plainName": "| iCCup | Nostalgia",
+        "plainNameVersioned": "| iCCup | Nostalgia 1.3",
+        "cleanName": "Nostalgia",
+        "cleanNameVersioned": "Nostalgia 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "2499 vTvrT ViciZ vTvSZ SolT.rep"
+    },
+    {
+      "dataRaw": "\u0004[LuZ TB] \u0007투혼 \u00051.3",
+      "dataParsed": {
+        "plainName": "[LuZ TB] 투혼",
+        "plainNameVersioned": "[LuZ TB] 투혼 1.3",
+        "cleanName": "[LuZ TB] 투혼",
+        "cleanNameVersioned": "[LuZ TB] 투혼 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "sharp vs candy 4.rep"
+    },
+    {
+      "dataRaw": "\u0003Korhal \u0006of \u0007Ceres",
+      "dataParsed": {
+        "plainName": "Korhal of Ceres",
+        "plainNameVersioned": "Korhal of Ceres",
+        "cleanName": "Korhal of Ceres",
+        "cleanNameVersioned": "Korhal of Ceres",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "j3@bobrari81_kr@destroyer__.rep"
+    },
+    {
+      "dataRaw": "\u0004[Be Clan]\u0007투혼 \u00051.3\u0002(수동옵)",
+      "dataParsed": {
+        "plainName": "[Be Clan]투혼",
+        "plainNameVersioned": "[Be Clan]투혼 1.3",
+        "cleanName": "[Be Clan]투혼 1.3(수동옵)",
+        "cleanNameVersioned": "[Be Clan]투혼 1.3(수동옵) 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "수동옵"
+        ]
+      },
+      "filename": "0427 v_drop)day v kbsin.rep"
+    },
+    {
+      "dataRaw": "\u0007투혼 \u00051.3 \u000e킹옵",
+      "dataParsed": {
+        "plainName": "투혼 1.3 킹옵",
+        "plainNameVersioned": "투혼 1.3 킹옵",
+        "cleanName": "투혼 1.3 킹옵",
+        "cleanNameVersioned": "투혼 1.3 킹옵",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "2976 obsed TvZ.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Ground Zero 2.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Ground Zero",
+        "plainNameVersioned": "| iCCup | Ground Zero 2.0",
+        "cleanName": "Ground Zero",
+        "cleanNameVersioned": "Ground Zero 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "0472 sas.Sziky sas.skyline.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Icarus",
+      "dataParsed": {
+        "plainName": "| iCCup | Icarus",
+        "plainNameVersioned": "| iCCup | Icarus",
+        "cleanName": "Icarus",
+        "cleanNameVersioned": "Icarus",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3669 IIllZ TKRsZ IIllZ GaYP.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Heartbreak Ridge 2.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Heartbreak Ridge",
+        "plainNameVersioned": "| iCCup | Heartbreak Ridge 2.1",
+        "cleanName": "Heartbreak Ridge",
+        "cleanNameVersioned": "Heartbreak Ridge 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "thezerg vs clare.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Pathfinder",
+      "dataParsed": {
+        "plainName": "| iCCup | Pathfinder",
+        "plainNameVersioned": "| iCCup | Pathfinder",
+        "cleanName": "Pathfinder",
+        "cleanNameVersioned": "Pathfinder",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "4100 iFUeOnzErGZ OverlordZ.rep"
+    },
+    {
+      "dataRaw": "\u0002G\u0006orky \u0002I\u0006sland",
+      "dataParsed": {
+        "plainName": "Gorky Island",
+        "plainNameVersioned": "Gorky Island",
+        "cleanName": "Gorky Island",
+        "cleanNameVersioned": "Gorky Island",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "P4@dante_ca@LG)Manza.rep"
+    },
+    {
+      "dataRaw": "\u0007투혼 \u00051.3 수동(Ob)",
+      "dataParsed": {
+        "plainName": "투혼 1.3 수동",
+        "plainNameVersioned": "투혼 1.3 수동",
+        "cleanName": "투혼 1.3 수동",
+        "cleanNameVersioned": "투혼 1.3 수동",
+        "version": null,
+        "players": null,
+        "isObserverMap": true,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "maejang vs sidepower 2010.rep"
+    },
+    {
+      "dataRaw": "\u0007\u0007KiSaDan\u0004\u0004투혼\u0003\u0003(영의정옵)",
+      "dataParsed": {
+        "plainName": "KiSaDan투혼",
+        "plainNameVersioned": "KiSaDan투혼",
+        "cleanName": "KiSaDan투혼(영의정옵)",
+        "cleanNameVersioned": "KiSaDan투혼(영의정옵)",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "영의정옵"
+        ]
+      },
+      "filename": "free.kiss vs Chic[WHITE].rep"
+    },
+    {
+      "dataRaw": "\u0003뮤탈컨트롤 \u0003하드",
+      "dataParsed": {
+        "plainName": "뮤탈컨트롤 하드",
+        "plainNameVersioned": "뮤탈컨트롤 하드",
+        "cleanName": "뮤탈컨트롤 하드",
+        "cleanNameVersioned": "뮤탈컨트롤 하드",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "4019 IIllZ IIllZ MeurZ ComT.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Gladiator",
+      "dataParsed": {
+        "plainName": "| iCCup | Gladiator",
+        "plainNameVersioned": "| iCCup | Gladiator",
+        "cleanName": "Gladiator",
+        "cleanNameVersioned": "Gladiator",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "0546 TonightZ 123472P.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Alternative 1.3",
+      "dataParsed": {
+        "plainName": "| iCCup | Alternative",
+        "plainNameVersioned": "| iCCup | Alternative 1.3",
+        "cleanName": "Alternative",
+        "cleanNameVersioned": "Alternative 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "0799 MutaliskP extazzzyP.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Bloody Ridge 2.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Bloody Ridge",
+        "plainNameVersioned": "| iCCup | Bloody Ridge 2.1",
+        "cleanName": "Bloody Ridge",
+        "cleanNameVersioned": "Bloody Ridge 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3837 ZealotP LancerXP.rep"
+    },
+    {
+      "dataRaw": "\u0006Beltway \u00051.1",
+      "dataParsed": {
+        "plainName": "Beltway",
+        "plainNameVersioned": "Beltway 1.1",
+        "cleanName": "Beltway",
+        "cleanNameVersioned": "Beltway 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "0592 repsDewaltP ScanP.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Monte Cristo 1.03",
+      "dataParsed": {
+        "plainName": "| iCCup | Monte Cristo",
+        "plainNameVersioned": "| iCCup | Monte Cristo 1.03",
+        "cleanName": "Monte Cristo",
+        "cleanNameVersioned": "Monte Cristo 1.03",
+        "version": "1.03",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3712 HatcheZ UEDKarZ iCCupP.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Sin Chupung Ryeong2.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Sin Chupung Ryeong",
+        "plainNameVersioned": "| iCCup | Sin Chupung Ryeong 2.1",
+        "cleanName": "Sin Chupung Ryeong",
+        "cleanNameVersioned": "Sin Chupung Ryeong 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "0565 sasCerkofP ScanP.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Bloody Ridge",
+      "dataParsed": {
+        "plainName": "| iCCup | Bloody Ridge",
+        "plainNameVersioned": "| iCCup | Bloody Ridge",
+        "cleanName": "Bloody Ridge",
+        "cleanNameVersioned": "Bloody Ridge",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "0591 ScanP lolshtoP.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Monte Cristo 1.03 (ob)",
+      "dataParsed": {
+        "plainName": "| iCCup | Monte Cristo",
+        "plainNameVersioned": "| iCCup | Monte Cristo 1.03",
+        "cleanName": "Monte Cristo",
+        "cleanNameVersioned": "Monte Cristo 1.03",
+        "version": "1.03",
+        "players": null,
+        "isObserverMap": true,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "0593 repsT ScanT fryoP pafT.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Sin Chupung Ryeong2.1 OBs",
+      "dataParsed": {
+        "plainName": "| iCCup | Sin Chupung Ryeong",
+        "plainNameVersioned": "| iCCup | Sin Chupung Ryeong 2.1",
+        "cleanName": "Sin Chupung Ryeong",
+        "cleanNameVersioned": "Sin Chupung Ryeong 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": true,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "0595 ToniP SRKyP KisaT repZ.rep"
+    },
+    {
+      "dataRaw": "| iCCup | The Fortress 2.0",
+      "dataParsed": {
+        "plainName": "| iCCup | The Fortress",
+        "plainNameVersioned": "| iCCup | The Fortress 2.0",
+        "cleanName": "The Fortress",
+        "cleanNameVersioned": "The Fortress 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3706 plusZ IIllZ iGMaP IIlZ.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Faoi 2.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Faoi",
+        "plainNameVersioned": "| iCCup | Faoi 2.1",
+        "cleanName": "Faoi",
+        "cleanNameVersioned": "Faoi 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "0816 fryoT repsT mrchP MutZ.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Luna the Final",
+      "dataParsed": {
+        "plainName": "| iCCup | Luna the Final",
+        "plainNameVersioned": "| iCCup | Luna the Final",
+        "cleanName": "Luna the Final",
+        "cleanNameVersioned": "Luna the Final",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3662 imWhZ ZeusZ HeRoZ pluZ.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Judgement Day 1.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Judgement Day",
+        "plainNameVersioned": "| iCCup | Judgement Day 1.1",
+        "cleanName": "Judgement Day",
+        "cleanNameVersioned": "Judgement Day 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "zerg[kal] vs Clare 2.rep"
+    },
+    {
+      "dataRaw": "\u0004신 \u0007피의 \u0006능선 \u00052.0",
+      "dataParsed": {
+        "plainName": "신 피의 능선",
+        "plainNameVersioned": "신 피의 능선 2.0",
+        "cleanName": "신 피의 능선",
+        "cleanNameVersioned": "신 피의 능선 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "0748 shinee vs Sse[kal].rep"
+    },
+    {
+      "dataRaw": "\u0003Pathfinder \u00051.0",
+      "dataParsed": {
+        "plainName": "Pathfinder",
+        "plainNameVersioned": "Pathfinder 1.0",
+        "cleanName": "Pathfinder",
+        "cleanNameVersioned": "Pathfinder 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "0811 MutaliZ gNsItrZ fryodT.rep"
+    },
+    {
+      "dataRaw": "\u0007Chain Reaction \u00051.0",
+      "dataParsed": {
+        "plainName": "Chain Reaction",
+        "plainNameVersioned": "Chain Reaction 1.0",
+        "cleanName": "Chain Reaction",
+        "cleanNameVersioned": "Chain Reaction 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "neo.g_noregret vs p.rep"
+    },
+    {
+      "dataRaw": "Desert FoX",
+      "dataParsed": {
+        "plainName": "Desert FoX",
+        "plainNameVersioned": "Desert FoX",
+        "cleanName": "Desert FoX",
+        "cleanNameVersioned": "Desert FoX",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "0843 hiya vs sky[kal].rep"
+    },
+    {
+      "dataRaw": "| iCCup | Andromeda 1.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Andromeda",
+        "plainNameVersioned": "| iCCup | Andromeda 1.0",
+        "cleanName": "Andromeda",
+        "cleanNameVersioned": "Andromeda 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3118 ScanT nbDOTYP vTvDrakT.rep"
+    },
+    {
+      "dataRaw": "\u0007G\u0006rand\u0007L\u0006ine\u0005_SE 2.0",
+      "dataParsed": {
+        "plainName": "GrandLine_SE",
+        "plainNameVersioned": "GrandLine_SE 2.0",
+        "cleanName": "GrandLine_SE",
+        "cleanNameVersioned": "GrandLine_SE 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "wOw vs s00sy.rep"
+    },
+    {
+      "dataRaw": "\u0006신 \u0007풍운 \u00052.2",
+      "dataParsed": {
+        "plainName": "신 풍운",
+        "plainNameVersioned": "신 풍운 2.2",
+        "cleanName": "신 풍운",
+        "cleanNameVersioned": "신 풍운 2.2",
+        "version": "2.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "sas_DrawP_TechnicS[BG]Z.rep"
+    },
+    {
+      "dataRaw": "\u0003Circuit Breakers \u00051.0 (수동옵)",
+      "dataParsed": {
+        "plainName": "Circuit Breakers",
+        "plainNameVersioned": "Circuit Breakers 1.0",
+        "cleanName": "Circuit Breakers 1.0 (수동옵)",
+        "cleanNameVersioned": "Circuit Breakers 1.0 (수동옵) 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "수동옵"
+        ]
+      },
+      "filename": "yourosia vs hwan.rep"
+    },
+    {
+      "dataRaw": "\u0006R\u0004ide of \u0006V\u0004alkyries \u00051.0",
+      "dataParsed": {
+        "plainName": "Ride of Valkyries",
+        "plainNameVersioned": "Ride of Valkyries 1.0",
+        "cleanName": "Ride of Valkyries",
+        "cleanNameVersioned": "Ride of Valkyries 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "f-4@etbrood@osp)chronic.rep"
+    },
+    {
+      "dataRaw": "\u0007IEF\u0006_\u0003BlueStorm 1.2",
+      "dataParsed": {
+        "plainName": "IEF_BlueStorm",
+        "plainNameVersioned": "IEF_BlueStorm 1.2",
+        "cleanName": "IEF_BlueStorm",
+        "cleanNameVersioned": "IEF_BlueStorm 1.2",
+        "version": "1.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Stork vs Bisu 3.rep"
+    },
+    {
+      "dataRaw": "\u0007IEF\u0006_\u0003Tau Cross 1.1",
+      "dataParsed": {
+        "plainName": "IEF_Tau Cross",
+        "plainNameVersioned": "IEF_Tau Cross 1.1",
+        "cleanName": "IEF_Tau Cross",
+        "cleanNameVersioned": "IEF_Tau Cross 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Stork vs Bisu 1.rep"
+    },
+    {
+      "dataRaw": "  \u0007BalRi  \u0004Clan",
+      "dataParsed": {
+        "plainName": "BalRi  Clan",
+        "plainNameVersioned": "BalRi  Clan",
+        "cleanName": "BalRi  Clan",
+        "cleanNameVersioned": "BalRi  Clan",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1060 4v4 hiya = gooikmyung.rep"
+    },
+    {
+      "dataRaw": "\u0003Neo \u0007Chain Reaction \u00052.0",
+      "dataParsed": {
+        "plainName": "Neo Chain Reaction",
+        "plainNameVersioned": "Neo Chain Reaction 2.0",
+        "cleanName": "Neo Chain Reaction",
+        "cleanNameVersioned": "Neo Chain Reaction 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "ever)P(fantasia v Actually9.rep"
+    },
+    {
+      "dataRaw": "\u0007드라군 1000 부대 막기(극악)",
+      "dataParsed": {
+        "plainName": "드라군 1000 부대 막기",
+        "plainNameVersioned": "드라군 1000 부대 막기",
+        "cleanName": "드라군 1000 부대 막기(극악)",
+        "cleanNameVersioned": "드라군 1000 부대 막기(극악)",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "극악"
+        ]
+      },
+      "filename": "1084 tlqT USET q34T q1T CoP.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Gods Garden",
+      "dataParsed": {
+        "plainName": "| iCCup | Gods Garden",
+        "plainNameVersioned": "| iCCup | Gods Garden",
+        "cleanName": "Gods Garden",
+        "cleanNameVersioned": "Gods Garden",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "2578 iCCuZ SoapZ TaZaP ezzT.rep"
+    },
+    {
+      "dataRaw": "\u0007STL\u0006_\u0003Soul of Fighter 1.3",
+      "dataParsed": {
+        "plainName": "STL_Soul of Fighter",
+        "plainNameVersioned": "STL_Soul of Fighter 1.3",
+        "cleanName": "STL_Soul of Fighter",
+        "cleanNameVersioned": "STL_Soul of Fighter 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "js vs ssak 1.rep"
+    },
+    {
+      "dataRaw": "\u0007STL\u0006_\u0003Circuit Breakers 1.0",
+      "dataParsed": {
+        "plainName": "STL_Circuit Breakers",
+        "plainNameVersioned": "STL_Circuit Breakers 1.0",
+        "cleanName": "STL_Circuit Breakers",
+        "cleanNameVersioned": "STL_Circuit Breakers 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "js vs ssak 2.rep"
+    },
+    {
+      "dataRaw": "\u0007STL\u0006_\u0003Neo Jade 2.0",
+      "dataParsed": {
+        "plainName": "STL_Neo Jade",
+        "plainNameVersioned": "STL_Neo Jade 2.0",
+        "cleanName": "STL_Neo Jade",
+        "cleanNameVersioned": "STL_Neo Jade 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1183 kor_pi korea_ =4v4=y.rep"
+    },
+    {
+      "dataRaw": "\u0007STL\u0006_\u0003MatchPoint 1.3",
+      "dataParsed": {
+        "plainName": "STL_MatchPoint",
+        "plainNameVersioned": "STL_MatchPoint 1.3",
+        "cleanName": "STL_MatchPoint",
+        "cleanNameVersioned": "STL_MatchPoint 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1184 kor_pi korea_ =4v4=y.rep"
+    },
+    {
+      "dataRaw": "\u0004Andromeda \u00051.0",
+      "dataParsed": {
+        "plainName": "Andromeda",
+        "plainNameVersioned": "Andromeda 1.0",
+        "cleanName": "Andromeda",
+        "cleanNameVersioned": "Andromeda 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "sOo[S.siR] vs July 2.rep"
+    },
+    {
+      "dataRaw": "\u0006토너먼트\u0007컨트롤\u0004[AeGis]",
+      "dataParsed": {
+        "plainName": "토너먼트컨트롤",
+        "plainNameVersioned": "토너먼트컨트롤",
+        "cleanName": "토너먼트컨트롤[AeGis]",
+        "cleanNameVersioned": "토너먼트컨트롤[AeGis]",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "AeGis"
+        ]
+      },
+      "filename": "4083 OverlordT goddfrT.rep"
+    },
+    {
+      "dataRaw": "\u0004New \u0007Super◆빠른무한",
+      "dataParsed": {
+        "plainName": "New Super◆빠른무한",
+        "plainNameVersioned": "New Super◆빠른무한",
+        "cleanName": "New Super◆빠른무한",
+        "cleanNameVersioned": "New Super◆빠른무한",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1825 Native_Lt@P Bethemirac.rep"
+    },
+    {
+      "dataRaw": "\u0003Monty \u0002Hall\u0006_SE \u00052.1",
+      "dataParsed": {
+        "plainName": "Monty Hall_SE",
+        "plainNameVersioned": "Monty Hall_SE 2.1",
+        "cleanName": "Monty Hall_SE",
+        "cleanNameVersioned": "Monty Hall_SE 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1305 mulgoginaksi@P vs oqip.rep"
+    },
+    {
+      "dataRaw": "\u0004컨트롤 \u0007배틀\u00063 \u0004V 3.0",
+      "dataParsed": {
+        "plainName": "컨트롤 배틀3 V",
+        "plainNameVersioned": "컨트롤 배틀3 V 3.0",
+        "cleanName": "컨트롤 배틀3 V",
+        "cleanNameVersioned": "컨트롤 배틀3 V 3.0",
+        "version": "3.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1317 KoreaTime@T Native_lt@.rep"
+    },
+    {
+      "dataRaw": "\u0003R\u0004andom\u0003M\u0004icro\u0003C\u0004hallengeFINAL",
+      "dataParsed": {
+        "plainName": "RandomMicroChallengeFINAL",
+        "plainNameVersioned": "RandomMicroChallengeFINAL",
+        "cleanName": "RandomMicroChallengeFINAL",
+        "cleanNameVersioned": "RandomMicroChallengeFINAL",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1332 SO_so_SO_But@P Native_.rep"
+    },
+    {
+      "dataRaw": "\u00031:1전용 \u0007투혼1.3",
+      "dataParsed": {
+        "plainName": "1:1전용 투혼",
+        "plainNameVersioned": "1:1전용 투혼 1.3",
+        "cleanName": "1:1전용 투혼",
+        "cleanNameVersioned": "1:1전용 투혼 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1347 Native_lt@T vs ganghae.rep"
+    },
+    {
+      "dataRaw": "\u0006[ClanWG]\u0007투혼 \u00051.3(수동옵)",
+      "dataParsed": {
+        "plainName": "[ClanWG]투혼",
+        "plainNameVersioned": "[ClanWG]투혼 1.3",
+        "cleanName": "[ClanWG]투혼 1.3(수동옵)",
+        "cleanNameVersioned": "[ClanWG]투혼 1.3(수동옵) 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "수동옵"
+        ]
+      },
+      "filename": "1363 loZ CuP NeZ ooP giT NZ.rep"
+    },
+    {
+      "dataRaw": "\u0002U\u0006ltimatum \u00051.01",
+      "dataParsed": {
+        "plainName": "Ultimatum",
+        "plainNameVersioned": "Ultimatum 1.01",
+        "cleanName": "Ultimatum",
+        "cleanNameVersioned": "Ultimatum 1.01",
+        "version": "1.01",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1387 savior vs flash 3.rep"
+    },
+    {
+      "dataRaw": "\u0004Odd\u0006-\u0003Eye \u00051.0",
+      "dataParsed": {
+        "plainName": "Odd-Eye",
+        "plainNameVersioned": "Odd-Eye 1.0",
+        "cleanName": "Odd-Eye",
+        "cleanNameVersioned": "Odd-Eye 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1381 effort vs flash 2.rep"
+    },
+    {
+      "dataRaw": "\u0007Dante\u0002'\u0007s \u0006Peak \u0005SE 2.0",
+      "dataParsed": {
+        "plainName": "Dante's Peak SE",
+        "plainNameVersioned": "Dante's Peak SE 2.0",
+        "cleanName": "Dante's Peak SE",
+        "cleanNameVersioned": "Dante's Peak SE 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "2026 Light vs NsP_Groo.rep"
+    },
+    {
+      "dataRaw": "\u0004Mist \u00051.0",
+      "dataParsed": {
+        "plainName": "Mist",
+        "plainNameVersioned": "Mist 1.0",
+        "cleanName": "Mist",
+        "cleanNameVersioned": "Mist 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1407 mulgoginaksi@T vs na1s.rep"
+    },
+    {
+      "dataRaw": "\u0004Mist \u00050.91",
+      "dataParsed": {
+        "plainName": "Mist",
+        "plainNameVersioned": "Mist 0.91",
+        "cleanName": "Mist",
+        "cleanNameVersioned": "Mist 0.91",
+        "version": "0.91",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1405 Light 9 vs Midas.rep"
+    },
+    {
+      "dataRaw": "\u0006V\u0007ampire",
+      "dataParsed": {
+        "plainName": "Vampire",
+        "plainNameVersioned": "Vampire",
+        "cleanName": "Vampire",
+        "cleanNameVersioned": "Vampire",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "3439 xXxSZ xXxST NeOxT zerZ.rep"
+    },
+    {
+      "dataRaw": "\u0007투혼 \u00051.3 \bW\u0019P\u001cZ",
+      "dataParsed": {
+        "plainName": "투혼 1.3 WPZ",
+        "plainNameVersioned": "투혼 1.3 WPZ",
+        "cleanName": "투혼 1.3 WPZ",
+        "cleanNameVersioned": "투혼 1.3 WPZ",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "kt.mgw)great vs dog[kal].rep"
+    },
+    {
+      "dataRaw": "\u0007WCG \u0003P\u0006aranoid \u0004A\u0006ndroid \u00051.0",
+      "dataParsed": {
+        "plainName": "WCG Paranoid Android",
+        "plainNameVersioned": "WCG Paranoid Android 1.0",
+        "cleanName": "WCG Paranoid Android",
+        "cleanNameVersioned": "WCG Paranoid Android 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "g-3@cool2die@cn-pj@.rep"
+    },
+    {
+      "dataRaw": "\u0007WCG \u0003A\u0004zalea \u00051.0",
+      "dataParsed": {
+        "plainName": "WCG Azalea",
+        "plainNameVersioned": "WCG Azalea 1.0",
+        "cleanName": "WCG Azalea",
+        "cleanNameVersioned": "WCG Azalea 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "jamesfoo@androide.rep"
+    },
+    {
+      "dataRaw": "\u0007WCG \u0003G\u0006aia \u00051.1",
+      "dataParsed": {
+        "plainName": "WCG Gaia",
+        "plainNameVersioned": "WCG Gaia 1.1",
+        "cleanName": "WCG Gaia",
+        "cleanNameVersioned": "WCG Gaia 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "westsidevsmoonzerg.rep"
+    },
+    {
+      "dataRaw": "\u0006Neo \u0003Baekdu Daegan \u00052.4",
+      "dataParsed": {
+        "plainName": "Neo Baekdu Daegan",
+        "plainNameVersioned": "Neo Baekdu Daegan 2.4",
+        "cleanName": "Neo Baekdu Daegan",
+        "cleanNameVersioned": "Neo Baekdu Daegan 2.4",
+        "version": "2.4",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "nyokenvsandroide.rep"
+    },
+    {
+      "dataRaw": "\u0007WCG \u0004Estrella \u00051.0",
+      "dataParsed": {
+        "plainName": "WCG Estrella",
+        "plainNameVersioned": "WCG Estrella 1.0",
+        "cleanName": "WCG Estrella",
+        "cleanNameVersioned": "WCG Estrella 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "b7@squall@silent_control.rep"
+    },
+    {
+      "dataRaw": "\u0004Dahlia \u0006of \u0003Jungle",
+      "dataParsed": {
+        "plainName": "Dahlia of Jungle",
+        "plainNameVersioned": "Dahlia of Jungle",
+        "cleanName": "Dahlia of Jungle",
+        "cleanNameVersioned": "Dahlia of Jungle",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "p5@ToT)Mondragon(@dante_ca.rep"
+    },
+    {
+      "dataRaw": "\u0006Martian \u0005Cross",
+      "dataParsed": {
+        "plainName": "Martian Cross",
+        "plainNameVersioned": "Martian Cross",
+        "cleanName": "Martian Cross",
+        "cleanNameVersioned": "Martian Cross",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "o1@johnrambo@stopcos.rep"
+    },
+    {
+      "dataRaw": "\u0007왕의 귀환 \u00051.2",
+      "dataParsed": {
+        "plainName": "왕의 귀환",
+        "plainNameVersioned": "왕의 귀환 1.2",
+        "cleanName": "왕의 귀환",
+        "cleanNameVersioned": "왕의 귀환 1.2",
+        "version": "1.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1920 Last 2 vs Hiya 8.rep"
+    },
+    {
+      "dataRaw": "\u0003돈만 \u0004999999 \u0007[완벽공평]",
+      "dataParsed": {
+        "plainName": "돈만 999999",
+        "plainNameVersioned": "돈만 999999",
+        "cleanName": "돈만 999999 [완벽공평]",
+        "cleanNameVersioned": "돈만 999999 [완벽공평]",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "완벽공평"
+        ]
+      },
+      "filename": "1653 thinkaboutit@RT vs hom.rep"
+    },
+    {
+      "dataRaw": "WCG_The Lost Temple",
+      "dataParsed": {
+        "plainName": "WCG_The Lost Temple",
+        "plainNameVersioned": "WCG_The Lost Temple",
+        "cleanName": "WCG_The Lost Temple",
+        "cleanNameVersioned": "WCG_The Lost Temple",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "w8_gonia_mrx.rep"
+    },
+    {
+      "dataRaw": "\u0002G\u0006orky \u0002P\u0006ark",
+      "dataParsed": {
+        "plainName": "Gorky Park",
+        "plainNameVersioned": "Gorky Park",
+        "cleanName": "Gorky Park",
+        "cleanNameVersioned": "Gorky Park",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "H5R@nephDestroyer@Sephiroth_CL.rep"
+    },
+    {
+      "dataRaw": "\u0006The \u0003KORHAL",
+      "dataParsed": {
+        "plainName": "The KORHAL",
+        "plainNameVersioned": "The KORHAL",
+        "cleanName": "The KORHAL",
+        "cleanNameVersioned": "The KORHAL",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "H4R@starhunter_au@Sephiroth_CL.rep"
+    },
+    {
+      "dataRaw": "\u0004Chow \u0003Chow",
+      "dataParsed": {
+        "plainName": "Chow Chow",
+        "plainNameVersioned": "Chow Chow",
+        "cleanName": "Chow Chow",
+        "cleanNameVersioned": "Chow Chow",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "H6R@rett_nl@OgerDaniel.rep"
+    },
+    {
+      "dataRaw": "\u0007DAHLIA",
+      "dataParsed": {
+        "plainName": "DAHLIA",
+        "plainNameVersioned": "DAHLIA",
+        "cleanName": "DAHLIA",
+        "cleanNameVersioned": "DAHLIA",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "H7R@starhunter_au@rett_nl.rep"
+    },
+    {
+      "dataRaw": "\u0006[Wico] \u0007투혼 \u00051.3",
+      "dataParsed": {
+        "plainName": "[Wico] 투혼",
+        "plainNameVersioned": "[Wico] 투혼 1.3",
+        "cleanName": "[Wico] 투혼",
+        "cleanNameVersioned": "[Wico] 투혼 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1703 INH vs  kaL_ace.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Dantes Peak",
+      "dataParsed": {
+        "plainName": "| iCCup | Dantes Peak",
+        "plainNameVersioned": "| iCCup | Dantes Peak",
+        "cleanName": "Dantes Peak",
+        "cleanNameVersioned": "Dantes Peak",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "1745 ViciZ MichT vTvSP StoZ.rep"
+    },
+    {
+      "dataRaw": "\u0007SG 투혼\u0003 1.3 킹옵",
+      "dataParsed": {
+        "plainName": "SG 투혼 1.3 킹옵",
+        "plainNameVersioned": "SG 투혼 1.3 킹옵",
+        "cleanName": "SG 투혼 1.3 킹옵",
+        "cleanNameVersioned": "SG 투혼 1.3 킹옵",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1802 Mong vs tento.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Jade 2.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Jade",
+        "plainNameVersioned": "| iCCup | Jade 2.0",
+        "cleanName": "Jade",
+        "cleanNameVersioned": "Jade 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "by.spire vs dsaqwe.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Sniper Ridge 2.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Sniper Ridge",
+        "plainNameVersioned": "| iCCup | Sniper Ridge 2.0",
+        "cleanName": "Sniper Ridge",
+        "cleanNameVersioned": "Sniper Ridge 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "1862 KaZewinDyT rasialdoZ.rep"
+    },
+    {
+      "dataRaw": "\u0007[EUD] \u0006생컨파썬 324 \u0005Beta 0.3",
+      "dataParsed": {
+        "plainName": "[EUD] 생컨파썬 324 Beta",
+        "plainNameVersioned": "[EUD] 생컨파썬 324 Beta 0.3",
+        "cleanName": "[EUD] 생컨파썬 324 Beta",
+        "cleanNameVersioned": "[EUD] 생컨파썬 324 Beta 0.3",
+        "version": "0.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1845 mulgoginaksi@RP hyunoo.rep"
+    },
+    {
+      "dataRaw": "\u0007K\u0006atrina_SE\u00052.0",
+      "dataParsed": {
+        "plainName": "Katrina_SE",
+        "plainNameVersioned": "Katrina_SE 2.0",
+        "cleanName": "Katrina_SE",
+        "cleanNameVersioned": "Katrina_SE 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1967 free vs ByherO.rep"
+    },
+    {
+      "dataRaw": "\u0006Icarus \u00051.1",
+      "dataParsed": {
+        "plainName": "Icarus",
+        "plainNameVersioned": "Icarus 1.1",
+        "cleanName": "Icarus",
+        "cleanNameVersioned": "Icarus 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1966 free vs ByherO.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Roadrunner 1.3",
+      "dataParsed": {
+        "plainName": "| iCCup | Roadrunner",
+        "plainNameVersioned": "| iCCup | Roadrunner 1.3",
+        "cleanName": "Roadrunner",
+        "cleanNameVersioned": "Roadrunner 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "1865 cheesekingZ KaZewinDyT.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Vampire 1.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Vampire",
+        "plainNameVersioned": "| iCCup | Vampire 1.0",
+        "cleanName": "Vampire",
+        "cleanNameVersioned": "Vampire 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "1867 cheesekingZ KaZewinDyT.rep"
+    },
+    {
+      "dataRaw": "\u0006태풍의 \u0007눈 \u00051.0",
+      "dataParsed": {
+        "plainName": "태풍의 눈",
+        "plainNameVersioned": "태풍의 눈 1.0",
+        "cleanName": "태풍의 눈",
+        "cleanNameVersioned": "태풍의 눈 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1893 Shuttle vs herO.rep"
+    },
+    {
+      "dataRaw": "\u0006신 추풍령\u00052.1",
+      "dataParsed": {
+        "plainName": "신 추풍령",
+        "plainNameVersioned": "신 추풍령 2.1",
+        "cleanName": "신 추풍령",
+        "cleanNameVersioned": "신 추풍령 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Type-B vs F.Monster.rep"
+    },
+    {
+      "dataRaw": "\u0007Colosseum\u0006II\u00052.0",
+      "dataParsed": {
+        "plainName": "ColosseumII",
+        "plainNameVersioned": "ColosseumII 2.0",
+        "cleanName": "ColosseumII",
+        "cleanNameVersioned": "ColosseumII 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Stork vs johnrambo.rep"
+    },
+    {
+      "dataRaw": "\u0007Othello \u00051.1",
+      "dataParsed": {
+        "plainName": "Othello",
+        "plainNameVersioned": "Othello 1.1",
+        "cleanName": "Othello",
+        "cleanNameVersioned": "Othello 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Jaedong vs Mind 4.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Electric Circuit 1.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Electric Circuit",
+        "plainNameVersioned": "| iCCup | Electric Circuit 1.0",
+        "cleanName": "Electric Circuit",
+        "cleanNameVersioned": "Electric Circuit 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3585 jAiPaiP HatcheZ AssauZ.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Dantes Peak SE 2.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Dantes Peak SE",
+        "plainNameVersioned": "| iCCup | Dantes Peak SE 2.0",
+        "cleanName": "Dantes Peak SE",
+        "cleanNameVersioned": "Dantes Peak SE 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "4295 TattOOZ repsPro7ecTT.rep"
+    },
+    {
+      "dataRaw": "\u0004Para\u0006doxxx \u0007ll \u00052.0",
+      "dataParsed": {
+        "plainName": "Paradoxxx ll",
+        "plainNameVersioned": "Paradoxxx ll 2.0",
+        "cleanName": "Paradoxxx ll",
+        "cleanNameVersioned": "Paradoxxx ll 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1914 sky vs larva.rep"
+    },
+    {
+      "dataRaw": "| iCCup | NeoMedusa 2.1",
+      "dataParsed": {
+        "plainName": "| iCCup | NeoMedusa",
+        "plainNameVersioned": "| iCCup | NeoMedusa 2.1",
+        "cleanName": "NeoMedusa",
+        "cleanNameVersioned": "NeoMedusa 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "Violet vs Ever)T(Reality 10.rep"
+    },
+    {
+      "dataRaw": "\u0007Nostalgia \u00051.3",
+      "dataParsed": {
+        "plainName": "Nostalgia",
+        "plainNameVersioned": "Nostalgia 1.3",
+        "cleanName": "Nostalgia",
+        "cleanNameVersioned": "Nostalgia 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1928 sky vs larva.rep"
+    },
+    {
+      "dataRaw": "\u0004Neo \u0006The Lost Temple \u00052.0",
+      "dataParsed": {
+        "plainName": "Neo The Lost Temple",
+        "plainNameVersioned": "Neo The Lost Temple 2.0",
+        "cleanName": "Neo The Lost Temple",
+        "cleanNameVersioned": "Neo The Lost Temple 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1935 NaDa vs herO.rep"
+    },
+    {
+      "dataRaw": "Neo Jungle story",
+      "dataParsed": {
+        "plainName": "Neo Jungle story",
+        "plainNameVersioned": "Neo Jungle story",
+        "cleanName": "Neo Jungle story",
+        "cleanNameVersioned": "Neo Jungle story",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1936 NaDa vs herO.rep"
+    },
+    {
+      "dataRaw": "\u0006Neo \u0003Guillotine \u00052.1",
+      "dataParsed": {
+        "plainName": "Neo Guillotine",
+        "plainNameVersioned": "Neo Guillotine 2.1",
+        "cleanName": "Neo Guillotine",
+        "cleanNameVersioned": "Neo Guillotine 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1937 NaDa vs herO.rep"
+    },
+    {
+      "dataRaw": "\u0007The Hunters\u0005-\u0003KPGA",
+      "dataParsed": {
+        "plainName": "The Hunters-KPGA",
+        "plainNameVersioned": "The Hunters-KPGA",
+        "cleanName": "The Hunters-KPGA",
+        "cleanNameVersioned": "The Hunters-KPGA",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "1969 ByP maZ stZ maZ flZ BP.rep"
+    },
+    {
+      "dataRaw": "WCG_Neo Jungle story",
+      "dataParsed": {
+        "plainName": "WCG_Neo Jungle story",
+        "plainNameVersioned": "WCG_Neo Jungle story",
+        "cleanName": "WCG_Neo Jungle story",
+        "cleanNameVersioned": "WCG_Neo Jungle story",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "mariovsKenka.rep"
+    },
+    {
+      "dataRaw": "\u0007<WCG>\u0004Neo Legacy of Char",
+      "dataParsed": {
+        "plainName": "<WCG>Neo Legacy of Char",
+        "plainNameVersioned": "<WCG>Neo Legacy of Char",
+        "cleanName": "<WCG>Neo Legacy of Char",
+        "cleanNameVersioned": "<WCG>Neo Legacy of Char",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "BoxervsMmmbop.rep"
+    },
+    {
+      "dataRaw": "\u0007Requiem \u00051.4",
+      "dataParsed": {
+        "plainName": "Requiem",
+        "plainNameVersioned": "Requiem 1.4",
+        "cleanName": "Requiem",
+        "cleanNameVersioned": "Requiem 1.4",
+        "version": "1.4",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "2 kt.mgw)hak vs snail.rep"
+    },
+    {
+      "dataRaw": "\u0007투혼 \u00051.3(자동옵)",
+      "dataParsed": {
+        "plainName": "투혼",
+        "plainNameVersioned": "투혼 1.3",
+        "cleanName": "투혼 1.3(자동옵)",
+        "cleanNameVersioned": "투혼 1.3(자동옵) 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "자동옵"
+        ]
+      },
+      "filename": "1a2a3a[fOu]Zmahell[gsp]Z_2.rep"
+    },
+    {
+      "dataRaw": "\u0003A\u0004ztec\u00051.1",
+      "dataParsed": {
+        "plainName": "Aztec",
+        "plainNameVersioned": "Aztec 1.1",
+        "cleanName": "Aztec",
+        "cleanNameVersioned": "Aztec 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "MondayKiz[KaS]P1a2a3a[fOu]Z.rep"
+    },
+    {
+      "dataRaw": "\u0003L\u0004una \u0006the \u0007Final",
+      "dataParsed": {
+        "plainName": "Luna the Final",
+        "plainNameVersioned": "Luna the Final",
+        "cleanName": "Luna the Final",
+        "cleanNameVersioned": "Luna the Final",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "2243 Melverc@T vs Myth.Ra@Z.rep"
+    },
+    {
+      "dataRaw": "\u0007STL\u0006_\u0003BlueStorm 1.2",
+      "dataParsed": {
+        "plainName": "STL_BlueStorm",
+        "plainNameVersioned": "STL_BlueStorm 1.2",
+        "cleanName": "STL_BlueStorm",
+        "cleanNameVersioned": "STL_BlueStorm 1.2",
+        "version": "1.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "2#Mydream vs rage_lt 02.rep"
+    },
+    {
+      "dataRaw": "\u0004신 \u0007단장의 \u0006능선",
+      "dataParsed": {
+        "plainName": "신 단장의 능선",
+        "plainNameVersioned": "신 단장의 능선",
+        "cleanName": "신 단장의 능선",
+        "cleanNameVersioned": "신 단장의 능선",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "2100 Melverc@T vs Myth.Ra@Z.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Moon Glaive 2.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Moon Glaive",
+        "plainNameVersioned": "| iCCup | Moon Glaive 2.1",
+        "cleanName": "Moon Glaive",
+        "cleanNameVersioned": "Moon Glaive 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "2075 LRMChoP ScanT fryodaT.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Medusa 2.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Medusa",
+        "plainNameVersioned": "| iCCup | Medusa 2.1",
+        "cleanName": "Medusa",
+        "cleanNameVersioned": "Medusa 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "2090 ScanZ NbTeT fryoZ EtrP.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Hunters_KeSPA 1.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Hunters_KeSPA",
+        "plainNameVersioned": "| iCCup | Hunters_KeSPA 1.1",
+        "cleanName": "Hunters_KeSPA",
+        "cleanNameVersioned": "Hunters_KeSPA 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3194 battT ShieZ SoapZ pluZ.rep"
+    },
+    {
+      "dataRaw": "1 Million Zerglings",
+      "dataParsed": {
+        "plainName": "1 Million Zerglings",
+        "plainNameVersioned": "1 Million Zerglings",
+        "cleanName": "1 Million Zerglings",
+        "cleanNameVersioned": "1 Million Zerglings",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "2108 pixxavila@Z coehdfkr@P.rep"
+    },
+    {
+      "dataRaw": "\u0007R\u0001andom\u0007M\u0001icro\u0007C\u0001hallenge\u00072",
+      "dataParsed": {
+        "plainName": "RandomMicroChallenge2",
+        "plainNameVersioned": "RandomMicroChallenge2",
+        "cleanName": "RandomMicroChallenge2",
+        "cleanNameVersioned": "RandomMicroChallenge2",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "2118 Qualified@P native_lt@.rep"
+    },
+    {
+      "dataRaw": "\u0007Op Rain \u0006투혼 \u0004NEW",
+      "dataParsed": {
+        "plainName": "Op Rain 투혼 NEW",
+        "plainNameVersioned": "Op Rain 투혼 NEW",
+        "cleanName": "Op Rain 투혼 NEW",
+        "cleanNameVersioned": "Op Rain 투혼 NEW",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "2208 INH vs [NeOx]LOLUSER2.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Chain Reaction 1.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Chain Reaction",
+        "plainNameVersioned": "| iCCup | Chain Reaction 1.0",
+        "cleanName": "Chain Reaction",
+        "cleanNameVersioned": "Chain Reaction 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3853 NeOxScanT repsGoTuNkP.rep"
+    },
+    {
+      "dataRaw": "\u0006뽀누나의 \u0003투혼 \u00041.3",
+      "dataParsed": {
+        "plainName": "뽀누나의 투혼",
+        "plainNameVersioned": "뽀누나의 투혼 1.3",
+        "cleanName": "뽀누나의 투혼",
+        "cleanNameVersioned": "뽀누나의 투혼 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "2320 Melverc@T vs Highlight.rep"
+    },
+    {
+      "dataRaw": "\u0006Triathlon \u00051.11",
+      "dataParsed": {
+        "plainName": "Triathlon",
+        "plainNameVersioned": "Triathlon 1.11",
+        "cleanName": "Triathlon",
+        "cleanNameVersioned": "Triathlon 1.11",
+        "version": "1.11",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "ever)p(Pianist vs nabi_lt.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Ground Zero 1.2",
+      "dataParsed": {
+        "plainName": "| iCCup | Ground Zero",
+        "plainNameVersioned": "| iCCup | Ground Zero 1.2",
+        "cleanName": "Ground Zero",
+        "cleanNameVersioned": "Ground Zero 1.2",
+        "version": "1.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "4390 ScanZ sasDrawP.rep"
+    },
+    {
+      "dataRaw": "\u0003Op GsP- \u0007투혼 \u0006[Ob]",
+      "dataParsed": {
+        "plainName": "Op GsP- 투혼",
+        "plainNameVersioned": "Op GsP- 투혼",
+        "cleanName": "Op GsP- 투혼 [Ob]",
+        "cleanNameVersioned": "Op GsP- 투혼 [Ob]",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "Ob"
+        ]
+      },
+      "filename": "2325 Ori[GsP] vs Mess.1hO.rep"
+    },
+    {
+      "dataRaw": "\u0006뽀누나의 \u0003서킷 브레이커",
+      "dataParsed": {
+        "plainName": "뽀누나의 서킷 브레이커",
+        "plainNameVersioned": "뽀누나의 서킷 브레이커",
+        "cleanName": "뽀누나의 서킷 브레이커",
+        "cleanNameVersioned": "뽀누나의 서킷 브레이커",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "2337 Melverc@T vs Highlight.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Python 1.3 OBs",
+      "dataParsed": {
+        "plainName": "| iCCup | Python",
+        "plainNameVersioned": "| iCCup | Python 1.3",
+        "cleanName": "Python",
+        "cleanNameVersioned": "Python 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": true,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "2354 LynP RoiZ iFUP UcZ iCT.rep"
+    },
+    {
+      "dataRaw": "| iCCup | ColosseumII 2.0 OBs",
+      "dataParsed": {
+        "plainName": "| iCCup | ColosseumII",
+        "plainNameVersioned": "| iCCup | ColosseumII 2.0",
+        "cleanName": "ColosseumII",
+        "cleanNameVersioned": "ColosseumII 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": true,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3533 HatcheZ 123456P iCCupZ.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Icarus 1.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Icarus",
+        "plainNameVersioned": "| iCCup | Icarus 1.1",
+        "cleanName": "Icarus",
+        "cleanNameVersioned": "Icarus 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "2366 iFUOctZergP vTvScanZ.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Beltway 2.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Beltway",
+        "plainNameVersioned": "| iCCup | Beltway 2.0",
+        "cleanName": "Beltway",
+        "cleanNameVersioned": "Beltway 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "2467 repsPro7ecT vTvScanP.rep"
+    },
+    {
+      "dataRaw": "\u0007Outlier \u00051.0",
+      "dataParsed": {
+        "plainName": "Outlier",
+        "plainNameVersioned": "Outlier 1.0",
+        "cleanName": "Outlier",
+        "cleanNameVersioned": "Outlier 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "bong vs minho_lt 1.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Gaia",
+      "dataParsed": {
+        "plainName": "| iCCup | Gaia",
+        "plainNameVersioned": "| iCCup | Gaia",
+        "cleanName": "Gaia",
+        "cleanNameVersioned": "Gaia",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3391 xTaeAspenP HatcheryT.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Tau Cross 1.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Tau Cross",
+        "plainNameVersioned": "| iCCup | Tau Cross 1.0",
+        "cleanName": "Tau Cross",
+        "cleanNameVersioned": "Tau Cross 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "4114 Sziky Z vs Scan Z.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Match Point 1.3",
+      "dataParsed": {
+        "plainName": "| iCCup | Match Point",
+        "plainNameVersioned": "| iCCup | Match Point 1.3",
+        "cleanName": "Match Point",
+        "cleanNameVersioned": "Match Point 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "sas.DrawP_SJ.TerrOrT.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Pathfinder 1.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Pathfinder",
+        "plainNameVersioned": "| iCCup | Pathfinder 1.0",
+        "cleanName": "Pathfinder",
+        "cleanNameVersioned": "Pathfinder 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "4115 Sziky Z vs Scan Z.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Lost Temple 2.4",
+      "dataParsed": {
+        "plainName": "| iCCup | Lost Temple",
+        "plainNameVersioned": "| iCCup | Lost Temple 2.4",
+        "cleanName": "Lost Temple",
+        "cleanNameVersioned": "Lost Temple 2.4",
+        "version": "2.4",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3624 TaZaZ ZeusZ plusZ JonZ.rep"
+    },
+    {
+      "dataRaw": "\u0004신 \u0007단장의 \u0006능선 \u00052.0",
+      "dataParsed": {
+        "plainName": "신 단장의 능선",
+        "plainNameVersioned": "신 단장의 능선 2.0",
+        "cleanName": "신 단장의 능선",
+        "cleanNameVersioned": "신 단장의 능선 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "2991 ktfpsyP iopss2T choboT.rep"
+    },
+    {
+      "dataRaw": "WCG_Neo Legacy of Char",
+      "dataParsed": {
+        "plainName": "WCG_Neo Legacy of Char",
+        "plainNameVersioned": "WCG_Neo Legacy of Char",
+        "cleanName": "WCG_Neo Legacy of Char",
+        "cleanNameVersioned": "WCG_Neo Legacy of Char",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "nidovsabeja.rep"
+    },
+    {
+      "dataRaw": "\u0007<WCG>\u0004Neo Jungle story",
+      "dataParsed": {
+        "plainName": "<WCG>Neo Jungle story",
+        "plainNameVersioned": "<WCG>Neo Jungle story",
+        "cleanName": "<WCG>Neo Jungle story",
+        "cleanNameVersioned": "<WCG>Neo Jungle story",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "GonniavsSmuff.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Outlier 2.2",
+      "dataParsed": {
+        "plainName": "| iCCup | Outlier",
+        "plainNameVersioned": "| iCCup | Outlier 2.2",
+        "cleanName": "Outlier",
+        "cleanNameVersioned": "Outlier 2.2",
+        "version": "2.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3855 NeOxScT sasDraP saszaZ.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Outlier 1.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Outlier",
+        "plainNameVersioned": "| iCCup | Outlier 1.0",
+        "cleanName": "Outlier",
+        "cleanNameVersioned": "Outlier 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3108 ScanP ifumustP.rep"
+    },
+    {
+      "dataRaw": "신전부수기\u00076 \u0006: \u0004新바람의행진곡",
+      "dataParsed": {
+        "plainName": "신전부수기6 : 新바람의행진곡",
+        "plainNameVersioned": "신전부수기6 : 新바람의행진곡",
+        "cleanName": "신전부수기6 : 新바람의행진곡",
+        "cleanNameVersioned": "신전부수기6 : 新바람의행진곡",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "3014 KOT rkT NeZ wiZ CoP CP.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Central Districts 1.2",
+      "dataParsed": {
+        "plainName": "| iCCup | Central Districts",
+        "plainNameVersioned": "| iCCup | Central Districts 1.2",
+        "cleanName": "Central Districts",
+        "cleanNameVersioned": "Central Districts 1.2",
+        "version": "1.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3114 ScanZ repsDewaltP.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Fortress SE 2.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Fortress SE",
+        "plainNameVersioned": "| iCCup | Fortress SE 2.0",
+        "cleanName": "Fortress SE",
+        "cleanNameVersioned": "Fortress SE 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3713 SeaSRP HatcheP iCCupFZ.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Destination 1.1 OBs",
+      "dataParsed": {
+        "plainName": "| iCCup | Destination",
+        "plainNameVersioned": "| iCCup | Destination 1.1",
+        "cleanName": "Destination",
+        "cleanNameVersioned": "Destination 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": true,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3129 LRMPZ ScanT vTvDP vTvT.rep"
+    },
+    {
+      "dataRaw": "\u0003中原 \u00051.2",
+      "dataParsed": {
+        "plainName": "中原",
+        "plainNameVersioned": "中原 1.2",
+        "cleanName": "中原",
+        "cleanNameVersioned": "中原 1.2",
+        "version": "1.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "3306 By.Rain vs Jaedong.rep"
+    },
+    {
+      "dataRaw": "\u0006Hunters\u0003_KeSPA \u0007MinDClan",
+      "dataParsed": {
+        "plainName": "Hunters_KeSPA MinDClan",
+        "plainNameVersioned": "Hunters_KeSPA MinDClan",
+        "cleanName": "Hunters_KeSPA MinDClan",
+        "cleanNameVersioned": "Hunters_KeSPA MinDClan",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "3474 NaZ neP NeZ yaZ NeZ NT.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Tornado 2.2",
+      "dataParsed": {
+        "plainName": "| iCCup | Tornado",
+        "plainNameVersioned": "| iCCup | Tornado 2.2",
+        "cleanName": "Tornado",
+        "cleanNameVersioned": "Tornado 2.2",
+        "version": "2.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3314 ShieP cabiZ plusZ xTaT.rep"
+    },
+    {
+      "dataRaw": "\u0003넥뿌 정식2 \u0002Absolute",
+      "dataParsed": {
+        "plainName": "넥뿌 정식2 Absolute",
+        "plainNameVersioned": "넥뿌 정식2 Absolute",
+        "cleanName": "넥뿌 정식2 Absolute",
+        "cleanNameVersioned": "넥뿌 정식2 Absolute",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "3293 NeT NeT NeT NeT CrT ET.rep"
+    },
+    {
+      "dataRaw": "\u0007G\u0006rand\u0007L\u0006ine\u0005_SE 2.2",
+      "dataParsed": {
+        "plainName": "GrandLine_SE",
+        "plainNameVersioned": "GrandLine_SE 2.2",
+        "cleanName": "GrandLine_SE",
+        "cleanNameVersioned": "GrandLine_SE 2.2",
+        "version": "2.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "maejang (T) vs tmxk2akdg.rep"
+    },
+    {
+      "dataRaw": "\u0007태양의 제국 \u00051.1",
+      "dataParsed": {
+        "plainName": "태양의 제국",
+        "plainNameVersioned": "태양의 제국 1.1",
+        "cleanName": "태양의 제국",
+        "cleanNameVersioned": "태양의 제국 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "3368 Jaedong vs Sky[kal].rep"
+    },
+    {
+      "dataRaw": "| iCCup | Dantes Peak SE 2.0 (Ob)",
+      "dataParsed": {
+        "plainName": "| iCCup | Dantes Peak SE",
+        "plainNameVersioned": "| iCCup | Dantes Peak SE 2.0",
+        "cleanName": "Dantes Peak SE",
+        "cleanNameVersioned": "Dantes Peak SE 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": true,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3393 ElroyJP HatcheZ iCCupZ.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Lost Temple 2.4 OBs",
+      "dataParsed": {
+        "plainName": "| iCCup | Lost Temple",
+        "plainNameVersioned": "| iCCup | Lost Temple 2.4",
+        "cleanName": "Lost Temple",
+        "cleanNameVersioned": "Lost Temple 2.4",
+        "version": "2.4",
+        "players": null,
+        "isObserverMap": true,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3461 ShieT s2Z KisSP plusZ.rep"
+    },
+    {
+      "dataRaw": "Hunters KeSPA1.4 \u0003Op BeaT_",
+      "dataParsed": {
+        "plainName": "Hunters KeSPA1.4 Op BeaT_",
+        "plainNameVersioned": "Hunters KeSPA1.4 Op BeaT_",
+        "cleanName": "Hunters KeSPA1.4 Op BeaT_",
+        "cleanNameVersioned": "Hunters KeSPA1.4 Op BeaT_",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "3509 yueZ RedT NeOT erP HoZ.rep"
+    },
+    {
+      "dataRaw": "\u0006The Fortress \u00051.1",
+      "dataParsed": {
+        "plainName": "The Fortress",
+        "plainNameVersioned": "The Fortress 1.1",
+        "cleanName": "The Fortress",
+        "cleanNameVersioned": "The Fortress 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "3639 Jaedong vs Ever)P(sHy.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Gladiator 1.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Gladiator",
+        "plainNameVersioned": "| iCCup | Gladiator 1.1",
+        "cleanName": "Gladiator",
+        "cleanNameVersioned": "Gladiator 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3581 MPaiNT HatcheryZ.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Chain Reaction 2.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Chain Reaction",
+        "plainNameVersioned": "| iCCup | Chain Reaction 2.0",
+        "cleanName": "Chain Reaction",
+        "cleanNameVersioned": "Chain Reaction 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "3584 MichaelPaiZ HatcheryZ.rep"
+    },
+    {
+      "dataRaw": "\u0006TvsP \u0003Training",
+      "dataParsed": {
+        "plainName": "TvsP Training",
+        "plainNameVersioned": "TvsP Training",
+        "cleanName": "TvsP Training",
+        "cleanNameVersioned": "TvsP Training",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "3890 tvp training 2nd try.rep"
+    },
+    {
+      "dataRaw": "\u0007Sin \u0004★ \u0007빠\u0006른\u0003무\u0001한",
+      "dataParsed": {
+        "plainName": "Sin ★ 빠른무한",
+        "plainNameVersioned": "Sin ★ 빠른무한",
+        "cleanName": "Sin ★ 빠른무한",
+        "cleanNameVersioned": "Sin ★ 빠른무한",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "4v4 [NeOx]SpeCiaLT[neox]hwP.rep"
+    },
+    {
+      "dataRaw": "\u0007IEF\u0006_\u0003Andromeda 1.0",
+      "dataParsed": {
+        "plainName": "IEF_Andromeda",
+        "plainNameVersioned": "IEF_Andromeda 1.0",
+        "cleanName": "IEF_Andromeda",
+        "cleanNameVersioned": "IEF_Andromeda 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "stork vs vulture 1.rep"
+    },
+    {
+      "dataRaw": "\u0007Vs\u0004투혼\u00061.3\u0005(초딩짤)",
+      "dataParsed": {
+        "plainName": "Vs투혼",
+        "plainNameVersioned": "Vs투혼 1.3",
+        "cleanName": "Vs투혼1.3(초딩짤)",
+        "cleanNameVersioned": "Vs투혼1.3(초딩짤) 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "초딩짤"
+        ]
+      },
+      "filename": "legend_net vs style[name].rep"
+    },
+    {
+      "dataRaw": "| iCCup | Benzene 1.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Benzene",
+        "plainNameVersioned": "| iCCup | Benzene 1.1",
+        "cleanName": "Benzene",
+        "cleanNameVersioned": "Benzene 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "4105 BOSS1P OverloT repsPrZ.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Ride of Valkyries 1.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Ride of Valkyries",
+        "plainNameVersioned": "| iCCup | Ride of Valkyries 1.0",
+        "cleanName": "Ride of Valkyries",
+        "cleanNameVersioned": "Ride of Valkyries 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "4292 TattOOT BOSSdaZ.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Blue Storm 1.2 OBs",
+      "dataParsed": {
+        "plainName": "| iCCup | Blue Storm",
+        "plainNameVersioned": "| iCCup | Blue Storm 1.2",
+        "cleanName": "Blue Storm",
+        "cleanNameVersioned": "Blue Storm 1.2",
+        "version": "1.2",
+        "players": null,
+        "isObserverMap": true,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "4297 bossorT TattOOZ fryodP.rep"
+    },
+    {
+      "dataRaw": "| iCCup | NeoMedusa 2.1 OBs",
+      "dataParsed": {
+        "plainName": "| iCCup | NeoMedusa",
+        "plainNameVersioned": "| iCCup | NeoMedusa 2.1",
+        "cleanName": "NeoMedusa",
+        "cleanNameVersioned": "NeoMedusa 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": true,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "4303 bossorT TattOOT fryodT.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Othello 1.1 OBs",
+      "dataParsed": {
+        "plainName": "| iCCup | Othello",
+        "plainNameVersioned": "| iCCup | Othello 1.1",
+        "cleanName": "Othello",
+        "cleanNameVersioned": "Othello 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": true,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "4299 TattOOT bossorT fryodP.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Dante's Peak SE 2.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Dante's Peak SE",
+        "plainNameVersioned": "| iCCup | Dante's Peak SE 2.0",
+        "cleanName": "Dante's Peak SE",
+        "cleanNameVersioned": "Dante's Peak SE 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "4301 repsLaT TattOOZ fryodZ.rep"
+    },
+    {
+      "dataRaw": "초빠른☆무한 - Fast♧Unlimited",
+      "dataParsed": {
+        "plainName": "초빠른☆무한 - Fast♧Unlimited",
+        "plainNameVersioned": "초빠른☆무한 - Fast♧Unlimited",
+        "cleanName": "초빠른☆무한 - Fast♧Unlimited",
+        "cleanNameVersioned": "초빠른☆무한 - Fast♧Unlimited",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "4v4 [neox]hwangsoT[NeOx]SpZ.rep"
+    },
+    {
+      "dataRaw": "\u0003神\u0004의 정원 \u00051.0",
+      "dataParsed": {
+        "plainName": "神의 정원",
+        "plainNameVersioned": "神의 정원 1.0",
+        "cleanName": "神의 정원",
+        "cleanNameVersioned": "神의 정원 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "[NC]YellOw vs Defy[Shield].rep"
+    },
+    {
+      "dataRaw": "\u0007Op BrOwn \u0006투혼 \u00021.3",
+      "dataParsed": {
+        "plainName": "Op BrOwn 투혼",
+        "plainNameVersioned": "Op BrOwn 투혼 1.3",
+        "cleanName": "Op BrOwn 투혼",
+        "cleanNameVersioned": "Op BrOwn 투혼 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "some other p vs z.rep"
+    },
+    {
+      "dataRaw": "\u0007단장의 \u0006능선 \u00051.1",
+      "dataParsed": {
+        "plainName": "단장의 능선",
+        "plainNameVersioned": "단장의 능선 1.1",
+        "cleanName": "단장의 능선",
+        "cleanNameVersioned": "단장의 능선 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "wico`gwang v qwetklqwejtlkj.rep"
+    },
+    {
+      "dataRaw": "WCG_Neo Hall of Valhalla",
+      "dataParsed": {
+        "plainName": "WCG_Neo Hall of Valhalla",
+        "plainNameVersioned": "WCG_Neo Hall of Valhalla",
+        "cleanName": "WCG_Neo Hall of Valhalla",
+        "cleanNameVersioned": "WCG_Neo Hall of Valhalla",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "mariovsabeja.rep"
+    },
+    {
+      "dataRaw": "\u0007Outsider SE \u00052.0",
+      "dataParsed": {
+        "plainName": "Outsider SE",
+        "plainNameVersioned": "Outsider SE 2.0",
+        "cleanName": "Outsider SE",
+        "cleanNameVersioned": "Outsider SE 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Stork vs Koll 2.rep"
+    },
+    {
+      "dataRaw": "\u0007Outsider \u00051.0",
+      "dataParsed": {
+        "plainName": "Outsider",
+        "plainNameVersioned": "Outsider 1.0",
+        "cleanName": "Outsider",
+        "cleanNameVersioned": "Outsider 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "[NC]YellOw vs Moon.rep"
+    },
+    {
+      "dataRaw": "\u0004신 \u0003청풍명월 \u00052.1",
+      "dataParsed": {
+        "plainName": "신 청풍명월",
+        "plainNameVersioned": "신 청풍명월 2.1",
+        "cleanName": "신 청풍명월",
+        "cleanNameVersioned": "신 청풍명월 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Light vs Hwasin.rep"
+    },
+    {
+      "dataRaw": "\u0007왕의 귀환 \u00051.1",
+      "dataParsed": {
+        "plainName": "왕의 귀환",
+        "plainNameVersioned": "왕의 귀환 1.1",
+        "cleanName": "왕의 귀환",
+        "cleanNameVersioned": "왕의 귀환 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "hyvaa vs Midas.rep"
+    },
+    {
+      "dataRaw": "MoonGlaive1.2",
+      "dataParsed": {
+        "plainName": "MoonGlaive",
+        "plainNameVersioned": "MoonGlaive 1.2",
+        "cleanName": "MoonGlaive",
+        "cleanNameVersioned": "MoonGlaive 1.2",
+        "version": "1.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "force[name] vs eagle 4.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Destination 1.1 OBS",
+      "dataParsed": {
+        "plainName": "| iCCup | Destination",
+        "plainNameVersioned": "| iCCup | Destination 1.1",
+        "cleanName": "Destination",
+        "cleanNameVersioned": "Destination 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": true,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "Baby v Paralyze.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Medusa 1.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Medusa",
+        "plainNameVersioned": "| iCCup | Medusa 1.1",
+        "cleanName": "Medusa",
+        "cleanNameVersioned": "Medusa 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "KT.MGW)Zero vs Rushgoon.rep"
+    },
+    {
+      "dataRaw": "\u0007P\u0006lasma \u00051.0",
+      "dataParsed": {
+        "plainName": "Plasma",
+        "plainNameVersioned": "Plasma 1.0",
+        "cleanName": "Plasma",
+        "cleanNameVersioned": "Plasma 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "July vs Kal.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Medusa 1.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Medusa",
+        "plainNameVersioned": "| iCCup | Medusa 1.0",
+        "cleanName": "Medusa",
+        "cleanNameVersioned": "Medusa 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "Beckham vs Diana- 3.rep"
+    },
+    {
+      "dataRaw": "\u0007Medusa\u00051.0",
+      "dataParsed": {
+        "plainName": "Medusa",
+        "plainNameVersioned": "Medusa 1.0",
+        "cleanName": "Medusa",
+        "cleanNameVersioned": "Medusa 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Soo[S.siR] vs Calm 1.rep"
+    },
+    {
+      "dataRaw": "\u0006[SaSin] \u0007Blue Storm  \u00041.2 v.AH",
+      "dataParsed": {
+        "plainName": "[SaSin] Blue Storm  1.2 v.AH",
+        "plainNameVersioned": "[SaSin] Blue Storm  1.2 v.AH",
+        "cleanName": "[SaSin] Blue Storm  1.2 v.AH",
+        "cleanNameVersioned": "[SaSin] Blue Storm  1.2 v.AH",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Sangho vs Force[name].rep"
+    },
+    {
+      "dataRaw": "\u0004Neo\u0007Medusa\u00052.1",
+      "dataParsed": {
+        "plainName": "NeoMedusa",
+        "plainNameVersioned": "NeoMedusa 2.1",
+        "cleanName": "NeoMedusa",
+        "cleanNameVersioned": "NeoMedusa 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "sea.kh vs mong[name] 1.rep"
+    },
+    {
+      "dataRaw": "\u0003Loki \u0005II",
+      "dataParsed": {
+        "plainName": "Loki II",
+        "plainNameVersioned": "Loki II",
+        "cleanName": "Loki II",
+        "cleanNameVersioned": "Loki II",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Bisu vs Firefist.rep"
+    },
+    {
+      "dataRaw": "\u0006신 \u0003백두대간 \u00052.4",
+      "dataParsed": {
+        "plainName": "신 백두대간",
+        "plainNameVersioned": "신 백두대간 2.4",
+        "cleanName": "신 백두대간",
+        "cleanNameVersioned": "신 백두대간 2.4",
+        "version": "2.4",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Violet vs tiny[S.G].rep"
+    },
+    {
+      "dataRaw": "\u0007K\u0006atrina\u00051.3",
+      "dataParsed": {
+        "plainName": "Katrina",
+        "plainNameVersioned": "Katrina 1.3",
+        "cleanName": "Katrina",
+        "cleanNameVersioned": "Katrina 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Mind vs Kal.rep"
+    },
+    {
+      "dataRaw": "\u0007<WCG>\u0004The Lost Temple",
+      "dataParsed": {
+        "plainName": "<WCG>The Lost Temple",
+        "plainNameVersioned": "<WCG>The Lost Temple",
+        "cleanName": "<WCG>The Lost Temple",
+        "cleanNameVersioned": "<WCG>The Lost Temple",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "BoxervsElky.rep"
+    },
+    {
+      "dataRaw": "\u0004Neo\u0007Medusa\u00052.0",
+      "dataParsed": {
+        "plainName": "NeoMedusa",
+        "plainNameVersioned": "NeoMedusa 2.0",
+        "cleanName": "NeoMedusa",
+        "cleanNameVersioned": "NeoMedusa 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "By.Barracks vs Force 2009.rep"
+    },
+    {
+      "dataRaw": "| iCCup | MoonGlaive 2.1",
+      "dataParsed": {
+        "plainName": "| iCCup | MoonGlaive",
+        "plainNameVersioned": "| iCCup | MoonGlaive 2.1",
+        "cleanName": "MoonGlaive",
+        "cleanNameVersioned": "MoonGlaive 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "ruian[gm] vs iu.rep"
+    },
+    {
+      "dataRaw": "\u0007Medusa\u00051.1",
+      "dataParsed": {
+        "plainName": "Medusa",
+        "plainNameVersioned": "Medusa 1.1",
+        "cleanName": "Medusa",
+        "cleanNameVersioned": "Medusa 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "sea.kh vs aka.arashi.rep"
+    },
+    {
+      "dataRaw": "\u0007R\u0006ush \u0007H\u0006our \u00053.1",
+      "dataParsed": {
+        "plainName": "Rush Hour",
+        "plainNameVersioned": "Rush Hour 3.1",
+        "cleanName": "Rush Hour",
+        "cleanNameVersioned": "Rush Hour 3.1",
+        "version": "3.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Much vs By.Hydra.rep"
+    },
+    {
+      "dataRaw": "\u0003B\u0004yzantium \u0002II \u00052.21",
+      "dataParsed": {
+        "plainName": "Byzantium II",
+        "plainNameVersioned": "Byzantium II 2.21",
+        "cleanName": "Byzantium II",
+        "cleanNameVersioned": "Byzantium II 2.21",
+        "version": "2.21",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Effort vs Iris.rep"
+    },
+    {
+      "dataRaw": "\u0003청풍명월 \u00050.93",
+      "dataParsed": {
+        "plainName": "청풍명월",
+        "plainNameVersioned": "청풍명월 0.93",
+        "cleanName": "청풍명월",
+        "cleanNameVersioned": "청풍명월 0.93",
+        "version": "0.93",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Kwanro vs sAviOr (7 vs 1).rep"
+    },
+    {
+      "dataRaw": "\u0006Neo \u0007Requiem \u00052.1",
+      "dataParsed": {
+        "plainName": "Neo Requiem",
+        "plainNameVersioned": "Neo Requiem 2.1",
+        "cleanName": "Neo Requiem",
+        "cleanNameVersioned": "Neo Requiem 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "sOo[S.siR] vs July 1.rep"
+    },
+    {
+      "dataRaw": "\u0006Beltway \u00051.0",
+      "dataParsed": {
+        "plainName": "Beltway",
+        "plainNameVersioned": "Beltway 1.0",
+        "cleanName": "Beltway",
+        "cleanNameVersioned": "Beltway 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "FlaSh vs By.herO 3.rep"
+    },
+    {
+      "dataRaw": "\u0007C\u0006olosseum\u00051.0",
+      "dataParsed": {
+        "plainName": "Colosseum",
+        "plainNameVersioned": "Colosseum 1.0",
+        "cleanName": "Colosseum",
+        "cleanNameVersioned": "Colosseum 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Violet vs By.Flash.rep"
+    },
+    {
+      "dataRaw": "\u0004Blue \u0007S\u0006torm \u00051.16",
+      "dataParsed": {
+        "plainName": "Blue Storm",
+        "plainNameVersioned": "Blue Storm 1.16",
+        "cleanName": "Blue Storm",
+        "cleanNameVersioned": "Blue Storm 1.16",
+        "version": "1.16",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "FlaSh vs Leta 1.rep"
+    },
+    {
+      "dataRaw": "\u0006폭풍의 \u0004언덕 \u00050.95",
+      "dataParsed": {
+        "plainName": "폭풍의 언덕",
+        "plainNameVersioned": "폭풍의 언덕 0.95",
+        "cleanName": "폭풍의 언덕",
+        "cleanNameVersioned": "폭풍의 언덕 0.95",
+        "version": "0.95",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "FlaSh vs Leta 2.rep"
+    },
+    {
+      "dataRaw": "\u0007Othello \u00050.991",
+      "dataParsed": {
+        "plainName": "Othello",
+        "plainNameVersioned": "Othello 0.991",
+        "cleanName": "Othello",
+        "cleanNameVersioned": "Othello 0.991",
+        "version": "0.991",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "FlaSh vs Leta 3.rep"
+    },
+    {
+      "dataRaw": "\u0006추풍령\u00051.0",
+      "dataParsed": {
+        "plainName": "추풍령",
+        "plainNameVersioned": "추풍령 1.0",
+        "cleanName": "추풍령",
+        "cleanNameVersioned": "추풍령 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "FlaSh vs Sangho.rep"
+    },
+    {
+      "dataRaw": "\u0006H\u0004oly\u0006W\u0004orld \u00051.1",
+      "dataParsed": {
+        "plainName": "HolyWorld",
+        "plainNameVersioned": "HolyWorld 1.1",
+        "cleanName": "HolyWorld",
+        "cleanNameVersioned": "HolyWorld 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Flash vs 815 2.rep"
+    },
+    {
+      "dataRaw": "\u0004Blue \u0007S\u0006torm \u00051.1",
+      "dataParsed": {
+        "plainName": "Blue Storm",
+        "plainNameVersioned": "Blue Storm 1.1",
+        "cleanName": "Blue Storm",
+        "cleanNameVersioned": "Blue Storm 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Mind vs TheRocK.rep"
+    },
+    {
+      "dataRaw": "\u0004몽\u0003환 \u00051.1",
+      "dataParsed": {
+        "plainName": "몽환",
+        "plainNameVersioned": "몽환 1.1",
+        "cleanName": "몽환",
+        "cleanNameVersioned": "몽환 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Flash vs Chojja.rep"
+    },
+    {
+      "dataRaw": "\u0006D\u0005esperado",
+      "dataParsed": {
+        "plainName": "Desperado",
+        "plainNameVersioned": "Desperado",
+        "cleanName": "Desperado",
+        "cleanNameVersioned": "Desperado",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Flash vs Ever)Z(aQua.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Heatbreak Ridge",
+      "dataParsed": {
+        "plainName": "| iCCup | Heatbreak Ridge",
+        "plainNameVersioned": "| iCCup | Heatbreak Ridge",
+        "cleanName": "Heatbreak Ridge",
+        "cleanNameVersioned": "Heatbreak Ridge",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "Violet vs WARMASTER.rep"
+    },
+    {
+      "dataRaw": "\u0003Un'\u0006Goro \u0007Crater \u00051.2",
+      "dataParsed": {
+        "plainName": "Un'Goro Crater",
+        "plainNameVersioned": "Un'Goro Crater 1.2",
+        "cleanName": "Un'Goro Crater",
+        "cleanNameVersioned": "Un'Goro Crater 1.2",
+        "version": "1.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Jaedong vs TheRock.rep"
+    },
+    {
+      "dataRaw": "The Lost Temple Game-Q.com",
+      "dataParsed": {
+        "plainName": "The Lost Temple Game-Q.com",
+        "plainNameVersioned": "The Lost Temple Game-Q.com",
+        "cleanName": "The Lost Temple Game-Q.com",
+        "cleanNameVersioned": "The Lost Temple Game-Q.com",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "FroZ vs DiDi.rep"
+    },
+    {
+      "dataRaw": "\u0006itsM\u0006e_\u0004P\u0003ython1.3\u0007(Ob)\u0005F!nal",
+      "dataParsed": {
+        "plainName": "itsMe_Python1.3(Ob)F!nal",
+        "plainNameVersioned": "itsMe_Python1.3(Ob)F!nal",
+        "cleanName": "itsMe_Python1.3(Ob)F!nal",
+        "cleanNameVersioned": "itsMe_Python1.3(Ob)F!nal",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Gloomy vs maejang.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Outsider",
+      "dataParsed": {
+        "plainName": "| iCCup | Outsider",
+        "plainNameVersioned": "| iCCup | Outsider",
+        "cleanName": "Outsider",
+        "cleanNameVersioned": "Outsider",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "issue vs rising[kal].rep"
+    },
+    {
+      "dataRaw": "\u0007Colosseum\u0006II\u00051.92",
+      "dataParsed": {
+        "plainName": "ColosseumII",
+        "plainNameVersioned": "ColosseumII 1.92",
+        "cleanName": "ColosseumII",
+        "cleanNameVersioned": "ColosseumII 1.92",
+        "version": "1.92",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Really vs Upmagic 2 (10vs2).rep"
+    },
+    {
+      "dataRaw": "\u0003청풍명월 \u00051.0",
+      "dataParsed": {
+        "plainName": "청풍명월",
+        "plainNameVersioned": "청풍명월 1.0",
+        "cleanName": "청풍명월",
+        "cleanNameVersioned": "청풍명월 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Light vs F.Monster (11vs5).rep"
+    },
+    {
+      "dataRaw": "\u0006추풍령\u00051.1",
+      "dataParsed": {
+        "plainName": "추풍령",
+        "plainNameVersioned": "추풍령 1.1",
+        "cleanName": "추풍령",
+        "cleanNameVersioned": "추풍령 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "History vs rOo.rep"
+    },
+    {
+      "dataRaw": "\u0003B\u0004yzantium \u0002II \u00052.2",
+      "dataParsed": {
+        "plainName": "Byzantium II",
+        "plainNameVersioned": "Byzantium II 2.2",
+        "cleanName": "Byzantium II",
+        "cleanNameVersioned": "Byzantium II 2.2",
+        "version": "2.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Really vs Upmagic 3.rep"
+    },
+    {
+      "dataRaw": "\u0007Athena \u0002II \u00052.0",
+      "dataParsed": {
+        "plainName": "Athena II",
+        "plainNameVersioned": "Athena II 2.0",
+        "cleanName": "Athena II",
+        "cleanNameVersioned": "Athena II 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Really vs Free 2.rep"
+    },
+    {
+      "dataRaw": "\u0006DTR.\u0007X\u0006[\u0007D\u0006estinatioN]\u0007SaSin",
+      "dataParsed": {
+        "plainName": "DTR.X[DestinatioN]SaSin",
+        "plainNameVersioned": "DTR.X[DestinatioN]SaSin",
+        "cleanName": "DTR.X[DestinatioN]SaSin",
+        "cleanNameVersioned": "DTR.X[DestinatioN]SaSin",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Wuk vs InTrO)BABO.rep"
+    },
+    {
+      "dataRaw": "\u0003Neo\u0006MoonGlaive\u00052.1",
+      "dataParsed": {
+        "plainName": "NeoMoonGlaive",
+        "plainNameVersioned": "NeoMoonGlaive 2.1",
+        "cleanName": "NeoMoonGlaive",
+        "cleanNameVersioned": "NeoMoonGlaive 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "icarus vs dreamjin.rep"
+    },
+    {
+      "dataRaw": "\u0001황\u0006혼의 \u0001그\u0006림자 \u00051.0",
+      "dataParsed": {
+        "plainName": "황혼의 그림자",
+        "plainNameVersioned": "황혼의 그림자 1.0",
+        "cleanName": "황혼의 그림자",
+        "cleanNameVersioned": "황혼의 그림자 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Jaedong vs HerO[Shield] 2.rep"
+    },
+    {
+      "dataRaw": "\u0003Jade \u00050.99",
+      "dataParsed": {
+        "plainName": "Jade",
+        "plainNameVersioned": "Jade 0.99",
+        "cleanName": "Jade",
+        "cleanNameVersioned": "Jade 0.99",
+        "version": "0.99",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Jaedong vs Light.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Blue Storm 1.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Blue Storm",
+        "plainNameVersioned": "| iCCup | Blue Storm 1.1",
+        "cleanName": "Blue Storm",
+        "cleanNameVersioned": "Blue Storm 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "Jangbi vs History 3.rep"
+    },
+    {
+      "dataRaw": "\u0007용\u0003오\u0004름 \u00050.92",
+      "dataParsed": {
+        "plainName": "용오름",
+        "plainNameVersioned": "용오름 0.92",
+        "cleanName": "용오름",
+        "cleanNameVersioned": "용오름 0.92",
+        "version": "0.92",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Jangbi vs Smart.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Tornado 2.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Tornado",
+        "plainNameVersioned": "| iCCup | Tornado 2.1",
+        "cleanName": "Tornado",
+        "cleanNameVersioned": "Tornado 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "Paralyze vs Clare 2.rep"
+    },
+    {
+      "dataRaw": "\u0007Destination \u00051.0",
+      "dataParsed": {
+        "plainName": "Destination",
+        "plainNameVersioned": "Destination 1.0",
+        "cleanName": "Destination",
+        "cleanNameVersioned": "Destination 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Sangho vs Suny.rep"
+    },
+    {
+      "dataRaw": "\u0007Athena \u00051.0",
+      "dataParsed": {
+        "plainName": "Athena",
+        "plainNameVersioned": "Athena 1.0",
+        "cleanName": "Athena",
+        "cleanNameVersioned": "Athena 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Really vs Suny.rep"
+    },
+    {
+      "dataRaw": "\u0003B\u0004yzantium \u00051.0",
+      "dataParsed": {
+        "plainName": "Byzantium",
+        "plainNameVersioned": "Byzantium 1.0",
+        "cleanName": "Byzantium",
+        "cleanNameVersioned": "Byzantium 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Really vs nbs.rep"
+    },
+    {
+      "dataRaw": "\u0007DTR\u0003[\u0004Destination1.1\u0003]\u0006ArtOf-",
+      "dataParsed": {
+        "plainName": "DTR[Destination1.1]ArtOf-",
+        "plainNameVersioned": "DTR[Destination1.1]ArtOf-",
+        "cleanName": "DTR[Destination1.1]ArtOf-",
+        "cleanNameVersioned": "DTR[Destination1.1]ArtOf-",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "id_neo.g vs P7GAB[Kal].rep"
+    },
+    {
+      "dataRaw": "\u0004FIShServer \u0007NeOxCLan 투혼\u0003[Ob]",
+      "dataParsed": {
+        "plainName": "FIShServer NeOxCLan 투혼",
+        "plainNameVersioned": "FIShServer NeOxCLan 투혼",
+        "cleanName": "FIShServer NeOxCLan 투혼[Ob]",
+        "cleanNameVersioned": "FIShServer NeOxCLan 투혼[Ob]",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "Ob"
+        ]
+      },
+      "filename": "Sky[kal] 1 vs Pusan 11.rep"
+    },
+    {
+      "dataRaw": "\u0007C\u0006olosseum\u00050.93",
+      "dataParsed": {
+        "plainName": "Colosseum",
+        "plainNameVersioned": "Colosseum 0.93",
+        "cleanName": "Colosseum",
+        "cleanNameVersioned": "Colosseum 0.93",
+        "version": "0.93",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Smart vs CuteBOy.rep"
+    },
+    {
+      "dataRaw": "\u0007[Op 9-] \u0005투혼 \u00051.3 (수동옵)",
+      "dataParsed": {
+        "plainName": "[Op 9-] 투혼",
+        "plainNameVersioned": "[Op 9-] 투혼 1.3",
+        "cleanName": "[Op 9-] 투혼 1.3 (수동옵)",
+        "cleanNameVersioned": "[Op 9-] 투혼 1.3 (수동옵) 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "수동옵"
+        ]
+      },
+      "filename": "Sonata[ArnC]@T vs nto`dobal.rep"
+    },
+    {
+      "dataRaw": "The Lost Temple_Gamei",
+      "dataParsed": {
+        "plainName": "The Lost Temple_Gamei",
+        "plainNameVersioned": "The Lost Temple_Gamei",
+        "cleanName": "The Lost Temple_Gamei",
+        "cleanNameVersioned": "The Lost Temple_Gamei",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Soul.R-nAVIZ[neox]sinbiT.rep"
+    },
+    {
+      "dataRaw": "\u0007IEF\u0006_\u0003Python 1.3",
+      "dataParsed": {
+        "plainName": "IEF_Python",
+        "plainNameVersioned": "IEF_Python 1.3",
+        "cleanName": "IEF_Python",
+        "cleanNameVersioned": "IEF_Python 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Stork vs Bisu 2.rep"
+    },
+    {
+      "dataRaw": "\u0006투혼(OB) 1.3 (Boni)",
+      "dataParsed": {
+        "plainName": "투혼(OB)",
+        "plainNameVersioned": "투혼(OB) 1.3",
+        "cleanName": "투혼(OB) 1.3 (Boni)",
+        "cleanNameVersioned": "투혼(OB) 1.3 (Boni) 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "Boni"
+        ]
+      },
+      "filename": "scat.pose vs Learn..so..fma.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Heartbreak Ridge 1.2",
+      "dataParsed": {
+        "plainName": "| iCCup | Heartbreak Ridge",
+        "plainNameVersioned": "| iCCup | Heartbreak Ridge 1.2",
+        "cleanName": "Heartbreak Ridge",
+        "cleanNameVersioned": "Heartbreak Ridge 1.2",
+        "version": "1.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "Violet(T) vs FlySoul[Micro].rep"
+    },
+    {
+      "dataRaw": "| iCCup | Outsider 2.0",
+      "dataParsed": {
+        "plainName": "| iCCup | Outsider",
+        "plainNameVersioned": "| iCCup | Outsider 2.0",
+        "cleanName": "Outsider",
+        "cleanNameVersioned": "Outsider 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "Violet (T) vs Mate_ra.rep"
+    },
+    {
+      "dataRaw": "\u0007L\u0005onginusⅡ",
+      "dataParsed": {
+        "plainName": "LonginusⅡ",
+        "plainNameVersioned": "LonginusⅡ",
+        "cleanName": "LonginusⅡ",
+        "cleanNameVersioned": "LonginusⅡ",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Violet vs aMeBa[S.G].rep"
+    },
+    {
+      "dataRaw": "\u0004B\u0001litz",
+      "dataParsed": {
+        "plainName": "Blitz",
+        "plainNameVersioned": "Blitz",
+        "cleanName": "Blitz",
+        "cleanNameVersioned": "Blitz",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Violet vs Style[Shield] 2.rep"
+    },
+    {
+      "dataRaw": "\u0004Hitch\u0003hiker\u00051.1",
+      "dataParsed": {
+        "plainName": "Hitchhiker",
+        "plainNameVersioned": "Hitchhiker 1.1",
+        "cleanName": "Hitchhiker",
+        "cleanNameVersioned": "Hitchhiker 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Violet vs maGma[S.G].rep"
+    },
+    {
+      "dataRaw": "| iCCup | Heartbreak Ridge 1.1",
+      "dataParsed": {
+        "plainName": "| iCCup | Heartbreak Ridge",
+        "plainNameVersioned": "| iCCup | Heartbreak Ridge 1.1",
+        "cleanName": "Heartbreak Ridge",
+        "cleanNameVersioned": "Heartbreak Ridge 1.1",
+        "version": "1.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "Violet vs NsP_flOwer.rep"
+    },
+    {
+      "dataRaw": "R - \u0004Point",
+      "dataParsed": {
+        "plainName": "R - Point",
+        "plainNameVersioned": "R - Point",
+        "cleanName": "R - Point",
+        "cleanNameVersioned": "R - Point",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Violet vs LaKe[Name].rep"
+    },
+    {
+      "dataRaw": "\u0007L\u0005onginus",
+      "dataParsed": {
+        "plainName": "Longinus",
+        "plainNameVersioned": "Longinus",
+        "cleanName": "Longinus",
+        "cleanNameVersioned": "Longinus",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Violet vs jjonga[3.33].rep"
+    },
+    {
+      "dataRaw": "신 \u0003개척\u0006시대 \u00052.1",
+      "dataParsed": {
+        "plainName": "신 개척시대",
+        "plainNameVersioned": "신 개척시대 2.1",
+        "cleanName": "신 개척시대",
+        "cleanNameVersioned": "신 개척시대 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Violet vs Ever)T(NanSu.rep"
+    },
+    {
+      "dataRaw": "\u0007Reverse \u0004Temple \u00051.0",
+      "dataParsed": {
+        "plainName": "Reverse Temple",
+        "plainNameVersioned": "Reverse Temple 1.0",
+        "cleanName": "Reverse Temple",
+        "cleanNameVersioned": "Reverse Temple 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Violet vs Sea.Pie.rep"
+    },
+    {
+      "dataRaw": "\u0004Neo \u0007F\u0005orte 2.1",
+      "dataParsed": {
+        "plainName": "Neo Forte",
+        "plainNameVersioned": "Neo Forte 2.1",
+        "cleanName": "Neo Forte",
+        "cleanNameVersioned": "Neo Forte 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Violet vs some zerg.rep"
+    },
+    {
+      "dataRaw": "PGT - Luna The Final [07]\r\u001f",
+      "dataParsed": {
+        "plainName": "PGT - Luna The Final [07]",
+        "plainNameVersioned": "PGT - Luna The Final [07]",
+        "cleanName": "PGT - Luna The Final [07]",
+        "cleanNameVersioned": "PGT - Luna The Final [07]",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Violet vs PuPuPu[Gamei].rep"
+    },
+    {
+      "dataRaw": "\u0007R\u0006ush \u0004Hour \u0002Ⅱ",
+      "dataParsed": {
+        "plainName": "Rush Hour Ⅱ",
+        "plainNameVersioned": "Rush Hour Ⅱ",
+        "cleanName": "Rush Hour Ⅱ",
+        "cleanNameVersioned": "Rush Hour Ⅱ",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Violet vs Pj.rep"
+    },
+    {
+      "dataRaw": "\u0007R\u0006ush \u0004Hour \u0002Ⅲ",
+      "dataParsed": {
+        "plainName": "Rush Hour Ⅲ",
+        "plainNameVersioned": "Rush Hour Ⅲ",
+        "cleanName": "Rush Hour Ⅲ",
+        "cleanNameVersioned": "Rush Hour Ⅲ",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "Violet vs hErb[Shield].rep"
+    },
+    {
+      "dataRaw": "PLU_\u0006Soul of Fighter \u00051.3",
+      "dataParsed": {
+        "plainName": "PLU_Soul of Fighter",
+        "plainNameVersioned": "PLU_Soul of Fighter 1.3",
+        "cleanName": "PLU_Soul of Fighter",
+        "cleanNameVersioned": "PLU_Soul of Fighter 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "zero vs jaystar1.rep"
+    },
+    {
+      "dataRaw": "PLU_\u0004Circuit \u0007Breakers \u00051.0",
+      "dataParsed": {
+        "plainName": "PLU_Circuit Breakers",
+        "plainNameVersioned": "PLU_Circuit Breakers 1.0",
+        "cleanName": "PLU_Circuit Breakers",
+        "cleanNameVersioned": "PLU_Circuit Breakers 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "zero vs jaystar2.rep"
+    },
+    {
+      "dataRaw": "PLU_\u0004Neo \u0007Jade\u0005 2.0",
+      "dataParsed": {
+        "plainName": "PLU_Neo Jade",
+        "plainNameVersioned": "PLU_Neo Jade 2.0",
+        "cleanName": "PLU_Neo Jade",
+        "cleanNameVersioned": "PLU_Neo Jade 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "bisu vs zero 3.rep"
+    },
+    {
+      "dataRaw": "\u0007<WCG>\u0004Hall of Valhalla",
+      "dataParsed": {
+        "plainName": "<WCG>Hall of Valhalla",
+        "plainNameVersioned": "<WCG>Hall of Valhalla",
+        "cleanName": "<WCG>Hall of Valhalla",
+        "cleanNameVersioned": "<WCG>Hall of Valhalla",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "gonia119vselky.rep"
+    },
+    {
+      "dataRaw": "\u0007WizClan투혼 \u00051.3",
+      "dataParsed": {
+        "plainName": "WizClan투혼",
+        "plainNameVersioned": "WizClan투혼 1.3",
+        "cleanName": "WizClan투혼",
+        "cleanNameVersioned": "WizClan투혼 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "gust vs [hon]o.rep"
+    },
+    {
+      "dataRaw": "\u0003Ak Guild \u0007투혼 \u0006[ob]",
+      "dataParsed": {
+        "plainName": "Ak Guild 투혼",
+        "plainNameVersioned": "Ak Guild 투혼",
+        "cleanName": "Ak Guild 투혼 [ob]",
+        "cleanNameVersioned": "Ak Guild 투혼 [ob]",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "ob"
+        ]
+      },
+      "filename": "jeak.dorasi vs AksiT.rep"
+    },
+    {
+      "dataRaw": "\u0007C-SPL\u0002_\u0003Destination 1.1_OB",
+      "dataParsed": {
+        "plainName": "C-SPL_Destination 1.1_OB",
+        "plainNameVersioned": "C-SPL_Destination 1.1_OB",
+        "cleanName": "C-SPL_Destination 1.1_OB",
+        "cleanNameVersioned": "C-SPL_Destination 1.1_OB",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "js vs ssak 3.rep"
+    },
+    {
+      "dataRaw": "\u0007C-SPL\u0002_\u0003Neo_Aztec 2.1_OB",
+      "dataParsed": {
+        "plainName": "C-SPL_Neo_Aztec 2.1_OB",
+        "plainNameVersioned": "C-SPL_Neo_Aztec 2.1_OB",
+        "cleanName": "C-SPL_Neo_Aztec 2.1_OB",
+        "cleanNameVersioned": "C-SPL_Neo_Aztec 2.1_OB",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "js vs ssak 4.rep"
+    },
+    {
+      "dataRaw": "\u0007C-SPL\u0002_\u0003Neo_Medusa 2.2_OB",
+      "dataParsed": {
+        "plainName": "C-SPL_Neo_Medusa 2.2_OB",
+        "plainNameVersioned": "C-SPL_Neo_Medusa 2.2_OB",
+        "cleanName": "C-SPL_Neo_Medusa 2.2_OB",
+        "cleanNameVersioned": "C-SPL_Neo_Medusa 2.2_OB",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "js vs ssak 5.rep"
+    },
+    {
+      "dataRaw": "| iCCup | Katrina 1.3",
+      "dataParsed": {
+        "plainName": "| iCCup | Katrina",
+        "plainNameVersioned": "| iCCup | Katrina 1.3",
+        "cleanName": "Katrina",
+        "cleanNameVersioned": "Katrina 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "keke vs SungEun.rep"
+    },
+    {
+      "dataRaw": "\u0006HSL \u0007그라운드제로\u0004 1.2",
+      "dataParsed": {
+        "plainName": "HSL 그라운드제로",
+        "plainNameVersioned": "HSL 그라운드제로 1.2",
+        "cleanName": "HSL 그라운드제로",
+        "cleanNameVersioned": "HSL 그라운드제로 1.2",
+        "version": "1.2",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "precious_lt vs zergman.rep"
+    },
+    {
+      "dataRaw": "\u0007Op BrOwn \u0006투혼 \u0002\u0004LAST",
+      "dataParsed": {
+        "plainName": "Op BrOwn 투혼 LAST",
+        "plainNameVersioned": "Op BrOwn 투혼 LAST",
+        "cleanName": "Op BrOwn 투혼 LAST",
+        "cleanNameVersioned": "Op BrOwn 투혼 LAST",
+        "version": null,
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "max.mapae vs sidepower.rep"
+    },
+    {
+      "dataRaw": "\u0007F\u0006un\u0007F\u0006un\u0007G\u0006ame \u0006신 추풍령\u00052.1",
+      "dataParsed": {
+        "plainName": "FunFunGame 신 추풍령",
+        "plainNameVersioned": "FunFunGame 신 추풍령 2.1",
+        "cleanName": "FunFunGame 신 추풍령",
+        "cleanNameVersioned": "FunFunGame 신 추풍령 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "sea.kh vs mong[name] 2.rep"
+    },
+    {
+      "dataRaw": "\u0006신 \u0007풍운 \u00052.1",
+      "dataParsed": {
+        "plainName": "신 풍운",
+        "plainNameVersioned": "신 풍운 2.1",
+        "cleanName": "신 풍운",
+        "cleanNameVersioned": "신 풍운 2.1",
+        "version": "2.1",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "shuttle vs sasin)snail.rep"
+    },
+    {
+      "dataRaw": "\u0007[pOkJu] \u0005투혼 \u00051.3 (수동옵)",
+      "dataParsed": {
+        "plainName": "[pOkJu] 투혼",
+        "plainNameVersioned": "[pOkJu] 투혼 1.3",
+        "cleanName": "[pOkJu] 투혼 1.3 (수동옵)",
+        "cleanNameVersioned": "[pOkJu] 투혼 1.3 (수동옵) 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "수동옵"
+        ]
+      },
+      "filename": "sorry vs family]t[gagda 2.rep"
+    },
+    {
+      "dataRaw": "| iCCup | ColosseumII 2.0 OBS",
+      "dataParsed": {
+        "plainName": "| iCCup | ColosseumII",
+        "plainNameVersioned": "| iCCup | ColosseumII 2.0",
+        "cleanName": "ColosseumII",
+        "cleanNameVersioned": "ColosseumII 2.0",
+        "version": "2.0",
+        "players": null,
+        "isObserverMap": true,
+        "misc": {
+          "isIccup": [
+            "| iCCup |"
+          ]
+        },
+        "tags": []
+      },
+      "filename": "sorry[kal] 8 vs nsp_terran.rep"
+    },
+    {
+      "dataRaw": "\u0007IEF\u0006_\u0003Troy 1.0",
+      "dataParsed": {
+        "plainName": "IEF_Troy",
+        "plainNameVersioned": "IEF_Troy 1.0",
+        "cleanName": "IEF_Troy",
+        "cleanNameVersioned": "IEF_Troy 1.0",
+        "version": "1.0",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "stork vs vulture 2.rep"
+    },
+    {
+      "dataRaw": "\u0003Jade \u00050.90",
+      "dataParsed": {
+        "plainName": "Jade",
+        "plainNameVersioned": "Jade 0.90",
+        "cleanName": "Jade",
+        "cleanNameVersioned": "Jade 0.90",
+        "version": "0.90",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": []
+      },
+      "filename": "ultra vs core[kal].rep"
+    },
+    {
+      "dataRaw": "MoDelClanː투혼 1.3 (킹옵)",
+      "dataParsed": {
+        "plainName": "MoDelClanː투혼",
+        "plainNameVersioned": "MoDelClanː투혼 1.3",
+        "cleanName": "MoDelClanː투혼 1.3 (킹옵)",
+        "cleanNameVersioned": "MoDelClanː투혼 1.3 (킹옵) 1.3",
+        "version": "1.3",
+        "players": null,
+        "isObserverMap": false,
+        "misc": {
+          "isIccup": null
+        },
+        "tags": [
+          "킹옵"
+        ]
+      },
+      "filename": "wyvern_lt vs ins2.pose.rep"
+    }
+  ]
+}
