@@ -34,6 +34,16 @@ The following color combinations are deemed to have poor visibility or contrast,
 <td><img src="./resources/swatch-previews/swatch-ingame-ffc4e4.png" width="32" height="12" alt="Preview for ingame swatch #0xffc4e4"></td><td>Pink</td><td>16</td>
 </tr>
 <tr>
+<td>Tan</td><td>10</td><td><img src="./resources/swatch-previews/swatch-ingame-ecc4b0.png" width="32" height="12" alt="Preview for ingame swatch #0xecc4b0"></td>
+<td>vs</td>
+<td><img src="./resources/swatch-previews/swatch-ingame-fcfc7c.png" width="32" height="12" alt="Preview for ingame swatch #0xfcfc7c"></td><td>Pale yellow</td><td>9</td>
+</tr>
+<tr>
+<td>Pale yellow</td><td>9</td><td><img src="./resources/swatch-previews/swatch-ingame-fcfc7c.png" width="32" height="12" alt="Preview for ingame swatch #0xfcfc7c"></td>
+<td>vs</td>
+<td><img src="./resources/swatch-previews/swatch-ingame-ffc4e4.png" width="32" height="12" alt="Preview for ingame swatch #0xffc4e4"></td><td>Pink</td><td>16</td>
+</tr>
+<tr>
 <td>Gray</td><td>22</td><td><img src="./resources/swatch-previews/swatch-ingame-808080.png" width="32" height="12" alt="Preview for ingame swatch #0x808080"></td>
 <td>vs</td>
 <td><img src="./resources/swatch-previews/swatch-ingame-3c3c3c.png" width="32" height="12" alt="Preview for ingame swatch #0x3c3c3c"></td><td>Black</td><td>23</td>
