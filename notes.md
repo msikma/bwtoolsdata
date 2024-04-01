@@ -58,5 +58,10 @@ The following color combinations are deemed to have poor visibility or contrast,
 <td>vs</td>
 <td><img src="./resources/swatch-previews/swatch-ingame-74a47c.png" width="32" height="12" alt="Preview for ingame swatch #0x74a47c"></td><td>Pale green</td><td>12</td>
 </tr>
+<tr>
+<td>Blue</td><td>1</td><td><img src="./resources/swatch-previews/swatch-ingame-0c48cc.png" width="32" height="12" alt="Preview for ingame swatch #0x0c48cc"></td>
+<td>vs</td>
+<td><img src="./resources/swatch-previews/swatch-ingame-0000e6.png" width="32" height="12" alt="Preview for ingame swatch #0x0000e6"></td><td>Navy</td><td>19</td>
+</tr>
 </tbody>
 </table>
