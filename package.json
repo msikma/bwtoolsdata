@@ -1,10 +1,10 @@
 {
-  "name": "sctoolsdata",
+  "name": "@dada78641/bwtoolsdata",
   "version": "0.1.5",
   "description": "A collection of StarCraft data used to help interpret replay and map files",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "files": [
     "index.js",
@@ -19,13 +19,11 @@
     "StarCraft: Remastered",
     "StarCraft: Brood War"
   ],
-  "homepage": "https://github.com/msikma/sctoolsdata",
-  "repository": "https://github.com/msikma/sctoolsdata",
+  "homepage": "https://github.com/msikma/bwtoolsdata",
+  "repository": "https://github.com/msikma/bwtoolsdata",
   "author": "Michiel Sikma <michiel@sikma.org>",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^27.0.6"
-  },
-  "dependencies": {
+    "jest": "^29.7.0"
   }
 }

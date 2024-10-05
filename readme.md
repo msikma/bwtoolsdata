@@ -1,6 +1,6 @@
-[![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/sctoolsdata.svg)](https://badge.fury.io/js/sctoolsdata)
+[![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/@dada78641%2Fbwtoolsdata.svg)](https://badge.fury.io/js/@dada78641%2Fbwtoolsdata)
 
-# sctoolsdata
+# @dada78641/bwtoolsdata
 
 A collection of StarCraft internal data used to help process replay and map files.
 
@@ -9,10 +9,10 @@ A collection of StarCraft internal data used to help process replay and map file
 This library is available via npm:
 
 ```
-npm i --save sctoolsdata
+npm i --save @dada78641/bwtoolsdata
 ```
 
-TODO: explain more about how this is used.
+Aside from raw data, this library contains a number of utilities for people working with StarCraft replay and map files.
 
 ## Reference
 
@@ -84,7 +84,7 @@ TODO.
 
 ### In-game colors
 
-Colors work quite inconsistently in StarCraft. There are two sets of color codes: one for briefing messages (and map names), and one for in-game chat messages. These each have their quirks that can be different between Brood War (v1.16.1 and below) and Remastered.
+Colors work quite inconsistently in StarCraft. There are two sets of color codes: one for briefing messages (and map names), and one for in-game chat messages. These each have their quirks that are different between Brood War (v1.16.1 and below) and Remastered.
 
 Here's a list of all colors:
 
@@ -222,7 +222,7 @@ E.g. for "Fastest", there are approximately 1000 / 42 = ~23.81 frames in a secon
 | Slower  | 111 | 9.009 | 37.8% |
 | Slowest | 167 | 5.988 | 25.1% |
 
-By far most replays use "Fastest" as the speed, but this map can be used for the rare case that isn't. In the very old days of StarCraft, the ladder speed setting was "Fast" by default, but this got changed to "Fastest" relatively early on.
+By far most replays use "Fastest" as the speed, but this table can be used for the rare case that isn't. In the very old days of StarCraft, the ladder speed setting was "Fast" by default, but this got changed to "Fastest" relatively early on.
 
 ## License
 
