@@ -1,6 +1,6 @@
 {
   "name": "@dada78641/bwtoolsdata",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "A collection of StarCraft data used to help interpret replay and map files",
   "main": "index.js",
   "scripts": {
