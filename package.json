@@ -1,10 +1,11 @@
 {
   "name": "@dada78641/bwtoolsdata",
-  "version": "0.1.6",
+  "version": "1.0.0",
   "description": "A collection of StarCraft data used to help interpret replay and map files",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "jest"
+    "test": "node --experimental-vm-modules ./node_modules/.bin/jest"
   },
   "files": [
     "index.js",
