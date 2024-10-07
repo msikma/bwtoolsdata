@@ -26,5 +26,8 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@fast-csv/parse": "^5.0.0"
   }
 }
