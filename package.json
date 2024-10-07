@@ -21,6 +21,9 @@
     "StarCraft: Remastered",
     "StarCraft: Brood War"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://github.com/msikma/bwtoolsdata",
   "repository": "https://github.com/msikma/bwtoolsdata",
   "author": "Michiel Sikma <michiel@sikma.org>",
