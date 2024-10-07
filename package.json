@@ -12,6 +12,7 @@
     "lib/",
     "resources/",
     "package.json",
+    "notes.md",
     "license.md",
     "readme.md"
   ],
