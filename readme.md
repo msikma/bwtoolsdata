@@ -246,74 +246,93 @@ Here's a list of all colors:
 
 ‡: Slot IDs 11, 14, 15 and 20 are not selectable as player colors (the color for 11 is used for the neutral player, however). 11 and 15 are still usable as text color. 14 and 20 are duplicates of Pale Yellow and Cerulean.
 
-A few of the player colors are unavailable on certain tilesets:
+### Tilesets
+
+The following are all available tileset types.
+
+A few of the aforementioned player colors are not pickable on certain tilesets (due to bad contrast).
 
 <table>
 <tbody>
 <tr>
 <th colspan="2" align="left">Tileset name</th>
+<th align="left">Internal name</th>
 <th align="left">ID</th>
 <th align="left">Disallowed colors</th>
 </tr>
 
 <tr>
 <td>Ash World</td>
-<td><img src="./resources/tileset-previews/tileset-ashworld.png" width="64" height="32" alt="Preview for tileset Ash World"></td>
+<td><img src="./resources/tileset-previews/tileset-ashworld.png" width="64" height="32" alt="Preview for the Ash World tileset"></td>
+<td>ashworld</td>
 <td>3</td>
 <td>Gray, Black</td>
 </tr>
 
 <tr>
 <td>Badlands</td>
-<td><img src="./resources/tileset-previews/tileset-badlands.png" width="64" height="32" alt="Preview for tileset Ash World"></td>
+<td><img src="./resources/tileset-previews/tileset-badlands.png" width="64" height="32" alt="Preview for the Badlands tileset"></td>
+<td>badlands</td>
 <td>0</td>
 <td>–</td>
 </tr>
 
 <tr>
 <td>Desert</td>
-<td><img src="./resources/tileset-previews/tileset-desert.png" width="64" height="32" alt="Preview for tileset Ash World"></td>
+<td><img src="./resources/tileset-previews/tileset-desert.png" width="64" height="32" alt="Preview for the Desert tileset"></td>
+<td>desert</td>
 <td>5</td>
 <td>Orange</td>
 </tr>
 
 <tr>
-<td>Ice</td>
-<td><img src="./resources/tileset-previews/tileset-arctic.png" width="64" height="32" alt="Preview for tileset Ash World"></td>
+<td>Ice†</td>
+<td><img src="./resources/tileset-previews/tileset-ice.png" width="64" height="32" alt="Preview for the Ice tileset"></td>
+<td>ice</td>
 <td>6</td>
 <td>White</td>
 </tr>
 
 <tr>
-<td>Installation</td>
-<td><img src="./resources/tileset-previews/tileset-installation.png" width="64" height="32" alt="Preview for tileset Ash World"></td>
+<td>Installation‡</td>
+<td><img src="./resources/tileset-previews/tileset-installation.png" width="64" height="32" alt="Preview for the Installation tileset"></td>
+<td>installation</td>
 <td>2</td>
 <td>Blue, Navy, Bluish gray</td>
 </tr>
 
 <tr>
 <td>Jungle World</td>
-<td><img src="./resources/tileset-previews/tileset-jungle.png" width="64" height="32" alt="Preview for tileset Ash World"></td>
+<td><img src="./resources/tileset-previews/tileset-jungle.png" width="64" height="32" alt="Preview for the Jungle World tileset"></td>
+<td>jungle</td>
 <td>4</td>
 <td>–</td>
 </tr>
 
 <tr>
 <td>Space Platform</td>
-<td><img src="./resources/tileset-previews/tileset-space_platform.png" width="64" height="32" alt="Preview for tileset Ash World"></td>
+<td><img src="./resources/tileset-previews/tileset-platform.png" width="64" height="32" alt="Preview for the Space Platform tileset"></td>
+<td>platform</td>
 <td>1</td>
 <td>Gray, Black</td>
 </tr>
 
 <tr>
 <td>Twilight</td>
-<td><img src="./resources/tileset-previews/tileset-twilight.png" width="64" height="32" alt="Preview for tileset Ash World"></td>
+<td><img src="./resources/tileset-previews/tileset-twilight.png" width="64" height="32" alt="Preview for the Twilight tileset"></td>
+<td>twilight</td>
 <td>7</td>
 <td>Bluish gray</td>
 </tr>
 
 </tbody>
 </table>
+
+†: Also called "Arctic" in the community.
+
+‡: The Installation tileset is only used in the campaign and does not support regular custom games.
+
+The internal names are the names used by the game files themselves, whereas the proper names are taken from the original Brood War map editor.
 
 ### Game speed
 
@@ -331,7 +350,7 @@ E.g. for "Fastest", there are approximately 1000 / 42 = ~23.81 frames in a secon
 | Slower  | 111 | 9.009 | 37.8% |
 | Slowest | 167 | 5.988 | 25.1% |
 
-By far most replays use "Fastest" as the speed, but this table can be used for the rare case that isn't. In the very old days of StarCraft, the ladder speed setting was "Fast" by default, but this got changed to "Fastest" relatively early on.
+By far most replays use "Fastest" as the speed, but this table can be used for the rare cases that aren't. In the very old days of StarCraft, the ladder speed setting was "Fast" by default, but this got changed to "Fastest" relatively early on.
 
 ## Notes
 
