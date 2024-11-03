@@ -296,7 +296,7 @@ A few of the aforementioned player colors are not pickable on certain tilesets (
 <tr>
 <td>Installation‡</td>
 <td><img src="./resources/tileset-previews/tileset-installation.png" width="64" height="32" alt="Preview for the Installation tileset"></td>
-<td>installation</td>
+<td>install</td>
 <td>2</td>
 <td>Blue, Navy, Bluish gray</td>
 </tr>
