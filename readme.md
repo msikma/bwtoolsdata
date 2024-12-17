@@ -1,195 +1,14 @@
-[![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/@dada78641%2Fbwtoolsdata.svg)](https://badge.fury.io/js/@dada78641%2Fbwtoolsdata)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/) [![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/@dada78641%2Fbwtoolsdata.svg)](https://badge.fury.io/js/@dada78641%2Fbwtoolsdata)
 
 # @dada78641/bwtoolsdata
 
-A collection of StarCraft internal data used to help process replay and map files.
+Collection of Brood War data and functions used to help interpret replay and map files.
 
 ## Usage
 
-This library is available via npm:
+This library recently got rewritten and I haven't documented the new interface yet.
 
-```
-npm i --save @dada78641/bwtoolsdata
-```
-
-Aside from raw data, this library contains a number of utilities for people working with StarCraft replay and map files.
-
-## Reference
-
-**Function:**
-
-```js
-framesToMs(frames[, speed])
-```
-
-**Parameters:**
-
-* `frames` **number**\
-  number of in-game frames per second
-* `speed` **string** (default: *"fastest"*)\
-  game speed (virtually always "fastest")
-
-**Returns:**
-
-* **number**\
-  the number of milliseconds representing the duration of the game frames
-
-Used to get timestamps of game events for a given game speed. For example, this can be used to display a timestamp for a chat message, or to show the duration of a game.
-
-----
-
-**Function:**
-
-```js
-sortRaces(raceA, raceB)
-```
-
-**Parameters:**
-
-* `raceA` **string**\
-  a Brood War race string ("T", "Z", "P")
-* `raceB` **string**\
-  a Brood War race string ("T", "Z", "P")
-
-**Returns:**
-
-* **number**\
-  -1, 0, or 1 (use as `sort()` compare function)
-
-Sorts races according to which is the "active" race in the matchup.
-
-Other than mirror matchups, this produces either `['Z', 'P']`, `['P', 'T']` or `['T', 'Z']`. Any letter other than {Z, P, T}, e.g. 'R' for random, is placed at the end of the list.
-
-This should generally only be used either for sorting teams, or for 1v1 matchups. It can be used as a stable matchup indicator, so that e.g. ZvP and PvZ matchups are all sorted under the same label rather than under two different labels.
-
-----
-
-**Function:**
-
-```js
-parseMapName(mapName)
-```
-
-**Parameters:**
-
-* `mapName` **string**\
-  a raw map name (from a map or replay file)
-
-**Returns:**
-
-* **object**\
-  map name information and metadata
-
-Parses a map name and returns a cleaned map name and an object of metadata. This is designed to produce a more "presentable" name for a given map, without things like version numbers, starting location counts or clan tags.
-
-The metadata returned includes a version, a list of tags, and an object of miscellaneous tags, depending on what is found.
-
-----
-
-**Function:**
-
-```js
-getSwatchFromSlotID(id)
-```
-
-**Parameters:**
-
-* `id` **number**\
-  slot ID to return the color for
-
-**Returns:**
-
-* **string**\
-  swatch name for the color associated with that player slot ID
-
-Every player ID has a default color; for example, player 1 is red, player 2 is blue, etc. This function is used to return the color swatch name associated with a given ID.
-
-----
-
-**Function:**
-
-```js
-stripEscapeCodes(string)
-```
-
-**Parameters:**
-
-* `string` **number**\
-  input string
-
-**Returns:**
-
-* **string**\
-  the string, with Brood War escape codes stripped out
-
-Brood War reuses several ASCII invisible escape sequences, e.g. for setting colors. This function strips them out.
-
-----
-**Function:**
-
-```js
-getSwitchedSwatch(teamID, matchTypeID)
-```
-
-**Parameters:**
-
-* `teamID` **number**\
-  team ID of the player
-* `matchTypeID` **number**\
-  replay game type ID (e.g. 0x0f for Top vs Bottom)
-
-**Returns:**
-
-* **string**\
-  swatch name of the color a player gets when swatches are swapped when viewing a replay
-
-Normally, when watching a replay, you can see the player's original team color; when hitting Shift+Tab, this can be changed to a set of default colors with better visibility.
-
-However, this only works correctly when the right match type is set (e.g. Top vs Bottom). This function tells you what the colors will be after enabling color swapping.
-
-----
-
-**Function:**
-
-```js
-getColorFromSwatch(swatch[, returnType])
-```
-
-**Parameters:**
-
-* `swatch` **string**\
-  swatch name to return the color value for
-* `returnType` **string<"hex" | "int">** (default: *"hex"*)\
-  type of value to return; either a hex string or a number
-
-**Returns:**
-
-* **string&nbsp;|&nbsp;number**\
-  the color value of the given swatch name
-
-This function can be used to get the actual colors to be displayed for a given swatch (e.g. `"paleBlue"` will return `"#b8b8e8"`).
-
-----
-
-**Function:**
-
-```js
-getSwatchFromSlotID(slotID)
-```
-
-**Parameters:**
-
-* `slotID` **string**\
-  a number from 0-23
-
-**Returns:**
-
-* **string**\
-  color swatch name of the given ID
-
-Each player ID has a predetermined color; red, blue, teal, purple, and so on. This returns the swatch name of a given ID.
-
-----
+See src/lib/index.ts for the user facing functions you'll want to import.
 
 ### In-game colors
 
@@ -352,10 +171,6 @@ E.g. for "Fastest", there are approximately 1000 / 42 = ~23.81 frames in a secon
 
 By far most replays use "Fastest" as the speed, but this table can be used for the rare cases that aren't. In the very old days of StarCraft, the ladder speed setting was "Fast" by default, but this got changed to "Fastest" relatively early on.
 
-## Notes
-
-This library includes code for converting in-game text with escape codes to other representations (terminal escape codes, HTML). It's currently undocumented due to how experimental it is. See `lib/color` for more information.
-
 ## License
 
-MIT license
+MIT licensed.

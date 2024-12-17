@@ -1,0 +1,5807 @@
+[
+  {
+    "rawMapName": "\u0003Neo Sylphid \u00052.0",
+    "cleanMapName": {
+      "cleanName": "Neo Sylphid",
+      "cleanNameWithVersion": "Neo Sylphid 2.0",
+      "partiallyCleanName": "Neo Sylphid",
+      "partiallyCleanNameWithVersion": "Neo Sylphid 2.0",
+      "originalName": "Neo Sylphid 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "cpl s8 playoffs w3 Vint_vs_ingo505_G2.rep"
+  },
+  {
+    "rawMapName": "(2)Butter 2.0b",
+    "cleanMapName": {
+      "cleanName": "Butter",
+      "cleanNameWithVersion": "Butter 2.0b",
+      "partiallyCleanName": "Butter",
+      "partiallyCleanNameWithVersion": "Butter 2.0b",
+      "originalName": "(2)Butter 2.0b",
+      "metadata": {
+        "version": "2.0b",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "cpl s8 regular w6 EskiyaPRIME_vs_ExAmazon_G1.rep"
+  },
+  {
+    "rawMapName": "\u0007투혼 \u00051.3",
+    "cleanMapName": {
+      "cleanName": "투혼",
+      "cleanNameWithVersion": "투혼 1.3",
+      "partiallyCleanName": "투혼",
+      "partiallyCleanNameWithVersion": "투혼 1.3",
+      "originalName": "투혼 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "zergman vs minty.special.rep"
+  },
+  {
+    "rawMapName": "\u0004신 \u0007단장의 \u0006능선 \u00052.1",
+    "cleanMapName": {
+      "cleanName": "신 단장의 능선",
+      "cleanNameWithVersion": "신 단장의 능선 2.1",
+      "partiallyCleanName": "신 단장의 능선",
+      "partiallyCleanNameWithVersion": "신 단장의 능선 2.1",
+      "originalName": "신 단장의 능선 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "vsocnk1ZNsP_IUT_4.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Empire of the Sun 2.0",
+    "cleanMapName": {
+      "cleanName": "Empire of the Sun",
+      "cleanNameWithVersion": "Empire of the Sun 2.0",
+      "partiallyCleanName": "Empire of the Sun",
+      "partiallyCleanNameWithVersion": "Empire of the Sun 2.0",
+      "originalName": "| iCCup | Empire of the Sun 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3505 LexuZ ZeusT LRMIZ DaiZ.rep"
+  },
+  {
+    "rawMapName": "\u0006Neo \u0003Jade \u00052.0",
+    "cleanMapName": {
+      "cleanName": "Neo Jade",
+      "cleanNameWithVersion": "Neo Jade 2.0",
+      "partiallyCleanName": "Neo Jade",
+      "partiallyCleanNameWithVersion": "Neo Jade 2.0",
+      "originalName": "Neo Jade 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "ever)p(Pianist vs snail.rep"
+  },
+  {
+    "rawMapName": "| iCCup | ColosseumII 2.0",
+    "cleanMapName": {
+      "cleanName": "ColosseumII",
+      "cleanNameWithVersion": "ColosseumII 2.0",
+      "partiallyCleanName": "ColosseumII",
+      "partiallyCleanNameWithVersion": "ColosseumII 2.0",
+      "originalName": "| iCCup | ColosseumII 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "Violet vs Ever)T(Reality 11.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Python 1.3",
+    "cleanMapName": {
+      "cleanName": "Python",
+      "cleanNameWithVersion": "Python 1.3",
+      "partiallyCleanName": "Python",
+      "partiallyCleanNameWithVersion": "Python 1.3",
+      "originalName": "| iCCup | Python 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "mvp vs tzeentch.rep"
+  },
+  {
+    "rawMapName": "\u0006Icarus \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Icarus",
+      "cleanNameWithVersion": "Icarus 1.0",
+      "partiallyCleanName": "Icarus",
+      "partiallyCleanNameWithVersion": "Icarus 1.0",
+      "originalName": "Icarus 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "vsocnk1ZEver)T(ShineeT_2.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Fighting Spirit 1.3",
+    "cleanMapName": {
+      "cleanName": "Fighting Spirit",
+      "cleanNameWithVersion": "Fighting Spirit 1.3",
+      "partiallyCleanName": "Fighting Spirit",
+      "partiallyCleanNameWithVersion": "Fighting Spirit 1.3",
+      "originalName": "| iCCup | Fighting Spirit 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "zerg[kal] vs minus)mvp 2.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Jade 1.0",
+    "cleanMapName": {
+      "cleanName": "Jade",
+      "cleanNameWithVersion": "Jade 1.0",
+      "partiallyCleanName": "Jade",
+      "partiallyCleanNameWithVersion": "Jade 1.0",
+      "originalName": "| iCCup | Jade 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3963 NeOxScanT GtSemihP.rep"
+  },
+  {
+    "rawMapName": "\u0006Hunters\u0003_KeSPA \u00051.4",
+    "cleanMapName": {
+      "cleanName": "Hunters",
+      "cleanNameWithVersion": "Hunters 1.4",
+      "partiallyCleanName": "Hunters",
+      "partiallyCleanNameWithVersion": "Hunters 1.4",
+      "originalName": "Hunters_KeSPA 1.4",
+      "metadata": {
+        "version": "1.4",
+        "tags": [],
+        "isObserverMap": false,
+        "isKeSPA": true
+      }
+    },
+    "srcFilename": "4v4 [neox]hwangsoT[NEOX]GUT.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Electric Circuit 2.1",
+    "cleanMapName": {
+      "cleanName": "Electric Circuit",
+      "cleanNameWithVersion": "Electric Circuit 2.1",
+      "partiallyCleanName": "Electric Circuit",
+      "partiallyCleanNameWithVersion": "Electric Circuit 2.1",
+      "originalName": "| iCCup | Electric Circuit 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "6188367_Game_2.rep"
+  },
+  {
+    "rawMapName": "\u0005E\u0006l\u0005e\u0006c\u0005t\u0006r\u0005i\u0006c\u0005 C\u0006i\u0005r\u0006c\u0005u\u0006i\u0005t \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Electric Circuit",
+      "cleanNameWithVersion": "Electric Circuit 1.0",
+      "partiallyCleanName": "Electric Circuit",
+      "partiallyCleanNameWithVersion": "Electric Circuit 1.0",
+      "originalName": "Electric Circuit 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "mahell vs iops..wing.rep"
+  },
+  {
+    "rawMapName": "\u0007피의 \u0006능선 \u00051.2",
+    "cleanMapName": {
+      "cleanName": "피의 능선",
+      "cleanNameWithVersion": "피의 능선 1.2",
+      "partiallyCleanName": "피의 능선",
+      "partiallyCleanNameWithVersion": "피의 능선 1.2",
+      "originalName": "피의 능선 1.2",
+      "metadata": {
+        "version": "1.2",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "lyh vs shine[kal] 2.rep"
+  },
+  {
+    "rawMapName": "\u0007저격\u0006능선 \u00051.0",
+    "cleanMapName": {
+      "cleanName": "저격능선",
+      "cleanNameWithVersion": "저격능선 1.0",
+      "partiallyCleanName": "저격능선",
+      "partiallyCleanNameWithVersion": "저격능선 1.0",
+      "originalName": "저격능선 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "ssinz vs SamA[ScM].rep"
+  },
+  {
+    "rawMapName": "\u0003Circuit Breakers \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Circuit Breakers",
+      "cleanNameWithVersion": "Circuit Breakers 1.0",
+      "partiallyCleanName": "Circuit Breakers",
+      "partiallyCleanNameWithVersion": "Circuit Breakers 1.0",
+      "originalName": "Circuit Breakers 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "zerg[kal] vs candy.rep"
+  },
+  {
+    "rawMapName": "\u0003Jade \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Jade",
+      "cleanNameWithVersion": "Jade 1.0",
+      "partiallyCleanName": "Jade",
+      "partiallyCleanNameWithVersion": "Jade 1.0",
+      "originalName": "Jade 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "sexy[fou] vs rare_lt.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Othello 1.1",
+    "cleanMapName": {
+      "cleanName": "Othello",
+      "cleanNameWithVersion": "Othello 1.1",
+      "partiallyCleanName": "Othello",
+      "partiallyCleanNameWithVersion": "Othello 1.1",
+      "originalName": "| iCCup | Othello 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "sas.DrawP_galfordP_to5bo.rep"
+  },
+  {
+    "rawMapName": "\u0003N\u0004eo \u0006Aztec\u00052.1",
+    "cleanMapName": {
+      "cleanName": "Neo Aztec",
+      "cleanNameWithVersion": "Neo Aztec 2.1",
+      "partiallyCleanName": "Neo Aztec",
+      "partiallyCleanNameWithVersion": "Neo Aztec 2.1",
+      "originalName": "Neo Aztec2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "ssinz vs jy_lt 2.rep"
+  },
+  {
+    "rawMapName": "\u0003La \u0006Mancha \u00051.1",
+    "cleanMapName": {
+      "cleanName": "La Mancha",
+      "cleanNameWithVersion": "La Mancha 1.1",
+      "partiallyCleanName": "La Mancha",
+      "partiallyCleanNameWithVersion": "La Mancha 1.1",
+      "originalName": "La Mancha 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "ssinz vs jy_lt 1.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Grand Line SE 2.2",
+    "cleanMapName": {
+      "cleanName": "Grand Line SE",
+      "cleanNameWithVersion": "Grand Line SE 2.2",
+      "partiallyCleanName": "Grand Line SE",
+      "partiallyCleanNameWithVersion": "Grand Line SE 2.2",
+      "originalName": "| iCCup | Grand Line SE 2.2",
+      "metadata": {
+        "version": "2.2",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3710 aGdynaP HatcheryP.rep"
+  },
+  {
+    "rawMapName": "\u0004신 \u0007피의 \u0006능선 \u00052.1",
+    "cleanMapName": {
+      "cleanName": "신 피의 능선",
+      "cleanNameWithVersion": "신 피의 능선 2.1",
+      "partiallyCleanName": "신 피의 능선",
+      "partiallyCleanNameWithVersion": "신 피의 능선 2.1",
+      "originalName": "신 피의 능선 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "wyvern_lt vs [hon]tasy.rep"
+  },
+  {
+    "rawMapName": "\u0007[Op 9-] \u0005투혼 \u00051.3 (옵)",
+    "cleanMapName": {
+      "cleanName": "[Op 9-] 투혼",
+      "cleanNameWithVersion": "[Op 9-] 투혼 1.3",
+      "partiallyCleanName": "[Op 9-] 투혼 1.3 (옵)",
+      "partiallyCleanNameWithVersion": "[Op 9-] 투혼 1.3 (옵) 1.3",
+      "originalName": "[Op 9-] 투혼 1.3 (옵)",
+      "metadata": {
+        "version": "1.3",
+        "tags": [
+          "옵"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1885 Mind vs herO.rep"
+  },
+  {
+    "rawMapName": "eSpi.FightingSpirits(Ob)",
+    "cleanMapName": {
+      "cleanName": "eSpi.FightingSpirits",
+      "cleanNameWithVersion": "eSpi.FightingSpirits",
+      "partiallyCleanName": "eSpi.FightingSpirits",
+      "partiallyCleanNameWithVersion": "eSpi.FightingSpirits",
+      "originalName": "eSpi.FightingSpirits(Ob)",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": true
+      }
+    },
+    "srcFilename": "0012 Bizzy vs Sziky.rep"
+  },
+  {
+    "rawMapName": "\u0007Super ★ 빠른무한",
+    "cleanMapName": {
+      "cleanName": "Super ★ 빠른무한",
+      "cleanNameWithVersion": "Super ★ 빠른무한",
+      "partiallyCleanName": "Super ★ 빠른무한",
+      "partiallyCleanNameWithVersion": "Super ★ 빠른무한",
+      "originalName": "Super ★ 빠른무한",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "3v3 SinHwa.rimePSinHwa.SinT.rep"
+  },
+  {
+    "rawMapName": "\u0003Jade \u00051.1",
+    "cleanMapName": {
+      "cleanName": "Jade",
+      "cleanNameWithVersion": "Jade 1.1",
+      "partiallyCleanName": "Jade",
+      "partiallyCleanNameWithVersion": "Jade 1.1",
+      "originalName": "Jade 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "3856 sasDP NeOxT sasLZ sasP.rep"
+  },
+  {
+    "rawMapName": "The_Hunters KeSPA STXSouLTeam",
+    "cleanMapName": {
+      "cleanName": "The_Hunters KeSPA STXSouLTeam",
+      "cleanNameWithVersion": "The_Hunters KeSPA STXSouLTeam",
+      "partiallyCleanName": "The_Hunters KeSPA STXSouLTeam",
+      "partiallyCleanNameWithVersion": "The_Hunters KeSPA STXSouLTeam",
+      "originalName": "The_Hunters KeSPA STXSouLTeam",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "3v3 hwang-hyojinZMinus)orzZ.rep"
+  },
+  {
+    "rawMapName": "\u0007Destination \u00051.1",
+    "cleanMapName": {
+      "cleanName": "Destination",
+      "cleanNameWithVersion": "Destination 1.1",
+      "partiallyCleanName": "Destination",
+      "partiallyCleanNameWithVersion": "Destination 1.1",
+      "originalName": "Destination 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "trap vs lx-3.rep"
+  },
+  {
+    "rawMapName": "\u0004Neo\u0007Medusa\u00052.2",
+    "cleanMapName": {
+      "cleanName": "NeoMedusa",
+      "cleanNameWithVersion": "NeoMedusa 2.2",
+      "partiallyCleanName": "NeoMedusa",
+      "partiallyCleanNameWithVersion": "NeoMedusa 2.2",
+      "originalName": "NeoMedusa2.2",
+      "metadata": {
+        "version": "2.2",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Light vs July.rep"
+  },
+  {
+    "rawMapName": "\u0005Python 1.3",
+    "cleanMapName": {
+      "cleanName": "Python",
+      "cleanNameWithVersion": "Python 1.3",
+      "partiallyCleanName": "Python",
+      "partiallyCleanNameWithVersion": "Python 1.3",
+      "originalName": "Python 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "vsocnk1Zhochi.sT.rep"
+  },
+  {
+    "rawMapName": "\u0003Tau \u0006Cross \u00051.1",
+    "cleanMapName": {
+      "cleanName": "Tau Cross",
+      "cleanNameWithVersion": "Tau Cross 1.1",
+      "partiallyCleanName": "Tau Cross",
+      "partiallyCleanNameWithVersion": "Tau Cross 1.1",
+      "originalName": "Tau Cross 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "trap vs lx-4.rep"
+  },
+  {
+    "rawMapName": "\u0006투혼 1.3 (OB) TB",
+    "cleanMapName": {
+      "cleanName": "투혼 1.3 (OB) TB",
+      "cleanNameWithVersion": "투혼 1.3 (OB) TB",
+      "partiallyCleanName": "투혼 1.3 (OB) TB",
+      "partiallyCleanNameWithVersion": "투혼 1.3 (OB) TB",
+      "originalName": "투혼 1.3 (OB) TB",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "loveuP holemanHyOZ.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Longinus",
+    "cleanMapName": {
+      "cleanName": "Longinus",
+      "cleanNameWithVersion": "Longinus",
+      "partiallyCleanName": "Longinus",
+      "partiallyCleanNameWithVersion": "Longinus",
+      "originalName": "| iCCup | Longinus",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "reps)gagT_sas.DrawP.rep"
+  },
+  {
+    "rawMapName": "\u0006HSL \u0007서킷브레이커\u0004 1.0",
+    "cleanMapName": {
+      "cleanName": "HSL 서킷브레이커",
+      "cleanNameWithVersion": "HSL 서킷브레이커 1.0",
+      "partiallyCleanName": "HSL 서킷브레이커",
+      "partiallyCleanNameWithVersion": "HSL 서킷브레이커 1.0",
+      "originalName": "HSL 서킷브레이커 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "0108 Hiya vs Zergman.rep"
+  },
+  {
+    "rawMapName": "\u0006HSL \u0007신피의능선\u0004 2.1",
+    "cleanMapName": {
+      "cleanName": "HSL 신피의능선",
+      "cleanNameWithVersion": "HSL 신피의능선 2.1",
+      "partiallyCleanName": "HSL 신피의능선",
+      "partiallyCleanNameWithVersion": "HSL 신피의능선 2.1",
+      "originalName": "HSL 신피의능선 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "0028 hiya vs pusan.rep"
+  },
+  {
+    "rawMapName": "\u0006Hunters\u0003_KeSPA \u00051.3",
+    "cleanMapName": {
+      "cleanName": "Hunters",
+      "cleanNameWithVersion": "Hunters 1.3",
+      "partiallyCleanName": "Hunters",
+      "partiallyCleanNameWithVersion": "Hunters 1.3",
+      "originalName": "Hunters_KeSPA 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false,
+        "isKeSPA": true
+      }
+    },
+    "srcFilename": "3v3 Chulmin.JaJiZ[neox]hwaT.rep"
+  },
+  {
+    "rawMapName": "\u0004신 \u0007저격\u0006능선 \u00052.0",
+    "cleanMapName": {
+      "cleanName": "신 저격능선",
+      "cleanNameWithVersion": "신 저격능선 2.0",
+      "partiallyCleanName": "신 저격능선",
+      "partiallyCleanNameWithVersion": "신 저격능선 2.0",
+      "originalName": "신 저격능선 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "shuttle vs by.hero 3.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Sniper Ridge 1.0",
+    "cleanMapName": {
+      "cleanName": "Sniper Ridge",
+      "cleanNameWithVersion": "Sniper Ridge 1.0",
+      "partiallyCleanName": "Sniper Ridge",
+      "partiallyCleanNameWithVersion": "Sniper Ridge 1.0",
+      "originalName": "| iCCup | Sniper Ridge 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "2596 iFuTT ScanP nizzZ iFUZ.rep"
+  },
+  {
+    "rawMapName": "\u0004[gm] \u0006투혼 \u00071.3",
+    "cleanMapName": {
+      "cleanName": "투혼",
+      "cleanNameWithVersion": "투혼 1.3",
+      "partiallyCleanName": "[gm] 투혼",
+      "partiallyCleanNameWithVersion": "[gm] 투혼 1.3",
+      "originalName": "[gm] 투혼 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [
+          "gm"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "shuttle vs savior 3.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Aztec 2.1",
+    "cleanMapName": {
+      "cleanName": "Aztec",
+      "cleanNameWithVersion": "Aztec 2.1",
+      "partiallyCleanName": "Aztec",
+      "partiallyCleanNameWithVersion": "Aztec 2.1",
+      "originalName": "| iCCup | Aztec 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3820 HatcheryZ lamboP.rep"
+  },
+  {
+    "rawMapName": "\u0006HSL \u0007투혼\u0004 1.3",
+    "cleanMapName": {
+      "cleanName": "HSL 투혼",
+      "cleanNameWithVersion": "HSL 투혼 1.3",
+      "partiallyCleanName": "HSL 투혼",
+      "partiallyCleanNameWithVersion": "HSL 투혼 1.3",
+      "originalName": "HSL 투혼 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "0029 hiya vs pusan.rep"
+  },
+  {
+    "rawMapName": "\u0007A\u0006rcadia II",
+    "cleanMapName": {
+      "cleanName": "Arcadia II",
+      "cleanNameWithVersion": "Arcadia II",
+      "partiallyCleanName": "Arcadia II",
+      "partiallyCleanNameWithVersion": "Arcadia II",
+      "originalName": "Arcadia II",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Violet vs kkong_V_.rep"
+  },
+  {
+    "rawMapName": "\u0007피의 \u0006능선 \u00051.0",
+    "cleanMapName": {
+      "cleanName": "피의 능선",
+      "cleanNameWithVersion": "피의 능선 1.0",
+      "partiallyCleanName": "피의 능선",
+      "partiallyCleanNameWithVersion": "피의 능선 1.0",
+      "originalName": "피의 능선 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "firebathero vs windy.rep"
+  },
+  {
+    "rawMapName": "\u0007[Nyx] \u0005투혼 \u00051.3 (수동옵)",
+    "cleanMapName": {
+      "cleanName": "투혼",
+      "cleanNameWithVersion": "투혼 1.3",
+      "partiallyCleanName": "[Nyx] 투혼 1.3 (수동옵)",
+      "partiallyCleanNameWithVersion": "[Nyx] 투혼 1.3 (수동옵) 1.3",
+      "originalName": "[Nyx] 투혼 1.3 (수동옵)",
+      "metadata": {
+        "version": "1.3",
+        "tags": [
+          "수동옵",
+          "Nyx"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "zergman vs snail.rep"
+  },
+  {
+    "rawMapName": "\u0004Neo \u0007G\u0006round \u0007Z\u0006ero \u00052.0",
+    "cleanMapName": {
+      "cleanName": "Neo Ground Zero",
+      "cleanNameWithVersion": "Neo Ground Zero 2.0",
+      "partiallyCleanName": "Neo Ground Zero",
+      "partiallyCleanNameWithVersion": "Neo Ground Zero 2.0",
+      "originalName": "Neo Ground Zero 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "2210 Killer vs Mong.rep"
+  },
+  {
+    "rawMapName": "[Dream]\u0007투혼 \u00051.3",
+    "cleanMapName": {
+      "cleanName": "투혼",
+      "cleanNameWithVersion": "투혼 1.3",
+      "partiallyCleanName": "[Dream]투혼",
+      "partiallyCleanNameWithVersion": "[Dream]투혼 1.3",
+      "originalName": "[Dream]투혼 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [
+          "Dream"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "0040 Melverc@T vs Larva@Z B.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Fighting Spirit 1.3 (Ob)",
+    "cleanMapName": {
+      "cleanName": "Fighting Spirit",
+      "cleanNameWithVersion": "Fighting Spirit 1.3",
+      "partiallyCleanName": "Fighting Spirit",
+      "partiallyCleanNameWithVersion": "Fighting Spirit 1.3",
+      "originalName": "| iCCup | Fighting Spirit 1.3 (Ob)",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": true,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3145 ceZ ShP emZ NeP RaT TZ.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Destination 1.1",
+    "cleanMapName": {
+      "cleanName": "Destination",
+      "cleanNameWithVersion": "Destination 1.1",
+      "partiallyCleanName": "Destination",
+      "partiallyCleanNameWithVersion": "Destination 1.1",
+      "originalName": "| iCCup | Destination 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "Violet vs hyvaa[S.G].rep"
+  },
+  {
+    "rawMapName": "\u0004Blue \u0007S\u0006torm \u00051.2",
+    "cleanMapName": {
+      "cleanName": "Blue Storm",
+      "cleanNameWithVersion": "Blue Storm 1.2",
+      "partiallyCleanName": "Blue Storm",
+      "partiallyCleanNameWithVersion": "Blue Storm 1.2",
+      "originalName": "Blue Storm 1.2",
+      "metadata": {
+        "version": "1.2",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "sea.kh vs kt.mgw)cookie.rep"
+  },
+  {
+    "rawMapName": "\u0007토\u0006너먼트\u0007컨\u0006트롤\u0004\u0007N\u0006eti\u0007Z\u0006en2",
+    "cleanMapName": {
+      "cleanName": "토너먼트컨트롤NetiZen2",
+      "cleanNameWithVersion": "토너먼트컨트롤NetiZen2",
+      "partiallyCleanName": "토너먼트컨트롤NetiZen2",
+      "partiallyCleanNameWithVersion": "토너먼트컨트롤NetiZen2",
+      "originalName": "토너먼트컨트롤NetiZen2",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "4097 OverlordT StoProcentT.rep"
+  },
+  {
+    "rawMapName": "P\u0006olaris\u0002Rh\u0006apsody\u0005 1.0",
+    "cleanMapName": {
+      "cleanName": "PolarisRhapsody",
+      "cleanNameWithVersion": "PolarisRhapsody 1.0",
+      "partiallyCleanName": "PolarisRhapsody",
+      "partiallyCleanNameWithVersion": "PolarisRhapsody 1.0",
+      "originalName": "PolarisRhapsody 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "wOw vs jungahlove 2.rep"
+  },
+  {
+    "rawMapName": "\u0007Neo \u0003E\u0006lectric \u0003C\u0006ircuit \u00052.1",
+    "cleanMapName": {
+      "cleanName": "Neo Electric Circuit",
+      "cleanNameWithVersion": "Neo Electric Circuit 2.1",
+      "partiallyCleanName": "Neo Electric Circuit",
+      "partiallyCleanNameWithVersion": "Neo Electric Circuit 2.1",
+      "originalName": "Neo Electric Circuit 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "shuttle vs by.hero.rep"
+  },
+  {
+    "rawMapName": "\u0007저격\u0006능선 \u00051.1",
+    "cleanMapName": {
+      "cleanName": "저격능선",
+      "cleanNameWithVersion": "저격능선 1.1",
+      "partiallyCleanName": "저격능선",
+      "partiallyCleanNameWithVersion": "저격능선 1.1",
+      "originalName": "저격능선 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "wyvern_lt vs sleepqueenP.rep"
+  },
+  {
+    "rawMapName": "\u0004[397] \u0006투혼 \u00071.3",
+    "cleanMapName": {
+      "cleanName": "[397] 투혼",
+      "cleanNameWithVersion": "[397] 투혼 1.3",
+      "partiallyCleanName": "[397] 투혼",
+      "partiallyCleanNameWithVersion": "[397] 투혼 1.3",
+      "originalName": "[397] 투혼 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "infinite vs dream.t)5zim.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Tau Cross",
+    "cleanMapName": {
+      "cleanName": "Tau Cross",
+      "cleanNameWithVersion": "Tau Cross",
+      "partiallyCleanName": "Tau Cross",
+      "partiallyCleanNameWithVersion": "Tau Cross",
+      "originalName": "| iCCup | Tau Cross",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "5913 Stim4meZ gosulingZ.rep"
+  },
+  {
+    "rawMapName": "VGT30 - SC - Space",
+    "cleanMapName": {
+      "cleanName": "VGT30 - SC - Space",
+      "cleanNameWithVersion": "VGT30 - SC - Space",
+      "partiallyCleanName": "VGT30 - SC - Space",
+      "partiallyCleanNameWithVersion": "VGT30 - SC - Space",
+      "originalName": "VGT30 - SC - Space",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "0063 SzikP prstT gengZ ManZ.rep"
+  },
+  {
+    "rawMapName": "\u0004M\u0006atch\u0004Point \u00051.3",
+    "cleanMapName": {
+      "cleanName": "MatchPoint",
+      "cleanNameWithVersion": "MatchPoint 1.3",
+      "partiallyCleanName": "MatchPoint",
+      "partiallyCleanNameWithVersion": "MatchPoint 1.3",
+      "originalName": "MatchPoint 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "trap vs lx-2.rep"
+  },
+  {
+    "rawMapName": "\u0006B\u0005e\u0006n\u0005z\u0006e\u0005n\u0006e\u00051.1",
+    "cleanMapName": {
+      "cleanName": "Benzene",
+      "cleanNameWithVersion": "Benzene 1.1",
+      "partiallyCleanName": "Benzene",
+      "partiallyCleanNameWithVersion": "Benzene 1.1",
+      "originalName": "Benzene1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "miso vs piano 2.rep"
+  },
+  {
+    "rawMapName": "\u0004[전프]이영웅선수전용 \u0003투혼옵",
+    "cleanMapName": {
+      "cleanName": "이영웅선수전용 투혼옵",
+      "cleanNameWithVersion": "이영웅선수전용 투혼옵",
+      "partiallyCleanName": "[전프]이영웅선수전용 투혼옵",
+      "partiallyCleanNameWithVersion": "[전프]이영웅선수전용 투혼옵",
+      "originalName": "[전프]이영웅선수전용 투혼옵",
+      "metadata": {
+        "version": null,
+        "tags": [
+          "전프"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "0074 hiya vs anytime.rep"
+  },
+  {
+    "rawMapName": "\u0003L\u0004una",
+    "cleanMapName": {
+      "cleanName": "Luna",
+      "cleanNameWithVersion": "Luna",
+      "partiallyCleanName": "Luna",
+      "partiallyCleanNameWithVersion": "Luna",
+      "originalName": "Luna",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1a2a3a[fOu]ZwaCk[WHITE]Z.rep"
+  },
+  {
+    "rawMapName": "\u0004M\u0006atch\u0004Point \u00051.2",
+    "cleanMapName": {
+      "cleanName": "MatchPoint",
+      "cleanNameWithVersion": "MatchPoint 1.2",
+      "partiallyCleanName": "MatchPoint",
+      "partiallyCleanNameWithVersion": "MatchPoint 1.2",
+      "originalName": "MatchPoint 1.2",
+      "metadata": {
+        "version": "1.2",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "revival[scm] vs my.mudda.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Blue Storm 1.2",
+    "cleanMapName": {
+      "cleanName": "Blue Storm",
+      "cleanNameWithVersion": "Blue Storm 1.2",
+      "partiallyCleanName": "Blue Storm",
+      "partiallyCleanNameWithVersion": "Blue Storm 1.2",
+      "originalName": "| iCCup | Blue Storm 1.2",
+      "metadata": {
+        "version": "1.2",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "UEDHobbangT ISL2OctZeZ.rep"
+  },
+  {
+    "rawMapName": "\u0003개인 \u0004넥서스 \u0007부수기 \u00062 \u0002test",
+    "cleanMapName": {
+      "cleanName": "개인 넥서스 부수기 2 test",
+      "cleanNameWithVersion": "개인 넥서스 부수기 2 test",
+      "partiallyCleanName": "개인 넥서스 부수기 2 test",
+      "partiallyCleanNameWithVersion": "개인 넥서스 부수기 2 test",
+      "originalName": "개인 넥서스 부수기 2 test",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "0079 adm1rT SzikyZ.rep"
+  },
+  {
+    "rawMapName": "\u0003B\u0004yzantium \u0002III \u00053.0",
+    "cleanMapName": {
+      "cleanName": "Byzantium III",
+      "cleanNameWithVersion": "Byzantium III 3.0",
+      "partiallyCleanName": "Byzantium III",
+      "partiallyCleanNameWithVersion": "Byzantium III 3.0",
+      "originalName": "Byzantium III 3.0",
+      "metadata": {
+        "version": "3.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Flash vs 815 3.rep"
+  },
+  {
+    "rawMapName": "\u0007Outsider SE \u00052.2",
+    "cleanMapName": {
+      "cleanName": "Outsider SE",
+      "cleanNameWithVersion": "Outsider SE 2.2",
+      "partiallyCleanName": "Outsider SE",
+      "partiallyCleanNameWithVersion": "Outsider SE 2.2",
+      "originalName": "Outsider SE 2.2",
+      "metadata": {
+        "version": "2.2",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "trap vs lx-5.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Sniper Ridge 1.1",
+    "cleanMapName": {
+      "cleanName": "Sniper Ridge",
+      "cleanNameWithVersion": "Sniper Ridge 1.1",
+      "partiallyCleanName": "Sniper Ridge",
+      "partiallyCleanNameWithVersion": "Sniper Ridge 1.1",
+      "originalName": "| iCCup | Sniper Ridge 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "4388 sasDrawP ScanZ.rep"
+  },
+  {
+    "rawMapName": "\u0007Carthage III \u00053.0",
+    "cleanMapName": {
+      "cleanName": "Carthage III",
+      "cleanNameWithVersion": "Carthage III 3.0",
+      "partiallyCleanName": "Carthage III",
+      "partiallyCleanNameWithVersion": "Carthage III 3.0",
+      "originalName": "Carthage III 3.0",
+      "metadata": {
+        "version": "3.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "fOrGG vs Stats 2.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Outsider 2.2",
+    "cleanMapName": {
+      "cleanName": "Outsider",
+      "cleanNameWithVersion": "Outsider 2.2",
+      "partiallyCleanName": "Outsider",
+      "partiallyCleanNameWithVersion": "Outsider 2.2",
+      "originalName": "| iCCup | Outsider 2.2",
+      "metadata": {
+        "version": "2.2",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "idra vs clare.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Empire of the Sun",
+    "cleanMapName": {
+      "cleanName": "Empire of the Sun",
+      "cleanNameWithVersion": "Empire of the Sun",
+      "partiallyCleanName": "Empire of the Sun",
+      "partiallyCleanNameWithVersion": "Empire of the Sun",
+      "originalName": "| iCCup | Empire of the Sun",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "1014 Rudy vs dsaqwe.rep"
+  },
+  {
+    "rawMapName": "\u0007G\u0006round \u0007Z\u0006ero \u00051.2",
+    "cleanMapName": {
+      "cleanName": "Ground Zero",
+      "cleanNameWithVersion": "Ground Zero 1.2",
+      "partiallyCleanName": "Ground Zero",
+      "partiallyCleanNameWithVersion": "Ground Zero 1.2",
+      "originalName": "Ground Zero 1.2",
+      "metadata": {
+        "version": "1.2",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "dream.t)check 5 vs rare_lt.rep"
+  },
+  {
+    "rawMapName": "",
+    "cleanMapName": {
+      "cleanName": "",
+      "cleanNameWithVersion": "",
+      "partiallyCleanName": "",
+      "partiallyCleanNameWithVersion": "",
+      "originalName": "",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Asiasin[ScM] vs maejang.rep"
+  },
+  {
+    "rawMapName": "\u0006HSL \u0007저격능선\u0004 1.1",
+    "cleanMapName": {
+      "cleanName": "HSL 저격능선",
+      "cleanNameWithVersion": "HSL 저격능선 1.1",
+      "partiallyCleanName": "HSL 저격능선",
+      "partiallyCleanNameWithVersion": "HSL 저격능선 1.1",
+      "originalName": "HSL 저격능선 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "0106 Hiya vs Zergman.rep"
+  },
+  {
+    "rawMapName": "투혼1.3 (OB) Boni",
+    "cleanMapName": {
+      "cleanName": "투혼1.3 (OB) Boni",
+      "cleanNameWithVersion": "투혼1.3 (OB) Boni",
+      "partiallyCleanName": "투혼1.3 (OB) Boni",
+      "partiallyCleanNameWithVersion": "투혼1.3 (OB) Boni",
+      "originalName": "투혼1.3 (OB) Boni",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "model.blueT_TRGP.rep"
+  },
+  {
+    "rawMapName": "\u0004Alternative \u00051.3",
+    "cleanMapName": {
+      "cleanName": "Alternative",
+      "cleanNameWithVersion": "Alternative 1.3",
+      "partiallyCleanName": "Alternative",
+      "partiallyCleanNameWithVersion": "Alternative 1.3",
+      "originalName": "Alternative 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "0813 mrchP MutaP fryoT repT.rep"
+  },
+  {
+    "rawMapName": "\u0003T\u0006roy \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Troy",
+      "cleanNameWithVersion": "Troy 1.0",
+      "partiallyCleanName": "Troy",
+      "partiallyCleanNameWithVersion": "Troy 1.0",
+      "originalName": "Troy 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Pusan vs F.Monster 2.rep"
+  },
+  {
+    "rawMapName": "\u0006The Fortress SE \u00052.0",
+    "cleanMapName": {
+      "cleanName": "The Fortress SE",
+      "cleanNameWithVersion": "The Fortress SE 2.0",
+      "partiallyCleanName": "The Fortress SE",
+      "partiallyCleanNameWithVersion": "The Fortress SE 2.0",
+      "originalName": "The Fortress SE 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1894 Shuttle vs herO.rep"
+  },
+  {
+    "rawMapName": "\u0007Neo \u0006Beltway \u00052.0",
+    "cleanMapName": {
+      "cleanName": "Neo Beltway",
+      "cleanNameWithVersion": "Neo Beltway 2.0",
+      "partiallyCleanName": "Neo Beltway",
+      "partiallyCleanNameWithVersion": "Neo Beltway 2.0",
+      "originalName": "Neo Beltway 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "major vs neo.g_soulkey 2.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Circuit Breakers 1.0",
+    "cleanMapName": {
+      "cleanName": "Circuit Breakers",
+      "cleanNameWithVersion": "Circuit Breakers 1.0",
+      "partiallyCleanName": "Circuit Breakers",
+      "partiallyCleanNameWithVersion": "Circuit Breakers 1.0",
+      "originalName": "| iCCup | Circuit Breakers 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "4113 Sziky Z vs Scan T.rep"
+  },
+  {
+    "rawMapName": "\u0006신 \u0007태양의 제국 \u00052.0",
+    "cleanMapName": {
+      "cleanName": "신 태양의 제국",
+      "cleanNameWithVersion": "신 태양의 제국 2.0",
+      "partiallyCleanName": "신 태양의 제국",
+      "partiallyCleanNameWithVersion": "신 태양의 제국 2.0",
+      "originalName": "신 태양의 제국 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "ssinz vs spica.rep"
+  },
+  {
+    "rawMapName": "(1) ZvT LT Muta harass (4xObs)",
+    "cleanMapName": {
+      "cleanName": "ZvT LT Muta harass (4xObs)",
+      "cleanNameWithVersion": "ZvT LT Muta harass (4xObs)",
+      "partiallyCleanName": "ZvT LT Muta harass (4xObs)",
+      "partiallyCleanNameWithVersion": "ZvT LT Muta harass (4xObs)",
+      "originalName": "(1) ZvT LT Muta harass (4xObs)",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "2263 NeOxScanZ CompT.rep"
+  },
+  {
+    "rawMapName": "| iCCup | La Mancha 1.1",
+    "cleanMapName": {
+      "cleanName": "La Mancha",
+      "cleanNameWithVersion": "La Mancha 1.1",
+      "partiallyCleanName": "La Mancha",
+      "partiallyCleanNameWithVersion": "La Mancha 1.1",
+      "originalName": "| iCCup | La Mancha 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "sas.DrawP_BOSS.WeeklT.rep"
+  },
+  {
+    "rawMapName": "\u0007태양의 제국 \u00051.4",
+    "cleanMapName": {
+      "cleanName": "태양의 제국",
+      "cleanNameWithVersion": "태양의 제국 1.4",
+      "partiallyCleanName": "태양의 제국",
+      "partiallyCleanNameWithVersion": "태양의 제국 1.4",
+      "originalName": "태양의 제국 1.4",
+      "metadata": {
+        "version": "1.4",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "turn vs lovedambi.rep"
+  },
+  {
+    "rawMapName": "\u0006폭풍의 \u0004언덕 \u00051.0",
+    "cleanMapName": {
+      "cleanName": "폭풍의 언덕",
+      "cleanNameWithVersion": "폭풍의 언덕 1.0",
+      "partiallyCleanName": "폭풍의 언덕",
+      "partiallyCleanNameWithVersion": "폭풍의 언덕 1.0",
+      "originalName": "폭풍의 언덕 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Pusan vs F.Monster 1.rep"
+  },
+  {
+    "rawMapName": "\u0004SSabi",
+    "cleanMapName": {
+      "cleanName": "SSabi",
+      "cleanNameWithVersion": "SSabi",
+      "partiallyCleanName": "SSabi",
+      "partiallyCleanNameWithVersion": "SSabi",
+      "originalName": "SSabi",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "2323 INH vs jeak.studyhard.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Eye of the Storm",
+    "cleanMapName": {
+      "cleanName": "Eye of the Storm",
+      "cleanNameWithVersion": "Eye of the Storm",
+      "partiallyCleanName": "Eye of the Storm",
+      "partiallyCleanNameWithVersion": "Eye of the Storm",
+      "originalName": "| iCCup | Eye of the Storm",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "2407 vTvrT ezzZ 1o0fZ qqP.rep"
+  },
+  {
+    "rawMapName": "\u0003R\u0006oadrunner\u00051.3",
+    "cleanMapName": {
+      "cleanName": "Roadrunner",
+      "cleanNameWithVersion": "Roadrunner 1.3",
+      "partiallyCleanName": "Roadrunner",
+      "partiallyCleanNameWithVersion": "Roadrunner 1.3",
+      "originalName": "Roadrunner1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "2127 sONgdURIlTZ DogT.rep"
+  },
+  {
+    "rawMapName": "\u0007투혼 \u00051.1",
+    "cleanMapName": {
+      "cleanName": "투혼",
+      "cleanNameWithVersion": "투혼 1.1",
+      "partiallyCleanName": "투혼",
+      "partiallyCleanNameWithVersion": "투혼 1.1",
+      "originalName": "투혼 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "0227 jaedong vs lucifer.rep"
+  },
+  {
+    "rawMapName": "\u0007Super★빠른무한\u0004(Ob내전용)",
+    "cleanMapName": {
+      "cleanName": "Super★빠른무한",
+      "cleanNameWithVersion": "Super★빠른무한",
+      "partiallyCleanName": "Super★빠른무한(Ob내전용)",
+      "partiallyCleanNameWithVersion": "Super★빠른무한(Ob내전용)",
+      "originalName": "Super★빠른무한(Ob내전용)",
+      "metadata": {
+        "version": null,
+        "tags": [
+          "Ob내전용"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "shuttle vs amateur P.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Circuit Breakers",
+    "cleanMapName": {
+      "cleanName": "Circuit Breakers",
+      "cleanNameWithVersion": "Circuit Breakers",
+      "partiallyCleanName": "Circuit Breakers",
+      "partiallyCleanNameWithVersion": "Circuit Breakers",
+      "originalName": "| iCCup | Circuit Breakers",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "4128 FirebatT BJMinhOZ.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Match Point 1.2",
+    "cleanMapName": {
+      "cleanName": "Match Point",
+      "cleanNameWithVersion": "Match Point 1.2",
+      "partiallyCleanName": "Match Point",
+      "partiallyCleanNameWithVersion": "Match Point 1.2",
+      "originalName": "| iCCup | Match Point 1.2",
+      "metadata": {
+        "version": "1.2",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "zerg[kal] vs clare.rep"
+  },
+  {
+    "rawMapName": "\u0007심판의 날 \u00051.1",
+    "cleanMapName": {
+      "cleanName": "심판의 날",
+      "cleanNameWithVersion": "심판의 날 1.1",
+      "partiallyCleanName": "심판의 날",
+      "partiallyCleanNameWithVersion": "심판의 날 1.1",
+      "originalName": "심판의 날 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "icarus vs artofobserver.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Troy 1.0",
+    "cleanMapName": {
+      "cleanName": "Troy",
+      "cleanNameWithVersion": "Troy 1.0",
+      "partiallyCleanName": "Troy",
+      "partiallyCleanNameWithVersion": "Troy 1.0",
+      "originalName": "| iCCup | Troy 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "4307 SaDP sktsZ TattP GirlP.rep"
+  },
+  {
+    "rawMapName": " | iCCup | Vampire",
+    "cleanMapName": {
+      "cleanName": "Vampire",
+      "cleanNameWithVersion": "Vampire",
+      "partiallyCleanName": "Vampire",
+      "partiallyCleanNameWithVersion": "Vampire",
+      "originalName": "| iCCup | Vampire",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3534 HatcheryZ winterZ.rep"
+  },
+  {
+    "rawMapName": "\u0007Nostalgia",
+    "cleanMapName": {
+      "cleanName": "Nostalgia",
+      "cleanNameWithVersion": "Nostalgia",
+      "partiallyCleanName": "Nostalgia",
+      "partiallyCleanNameWithVersion": "Nostalgia",
+      "originalName": "Nostalgia",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "0343 ISL2Z aafnZ StoPZ ScaT.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Nostalgia 1.3",
+    "cleanMapName": {
+      "cleanName": "Nostalgia",
+      "cleanNameWithVersion": "Nostalgia 1.3",
+      "partiallyCleanName": "Nostalgia",
+      "partiallyCleanNameWithVersion": "Nostalgia 1.3",
+      "originalName": "| iCCup | Nostalgia 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "2499 vTvrT ViciZ vTvSZ SolT.rep"
+  },
+  {
+    "rawMapName": "\u0004[LuZ TB] \u0007투혼 \u00051.3",
+    "cleanMapName": {
+      "cleanName": "투혼",
+      "cleanNameWithVersion": "투혼 1.3",
+      "partiallyCleanName": "[LuZ TB] 투혼",
+      "partiallyCleanNameWithVersion": "[LuZ TB] 투혼 1.3",
+      "originalName": "[LuZ TB] 투혼 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [
+          "LuZ TB"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "sharp vs candy 4.rep"
+  },
+  {
+    "rawMapName": "\u0003Korhal \u0006of \u0007Ceres",
+    "cleanMapName": {
+      "cleanName": "Korhal of Ceres",
+      "cleanNameWithVersion": "Korhal of Ceres",
+      "partiallyCleanName": "Korhal of Ceres",
+      "partiallyCleanNameWithVersion": "Korhal of Ceres",
+      "originalName": "Korhal of Ceres",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "j3@bobrari81_kr@destroyer__.rep"
+  },
+  {
+    "rawMapName": "\u0004[Be Clan]\u0007투혼 \u00051.3\u0002(수동옵)",
+    "cleanMapName": {
+      "cleanName": "투혼",
+      "cleanNameWithVersion": "투혼 1.3",
+      "partiallyCleanName": "[Be Clan]투혼 1.3(수동옵)",
+      "partiallyCleanNameWithVersion": "[Be Clan]투혼 1.3(수동옵) 1.3",
+      "originalName": "[Be Clan]투혼 1.3(수동옵)",
+      "metadata": {
+        "version": "1.3",
+        "tags": [
+          "수동옵",
+          "Be Clan"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "0427 v_drop)day v kbsin.rep"
+  },
+  {
+    "rawMapName": "\u0007투혼 \u00051.3 \u000e킹옵",
+    "cleanMapName": {
+      "cleanName": "투혼 1.3 킹옵",
+      "cleanNameWithVersion": "투혼 1.3 킹옵",
+      "partiallyCleanName": "투혼 1.3 킹옵",
+      "partiallyCleanNameWithVersion": "투혼 1.3 킹옵",
+      "originalName": "투혼 1.3 킹옵",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "2976 obsed TvZ.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Ground Zero 2.0",
+    "cleanMapName": {
+      "cleanName": "Ground Zero",
+      "cleanNameWithVersion": "Ground Zero 2.0",
+      "partiallyCleanName": "Ground Zero",
+      "partiallyCleanNameWithVersion": "Ground Zero 2.0",
+      "originalName": "| iCCup | Ground Zero 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "0472 sas.Sziky sas.skyline.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Icarus",
+    "cleanMapName": {
+      "cleanName": "Icarus",
+      "cleanNameWithVersion": "Icarus",
+      "partiallyCleanName": "Icarus",
+      "partiallyCleanNameWithVersion": "Icarus",
+      "originalName": "| iCCup | Icarus",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3669 IIllZ TKRsZ IIllZ GaYP.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Heartbreak Ridge 2.1",
+    "cleanMapName": {
+      "cleanName": "Heartbreak Ridge",
+      "cleanNameWithVersion": "Heartbreak Ridge 2.1",
+      "partiallyCleanName": "Heartbreak Ridge",
+      "partiallyCleanNameWithVersion": "Heartbreak Ridge 2.1",
+      "originalName": "| iCCup | Heartbreak Ridge 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "thezerg vs clare.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Pathfinder",
+    "cleanMapName": {
+      "cleanName": "Pathfinder",
+      "cleanNameWithVersion": "Pathfinder",
+      "partiallyCleanName": "Pathfinder",
+      "partiallyCleanNameWithVersion": "Pathfinder",
+      "originalName": "| iCCup | Pathfinder",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "4100 iFUeOnzErGZ OverlordZ.rep"
+  },
+  {
+    "rawMapName": "\u0002G\u0006orky \u0002I\u0006sland",
+    "cleanMapName": {
+      "cleanName": "Gorky Island",
+      "cleanNameWithVersion": "Gorky Island",
+      "partiallyCleanName": "Gorky Island",
+      "partiallyCleanNameWithVersion": "Gorky Island",
+      "originalName": "Gorky Island",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "P4@dante_ca@LG)Manza.rep"
+  },
+  {
+    "rawMapName": "\u0007투혼 \u00051.3 수동(Ob)",
+    "cleanMapName": {
+      "cleanName": "투혼 1.3 수동",
+      "cleanNameWithVersion": "투혼 1.3 수동",
+      "partiallyCleanName": "투혼 1.3 수동",
+      "partiallyCleanNameWithVersion": "투혼 1.3 수동",
+      "originalName": "투혼 1.3 수동(Ob)",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": true
+      }
+    },
+    "srcFilename": "maejang vs sidepower 2010.rep"
+  },
+  {
+    "rawMapName": "\u0007\u0007KiSaDan\u0004\u0004투혼\u0003\u0003(영의정옵)",
+    "cleanMapName": {
+      "cleanName": "KiSaDan투혼",
+      "cleanNameWithVersion": "KiSaDan투혼",
+      "partiallyCleanName": "KiSaDan투혼(영의정옵)",
+      "partiallyCleanNameWithVersion": "KiSaDan투혼(영의정옵)",
+      "originalName": "KiSaDan투혼(영의정옵)",
+      "metadata": {
+        "version": null,
+        "tags": [
+          "영의정옵"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "free.kiss vs Chic[WHITE].rep"
+  },
+  {
+    "rawMapName": "\u0003뮤탈컨트롤 \u0003하드",
+    "cleanMapName": {
+      "cleanName": "뮤탈컨트롤 하드",
+      "cleanNameWithVersion": "뮤탈컨트롤 하드",
+      "partiallyCleanName": "뮤탈컨트롤 하드",
+      "partiallyCleanNameWithVersion": "뮤탈컨트롤 하드",
+      "originalName": "뮤탈컨트롤 하드",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "4019 IIllZ IIllZ MeurZ ComT.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Gladiator",
+    "cleanMapName": {
+      "cleanName": "Gladiator",
+      "cleanNameWithVersion": "Gladiator",
+      "partiallyCleanName": "Gladiator",
+      "partiallyCleanNameWithVersion": "Gladiator",
+      "originalName": "| iCCup | Gladiator",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "0546 TonightZ 123472P.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Alternative 1.3",
+    "cleanMapName": {
+      "cleanName": "Alternative",
+      "cleanNameWithVersion": "Alternative 1.3",
+      "partiallyCleanName": "Alternative",
+      "partiallyCleanNameWithVersion": "Alternative 1.3",
+      "originalName": "| iCCup | Alternative 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "0799 MutaliskP extazzzyP.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Bloody Ridge 2.1",
+    "cleanMapName": {
+      "cleanName": "Bloody Ridge",
+      "cleanNameWithVersion": "Bloody Ridge 2.1",
+      "partiallyCleanName": "Bloody Ridge",
+      "partiallyCleanNameWithVersion": "Bloody Ridge 2.1",
+      "originalName": "| iCCup | Bloody Ridge 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3837 ZealotP LancerXP.rep"
+  },
+  {
+    "rawMapName": "\u0006Beltway \u00051.1",
+    "cleanMapName": {
+      "cleanName": "Beltway",
+      "cleanNameWithVersion": "Beltway 1.1",
+      "partiallyCleanName": "Beltway",
+      "partiallyCleanNameWithVersion": "Beltway 1.1",
+      "originalName": "Beltway 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "0592 repsDewaltP ScanP.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Monte Cristo 1.03",
+    "cleanMapName": {
+      "cleanName": "Monte Cristo",
+      "cleanNameWithVersion": "Monte Cristo 1.03",
+      "partiallyCleanName": "Monte Cristo",
+      "partiallyCleanNameWithVersion": "Monte Cristo 1.03",
+      "originalName": "| iCCup | Monte Cristo 1.03",
+      "metadata": {
+        "version": "1.03",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3712 HatcheZ UEDKarZ iCCupP.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Sin Chupung Ryeong2.1",
+    "cleanMapName": {
+      "cleanName": "Sin Chupung Ryeong",
+      "cleanNameWithVersion": "Sin Chupung Ryeong 2.1",
+      "partiallyCleanName": "Sin Chupung Ryeong",
+      "partiallyCleanNameWithVersion": "Sin Chupung Ryeong 2.1",
+      "originalName": "| iCCup | Sin Chupung Ryeong2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "0565 sasCerkofP ScanP.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Bloody Ridge",
+    "cleanMapName": {
+      "cleanName": "Bloody Ridge",
+      "cleanNameWithVersion": "Bloody Ridge",
+      "partiallyCleanName": "Bloody Ridge",
+      "partiallyCleanNameWithVersion": "Bloody Ridge",
+      "originalName": "| iCCup | Bloody Ridge",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "0591 ScanP lolshtoP.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Monte Cristo 1.03 (ob)",
+    "cleanMapName": {
+      "cleanName": "Monte Cristo",
+      "cleanNameWithVersion": "Monte Cristo 1.03",
+      "partiallyCleanName": "Monte Cristo",
+      "partiallyCleanNameWithVersion": "Monte Cristo 1.03",
+      "originalName": "| iCCup | Monte Cristo 1.03 (ob)",
+      "metadata": {
+        "version": "1.03",
+        "tags": [],
+        "isObserverMap": true,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "0593 repsT ScanT fryoP pafT.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Sin Chupung Ryeong2.1 OBs",
+    "cleanMapName": {
+      "cleanName": "Sin Chupung Ryeong",
+      "cleanNameWithVersion": "Sin Chupung Ryeong 2.1",
+      "partiallyCleanName": "Sin Chupung Ryeong",
+      "partiallyCleanNameWithVersion": "Sin Chupung Ryeong 2.1",
+      "originalName": "| iCCup | Sin Chupung Ryeong2.1 OBs",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": true,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "0595 ToniP SRKyP KisaT repZ.rep"
+  },
+  {
+    "rawMapName": "| iCCup | The Fortress 2.0",
+    "cleanMapName": {
+      "cleanName": "The Fortress",
+      "cleanNameWithVersion": "The Fortress 2.0",
+      "partiallyCleanName": "The Fortress",
+      "partiallyCleanNameWithVersion": "The Fortress 2.0",
+      "originalName": "| iCCup | The Fortress 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3706 plusZ IIllZ iGMaP IIlZ.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Faoi 2.1",
+    "cleanMapName": {
+      "cleanName": "Faoi",
+      "cleanNameWithVersion": "Faoi 2.1",
+      "partiallyCleanName": "Faoi",
+      "partiallyCleanNameWithVersion": "Faoi 2.1",
+      "originalName": "| iCCup | Faoi 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "0816 fryoT repsT mrchP MutZ.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Luna the Final",
+    "cleanMapName": {
+      "cleanName": "Luna the Final",
+      "cleanNameWithVersion": "Luna the Final",
+      "partiallyCleanName": "Luna the Final",
+      "partiallyCleanNameWithVersion": "Luna the Final",
+      "originalName": "| iCCup | Luna the Final",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3662 imWhZ ZeusZ HeRoZ pluZ.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Judgement Day 1.1",
+    "cleanMapName": {
+      "cleanName": "Judgement Day",
+      "cleanNameWithVersion": "Judgement Day 1.1",
+      "partiallyCleanName": "Judgement Day",
+      "partiallyCleanNameWithVersion": "Judgement Day 1.1",
+      "originalName": "| iCCup | Judgement Day 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "zerg[kal] vs Clare 2.rep"
+  },
+  {
+    "rawMapName": "\u0004신 \u0007피의 \u0006능선 \u00052.0",
+    "cleanMapName": {
+      "cleanName": "신 피의 능선",
+      "cleanNameWithVersion": "신 피의 능선 2.0",
+      "partiallyCleanName": "신 피의 능선",
+      "partiallyCleanNameWithVersion": "신 피의 능선 2.0",
+      "originalName": "신 피의 능선 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "0748 shinee vs Sse[kal].rep"
+  },
+  {
+    "rawMapName": "\u0003Pathfinder \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Pathfinder",
+      "cleanNameWithVersion": "Pathfinder 1.0",
+      "partiallyCleanName": "Pathfinder",
+      "partiallyCleanNameWithVersion": "Pathfinder 1.0",
+      "originalName": "Pathfinder 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "0811 MutaliZ gNsItrZ fryodT.rep"
+  },
+  {
+    "rawMapName": "\u0007Chain Reaction \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Chain Reaction",
+      "cleanNameWithVersion": "Chain Reaction 1.0",
+      "partiallyCleanName": "Chain Reaction",
+      "partiallyCleanNameWithVersion": "Chain Reaction 1.0",
+      "originalName": "Chain Reaction 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "neo.g_noregret vs p.rep"
+  },
+  {
+    "rawMapName": "Desert FoX",
+    "cleanMapName": {
+      "cleanName": "Desert FoX",
+      "cleanNameWithVersion": "Desert FoX",
+      "partiallyCleanName": "Desert FoX",
+      "partiallyCleanNameWithVersion": "Desert FoX",
+      "originalName": "Desert FoX",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "0843 hiya vs sky[kal].rep"
+  },
+  {
+    "rawMapName": "| iCCup | Andromeda 1.0",
+    "cleanMapName": {
+      "cleanName": "Andromeda",
+      "cleanNameWithVersion": "Andromeda 1.0",
+      "partiallyCleanName": "Andromeda",
+      "partiallyCleanNameWithVersion": "Andromeda 1.0",
+      "originalName": "| iCCup | Andromeda 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3118 ScanT nbDOTYP vTvDrakT.rep"
+  },
+  {
+    "rawMapName": "\u0007G\u0006rand\u0007L\u0006ine\u0005_SE 2.0",
+    "cleanMapName": {
+      "cleanName": "GrandLine_SE",
+      "cleanNameWithVersion": "GrandLine_SE 2.0",
+      "partiallyCleanName": "GrandLine_SE",
+      "partiallyCleanNameWithVersion": "GrandLine_SE 2.0",
+      "originalName": "GrandLine_SE 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "wOw vs s00sy.rep"
+  },
+  {
+    "rawMapName": "\u0006신 \u0007풍운 \u00052.2",
+    "cleanMapName": {
+      "cleanName": "신 풍운",
+      "cleanNameWithVersion": "신 풍운 2.2",
+      "partiallyCleanName": "신 풍운",
+      "partiallyCleanNameWithVersion": "신 풍운 2.2",
+      "originalName": "신 풍운 2.2",
+      "metadata": {
+        "version": "2.2",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "sas_DrawP_TechnicS[BG]Z.rep"
+  },
+  {
+    "rawMapName": "\u0003Circuit Breakers \u00051.0 (수동옵)",
+    "cleanMapName": {
+      "cleanName": "Circuit Breakers",
+      "cleanNameWithVersion": "Circuit Breakers 1.0",
+      "partiallyCleanName": "Circuit Breakers 1.0 (수동옵)",
+      "partiallyCleanNameWithVersion": "Circuit Breakers 1.0 (수동옵) 1.0",
+      "originalName": "Circuit Breakers 1.0 (수동옵)",
+      "metadata": {
+        "version": "1.0",
+        "tags": [
+          "수동옵"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "yourosia vs hwan.rep"
+  },
+  {
+    "rawMapName": "\u0006R\u0004ide of \u0006V\u0004alkyries \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Ride of Valkyries",
+      "cleanNameWithVersion": "Ride of Valkyries 1.0",
+      "partiallyCleanName": "Ride of Valkyries",
+      "partiallyCleanNameWithVersion": "Ride of Valkyries 1.0",
+      "originalName": "Ride of Valkyries 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "f-4@etbrood@osp)chronic.rep"
+  },
+  {
+    "rawMapName": "\u0007IEF\u0006_\u0003BlueStorm 1.2",
+    "cleanMapName": {
+      "cleanName": "IEF_BlueStorm",
+      "cleanNameWithVersion": "IEF_BlueStorm 1.2",
+      "partiallyCleanName": "IEF_BlueStorm",
+      "partiallyCleanNameWithVersion": "IEF_BlueStorm 1.2",
+      "originalName": "IEF_BlueStorm 1.2",
+      "metadata": {
+        "version": "1.2",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Stork vs Bisu 3.rep"
+  },
+  {
+    "rawMapName": "\u0007IEF\u0006_\u0003Tau Cross 1.1",
+    "cleanMapName": {
+      "cleanName": "IEF_Tau Cross",
+      "cleanNameWithVersion": "IEF_Tau Cross 1.1",
+      "partiallyCleanName": "IEF_Tau Cross",
+      "partiallyCleanNameWithVersion": "IEF_Tau Cross 1.1",
+      "originalName": "IEF_Tau Cross 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Stork vs Bisu 1.rep"
+  },
+  {
+    "rawMapName": "  \u0007BalRi  \u0004Clan",
+    "cleanMapName": {
+      "cleanName": "BalRi Clan",
+      "cleanNameWithVersion": "BalRi Clan",
+      "partiallyCleanName": "BalRi Clan",
+      "partiallyCleanNameWithVersion": "BalRi Clan",
+      "originalName": "BalRi Clan",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1060 4v4 hiya = gooikmyung.rep"
+  },
+  {
+    "rawMapName": "\u0003Neo \u0007Chain Reaction \u00052.0",
+    "cleanMapName": {
+      "cleanName": "Neo Chain Reaction",
+      "cleanNameWithVersion": "Neo Chain Reaction 2.0",
+      "partiallyCleanName": "Neo Chain Reaction",
+      "partiallyCleanNameWithVersion": "Neo Chain Reaction 2.0",
+      "originalName": "Neo Chain Reaction 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "ever)P(fantasia v Actually9.rep"
+  },
+  {
+    "rawMapName": "\u0007드라군 1000 부대 막기(극악)",
+    "cleanMapName": {
+      "cleanName": "드라군 1000 부대 막기",
+      "cleanNameWithVersion": "드라군 1000 부대 막기",
+      "partiallyCleanName": "드라군 1000 부대 막기(극악)",
+      "partiallyCleanNameWithVersion": "드라군 1000 부대 막기(극악)",
+      "originalName": "드라군 1000 부대 막기(극악)",
+      "metadata": {
+        "version": null,
+        "tags": [
+          "극악"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1084 tlqT USET q34T q1T CoP.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Gods Garden",
+    "cleanMapName": {
+      "cleanName": "Gods Garden",
+      "cleanNameWithVersion": "Gods Garden",
+      "partiallyCleanName": "Gods Garden",
+      "partiallyCleanNameWithVersion": "Gods Garden",
+      "originalName": "| iCCup | Gods Garden",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "2578 iCCuZ SoapZ TaZaP ezzT.rep"
+  },
+  {
+    "rawMapName": "\u0007STL\u0006_\u0003Soul of Fighter 1.3",
+    "cleanMapName": {
+      "cleanName": "Soul of Fighter",
+      "cleanNameWithVersion": "Soul of Fighter 1.3",
+      "partiallyCleanName": "Soul of Fighter",
+      "partiallyCleanNameWithVersion": "Soul of Fighter 1.3",
+      "originalName": "STL_Soul of Fighter 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false,
+        "isSTL": true
+      }
+    },
+    "srcFilename": "js vs ssak 1.rep"
+  },
+  {
+    "rawMapName": "\u0007STL\u0006_\u0003Circuit Breakers 1.0",
+    "cleanMapName": {
+      "cleanName": "Circuit Breakers",
+      "cleanNameWithVersion": "Circuit Breakers 1.0",
+      "partiallyCleanName": "Circuit Breakers",
+      "partiallyCleanNameWithVersion": "Circuit Breakers 1.0",
+      "originalName": "STL_Circuit Breakers 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isSTL": true
+      }
+    },
+    "srcFilename": "js vs ssak 2.rep"
+  },
+  {
+    "rawMapName": "\u0007STL\u0006_\u0003Neo Jade 2.0",
+    "cleanMapName": {
+      "cleanName": "Neo Jade",
+      "cleanNameWithVersion": "Neo Jade 2.0",
+      "partiallyCleanName": "Neo Jade",
+      "partiallyCleanNameWithVersion": "Neo Jade 2.0",
+      "originalName": "STL_Neo Jade 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isSTL": true
+      }
+    },
+    "srcFilename": "1183 kor_pi korea_ =4v4=y.rep"
+  },
+  {
+    "rawMapName": "\u0007STL\u0006_\u0003MatchPoint 1.3",
+    "cleanMapName": {
+      "cleanName": "MatchPoint",
+      "cleanNameWithVersion": "MatchPoint 1.3",
+      "partiallyCleanName": "MatchPoint",
+      "partiallyCleanNameWithVersion": "MatchPoint 1.3",
+      "originalName": "STL_MatchPoint 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false,
+        "isSTL": true
+      }
+    },
+    "srcFilename": "1184 kor_pi korea_ =4v4=y.rep"
+  },
+  {
+    "rawMapName": "\u0004Andromeda \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Andromeda",
+      "cleanNameWithVersion": "Andromeda 1.0",
+      "partiallyCleanName": "Andromeda",
+      "partiallyCleanNameWithVersion": "Andromeda 1.0",
+      "originalName": "Andromeda 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "sOo[S.siR] vs July 2.rep"
+  },
+  {
+    "rawMapName": "\u0006토너먼트\u0007컨트롤\u0004[AeGis]",
+    "cleanMapName": {
+      "cleanName": "토너먼트컨트롤",
+      "cleanNameWithVersion": "토너먼트컨트롤",
+      "partiallyCleanName": "토너먼트컨트롤[AeGis]",
+      "partiallyCleanNameWithVersion": "토너먼트컨트롤[AeGis]",
+      "originalName": "토너먼트컨트롤[AeGis]",
+      "metadata": {
+        "version": null,
+        "tags": [
+          "AeGis"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "4083 OverlordT goddfrT.rep"
+  },
+  {
+    "rawMapName": "\u0004New \u0007Super◆빠른무한",
+    "cleanMapName": {
+      "cleanName": "New Super◆빠른무한",
+      "cleanNameWithVersion": "New Super◆빠른무한",
+      "partiallyCleanName": "New Super◆빠른무한",
+      "partiallyCleanNameWithVersion": "New Super◆빠른무한",
+      "originalName": "New Super◆빠른무한",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1825 Native_Lt@P Bethemirac.rep"
+  },
+  {
+    "rawMapName": "\u0003Monty \u0002Hall\u0006_SE \u00052.1",
+    "cleanMapName": {
+      "cleanName": "Monty Hall_SE",
+      "cleanNameWithVersion": "Monty Hall_SE 2.1",
+      "partiallyCleanName": "Monty Hall_SE",
+      "partiallyCleanNameWithVersion": "Monty Hall_SE 2.1",
+      "originalName": "Monty Hall_SE 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1305 mulgoginaksi@P vs oqip.rep"
+  },
+  {
+    "rawMapName": "\u0004컨트롤 \u0007배틀\u00063 \u0004V 3.0",
+    "cleanMapName": {
+      "cleanName": "컨트롤 배틀3 V",
+      "cleanNameWithVersion": "컨트롤 배틀3 V 3.0",
+      "partiallyCleanName": "컨트롤 배틀3 V",
+      "partiallyCleanNameWithVersion": "컨트롤 배틀3 V 3.0",
+      "originalName": "컨트롤 배틀3 V 3.0",
+      "metadata": {
+        "version": "3.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1317 KoreaTime@T Native_lt@.rep"
+  },
+  {
+    "rawMapName": "\u0003R\u0004andom\u0003M\u0004icro\u0003C\u0004hallengeFINAL",
+    "cleanMapName": {
+      "cleanName": "RandomMicroChallengeFINAL",
+      "cleanNameWithVersion": "RandomMicroChallengeFINAL",
+      "partiallyCleanName": "RandomMicroChallengeFINAL",
+      "partiallyCleanNameWithVersion": "RandomMicroChallengeFINAL",
+      "originalName": "RandomMicroChallengeFINAL",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1332 SO_so_SO_But@P Native_.rep"
+  },
+  {
+    "rawMapName": "\u00031:1전용 \u0007투혼1.3",
+    "cleanMapName": {
+      "cleanName": "1:1전용 투혼",
+      "cleanNameWithVersion": "1:1전용 투혼 1.3",
+      "partiallyCleanName": "1:1전용 투혼",
+      "partiallyCleanNameWithVersion": "1:1전용 투혼 1.3",
+      "originalName": "1:1전용 투혼1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1347 Native_lt@T vs ganghae.rep"
+  },
+  {
+    "rawMapName": "\u0006[ClanWG]\u0007투혼 \u00051.3(수동옵)",
+    "cleanMapName": {
+      "cleanName": "투혼",
+      "cleanNameWithVersion": "투혼 1.3",
+      "partiallyCleanName": "[ClanWG]투혼 1.3(수동옵)",
+      "partiallyCleanNameWithVersion": "[ClanWG]투혼 1.3(수동옵) 1.3",
+      "originalName": "[ClanWG]투혼 1.3(수동옵)",
+      "metadata": {
+        "version": "1.3",
+        "tags": [
+          "수동옵",
+          "ClanWG"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1363 loZ CuP NeZ ooP giT NZ.rep"
+  },
+  {
+    "rawMapName": "\u0002U\u0006ltimatum \u00051.01",
+    "cleanMapName": {
+      "cleanName": "Ultimatum",
+      "cleanNameWithVersion": "Ultimatum 1.01",
+      "partiallyCleanName": "Ultimatum",
+      "partiallyCleanNameWithVersion": "Ultimatum 1.01",
+      "originalName": "Ultimatum 1.01",
+      "metadata": {
+        "version": "1.01",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1387 savior vs flash 3.rep"
+  },
+  {
+    "rawMapName": "\u0004Odd\u0006-\u0003Eye \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Odd-Eye",
+      "cleanNameWithVersion": "Odd-Eye 1.0",
+      "partiallyCleanName": "Odd-Eye",
+      "partiallyCleanNameWithVersion": "Odd-Eye 1.0",
+      "originalName": "Odd-Eye 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1381 effort vs flash 2.rep"
+  },
+  {
+    "rawMapName": "\u0007Dante\u0002'\u0007s \u0006Peak \u0005SE 2.0",
+    "cleanMapName": {
+      "cleanName": "Dante's Peak SE",
+      "cleanNameWithVersion": "Dante's Peak SE 2.0",
+      "partiallyCleanName": "Dante's Peak SE",
+      "partiallyCleanNameWithVersion": "Dante's Peak SE 2.0",
+      "originalName": "Dante's Peak SE 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "2026 Light vs NsP_Groo.rep"
+  },
+  {
+    "rawMapName": "\u0004Mist \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Mist",
+      "cleanNameWithVersion": "Mist 1.0",
+      "partiallyCleanName": "Mist",
+      "partiallyCleanNameWithVersion": "Mist 1.0",
+      "originalName": "Mist 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1407 mulgoginaksi@T vs na1s.rep"
+  },
+  {
+    "rawMapName": "\u0004Mist \u00050.91",
+    "cleanMapName": {
+      "cleanName": "Mist",
+      "cleanNameWithVersion": "Mist 0.91",
+      "partiallyCleanName": "Mist",
+      "partiallyCleanNameWithVersion": "Mist 0.91",
+      "originalName": "Mist 0.91",
+      "metadata": {
+        "version": "0.91",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1405 Light 9 vs Midas.rep"
+  },
+  {
+    "rawMapName": "\u0006V\u0007ampire",
+    "cleanMapName": {
+      "cleanName": "Vampire",
+      "cleanNameWithVersion": "Vampire",
+      "partiallyCleanName": "Vampire",
+      "partiallyCleanNameWithVersion": "Vampire",
+      "originalName": "Vampire",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "3439 xXxSZ xXxST NeOxT zerZ.rep"
+  },
+  {
+    "rawMapName": "\u0007투혼 \u00051.3 \bW\u0019P\u001cZ",
+    "cleanMapName": {
+      "cleanName": "투혼 1.3 WPZ",
+      "cleanNameWithVersion": "투혼 1.3 WPZ",
+      "partiallyCleanName": "투혼 1.3 WPZ",
+      "partiallyCleanNameWithVersion": "투혼 1.3 WPZ",
+      "originalName": "투혼 1.3 WPZ",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "kt.mgw)great vs dog[kal].rep"
+  },
+  {
+    "rawMapName": "\u0007WCG \u0003P\u0006aranoid \u0004A\u0006ndroid \u00051.0",
+    "cleanMapName": {
+      "cleanName": "WCG Paranoid Android",
+      "cleanNameWithVersion": "WCG Paranoid Android 1.0",
+      "partiallyCleanName": "WCG Paranoid Android",
+      "partiallyCleanNameWithVersion": "WCG Paranoid Android 1.0",
+      "originalName": "WCG Paranoid Android 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "g-3@cool2die@cn-pj@.rep"
+  },
+  {
+    "rawMapName": "\u0007WCG \u0003A\u0004zalea \u00051.0",
+    "cleanMapName": {
+      "cleanName": "WCG Azalea",
+      "cleanNameWithVersion": "WCG Azalea 1.0",
+      "partiallyCleanName": "WCG Azalea",
+      "partiallyCleanNameWithVersion": "WCG Azalea 1.0",
+      "originalName": "WCG Azalea 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "jamesfoo@androide.rep"
+  },
+  {
+    "rawMapName": "\u0007WCG \u0003G\u0006aia \u00051.1",
+    "cleanMapName": {
+      "cleanName": "WCG Gaia",
+      "cleanNameWithVersion": "WCG Gaia 1.1",
+      "partiallyCleanName": "WCG Gaia",
+      "partiallyCleanNameWithVersion": "WCG Gaia 1.1",
+      "originalName": "WCG Gaia 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "westsidevsmoonzerg.rep"
+  },
+  {
+    "rawMapName": "\u0006Neo \u0003Baekdu Daegan \u00052.4",
+    "cleanMapName": {
+      "cleanName": "Neo Baekdu Daegan",
+      "cleanNameWithVersion": "Neo Baekdu Daegan 2.4",
+      "partiallyCleanName": "Neo Baekdu Daegan",
+      "partiallyCleanNameWithVersion": "Neo Baekdu Daegan 2.4",
+      "originalName": "Neo Baekdu Daegan 2.4",
+      "metadata": {
+        "version": "2.4",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "nyokenvsandroide.rep"
+  },
+  {
+    "rawMapName": "\u0007WCG \u0004Estrella \u00051.0",
+    "cleanMapName": {
+      "cleanName": "WCG Estrella",
+      "cleanNameWithVersion": "WCG Estrella 1.0",
+      "partiallyCleanName": "WCG Estrella",
+      "partiallyCleanNameWithVersion": "WCG Estrella 1.0",
+      "originalName": "WCG Estrella 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "b7@squall@silent_control.rep"
+  },
+  {
+    "rawMapName": "\u0004Dahlia \u0006of \u0003Jungle",
+    "cleanMapName": {
+      "cleanName": "Dahlia of Jungle",
+      "cleanNameWithVersion": "Dahlia of Jungle",
+      "partiallyCleanName": "Dahlia of Jungle",
+      "partiallyCleanNameWithVersion": "Dahlia of Jungle",
+      "originalName": "Dahlia of Jungle",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "p5@ToT)Mondragon(@dante_ca.rep"
+  },
+  {
+    "rawMapName": "\u0006Martian \u0005Cross",
+    "cleanMapName": {
+      "cleanName": "Martian Cross",
+      "cleanNameWithVersion": "Martian Cross",
+      "partiallyCleanName": "Martian Cross",
+      "partiallyCleanNameWithVersion": "Martian Cross",
+      "originalName": "Martian Cross",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "o1@johnrambo@stopcos.rep"
+  },
+  {
+    "rawMapName": "\u0007왕의 귀환 \u00051.2",
+    "cleanMapName": {
+      "cleanName": "왕의 귀환",
+      "cleanNameWithVersion": "왕의 귀환 1.2",
+      "partiallyCleanName": "왕의 귀환",
+      "partiallyCleanNameWithVersion": "왕의 귀환 1.2",
+      "originalName": "왕의 귀환 1.2",
+      "metadata": {
+        "version": "1.2",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1920 Last 2 vs Hiya 8.rep"
+  },
+  {
+    "rawMapName": "\u0003돈만 \u0004999999 \u0007[완벽공평]",
+    "cleanMapName": {
+      "cleanName": "돈만 999999",
+      "cleanNameWithVersion": "돈만 999999",
+      "partiallyCleanName": "돈만 999999 [완벽공평]",
+      "partiallyCleanNameWithVersion": "돈만 999999 [완벽공평]",
+      "originalName": "돈만 999999 [완벽공평]",
+      "metadata": {
+        "version": null,
+        "tags": [
+          "완벽공평"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1653 thinkaboutit@RT vs hom.rep"
+  },
+  {
+    "rawMapName": "WCG_The Lost Temple",
+    "cleanMapName": {
+      "cleanName": "WCG_The Lost Temple",
+      "cleanNameWithVersion": "WCG_The Lost Temple",
+      "partiallyCleanName": "WCG_The Lost Temple",
+      "partiallyCleanNameWithVersion": "WCG_The Lost Temple",
+      "originalName": "WCG_The Lost Temple",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "w8_gonia_mrx.rep"
+  },
+  {
+    "rawMapName": "\u0002G\u0006orky \u0002P\u0006ark",
+    "cleanMapName": {
+      "cleanName": "Gorky Park",
+      "cleanNameWithVersion": "Gorky Park",
+      "partiallyCleanName": "Gorky Park",
+      "partiallyCleanNameWithVersion": "Gorky Park",
+      "originalName": "Gorky Park",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "H5R@nephDestroyer@Sephiroth_CL.rep"
+  },
+  {
+    "rawMapName": "\u0006The \u0003KORHAL",
+    "cleanMapName": {
+      "cleanName": "The KORHAL",
+      "cleanNameWithVersion": "The KORHAL",
+      "partiallyCleanName": "The KORHAL",
+      "partiallyCleanNameWithVersion": "The KORHAL",
+      "originalName": "The KORHAL",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "H4R@starhunter_au@Sephiroth_CL.rep"
+  },
+  {
+    "rawMapName": "\u0004Chow \u0003Chow",
+    "cleanMapName": {
+      "cleanName": "Chow Chow",
+      "cleanNameWithVersion": "Chow Chow",
+      "partiallyCleanName": "Chow Chow",
+      "partiallyCleanNameWithVersion": "Chow Chow",
+      "originalName": "Chow Chow",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "H6R@rett_nl@OgerDaniel.rep"
+  },
+  {
+    "rawMapName": "\u0007DAHLIA",
+    "cleanMapName": {
+      "cleanName": "DAHLIA",
+      "cleanNameWithVersion": "DAHLIA",
+      "partiallyCleanName": "DAHLIA",
+      "partiallyCleanNameWithVersion": "DAHLIA",
+      "originalName": "DAHLIA",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "H7R@starhunter_au@rett_nl.rep"
+  },
+  {
+    "rawMapName": "\u0006[Wico] \u0007투혼 \u00051.3",
+    "cleanMapName": {
+      "cleanName": "투혼",
+      "cleanNameWithVersion": "투혼 1.3",
+      "partiallyCleanName": "[Wico] 투혼",
+      "partiallyCleanNameWithVersion": "[Wico] 투혼 1.3",
+      "originalName": "[Wico] 투혼 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [
+          "Wico"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1703 INH vs  kaL_ace.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Dantes Peak",
+    "cleanMapName": {
+      "cleanName": "Dantes Peak",
+      "cleanNameWithVersion": "Dantes Peak",
+      "partiallyCleanName": "Dantes Peak",
+      "partiallyCleanNameWithVersion": "Dantes Peak",
+      "originalName": "| iCCup | Dantes Peak",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "1745 ViciZ MichT vTvSP StoZ.rep"
+  },
+  {
+    "rawMapName": "\u0007SG 투혼\u0003 1.3 킹옵",
+    "cleanMapName": {
+      "cleanName": "SG 투혼 1.3 킹옵",
+      "cleanNameWithVersion": "SG 투혼 1.3 킹옵",
+      "partiallyCleanName": "SG 투혼 1.3 킹옵",
+      "partiallyCleanNameWithVersion": "SG 투혼 1.3 킹옵",
+      "originalName": "SG 투혼 1.3 킹옵",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1802 Mong vs tento.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Jade 2.0",
+    "cleanMapName": {
+      "cleanName": "Jade",
+      "cleanNameWithVersion": "Jade 2.0",
+      "partiallyCleanName": "Jade",
+      "partiallyCleanNameWithVersion": "Jade 2.0",
+      "originalName": "| iCCup | Jade 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "by.spire vs dsaqwe.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Sniper Ridge 2.0",
+    "cleanMapName": {
+      "cleanName": "Sniper Ridge",
+      "cleanNameWithVersion": "Sniper Ridge 2.0",
+      "partiallyCleanName": "Sniper Ridge",
+      "partiallyCleanNameWithVersion": "Sniper Ridge 2.0",
+      "originalName": "| iCCup | Sniper Ridge 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "1862 KaZewinDyT rasialdoZ.rep"
+  },
+  {
+    "rawMapName": "\u0007[EUD] \u0006생컨파썬 324 \u0005Beta 0.3",
+    "cleanMapName": {
+      "cleanName": "생컨파썬 324 Beta",
+      "cleanNameWithVersion": "생컨파썬 324 Beta 0.3",
+      "partiallyCleanName": "[EUD] 생컨파썬 324 Beta",
+      "partiallyCleanNameWithVersion": "[EUD] 생컨파썬 324 Beta 0.3",
+      "originalName": "[EUD] 생컨파썬 324 Beta 0.3",
+      "metadata": {
+        "version": "0.3",
+        "tags": [
+          "EUD"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1845 mulgoginaksi@RP hyunoo.rep"
+  },
+  {
+    "rawMapName": "\u0007K\u0006atrina_SE\u00052.0",
+    "cleanMapName": {
+      "cleanName": "Katrina_SE",
+      "cleanNameWithVersion": "Katrina_SE 2.0",
+      "partiallyCleanName": "Katrina_SE",
+      "partiallyCleanNameWithVersion": "Katrina_SE 2.0",
+      "originalName": "Katrina_SE2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1967 free vs ByherO.rep"
+  },
+  {
+    "rawMapName": "\u0006Icarus \u00051.1",
+    "cleanMapName": {
+      "cleanName": "Icarus",
+      "cleanNameWithVersion": "Icarus 1.1",
+      "partiallyCleanName": "Icarus",
+      "partiallyCleanNameWithVersion": "Icarus 1.1",
+      "originalName": "Icarus 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1966 free vs ByherO.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Roadrunner 1.3",
+    "cleanMapName": {
+      "cleanName": "Roadrunner",
+      "cleanNameWithVersion": "Roadrunner 1.3",
+      "partiallyCleanName": "Roadrunner",
+      "partiallyCleanNameWithVersion": "Roadrunner 1.3",
+      "originalName": "| iCCup | Roadrunner 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "1865 cheesekingZ KaZewinDyT.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Vampire 1.0",
+    "cleanMapName": {
+      "cleanName": "Vampire",
+      "cleanNameWithVersion": "Vampire 1.0",
+      "partiallyCleanName": "Vampire",
+      "partiallyCleanNameWithVersion": "Vampire 1.0",
+      "originalName": "| iCCup | Vampire 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "1867 cheesekingZ KaZewinDyT.rep"
+  },
+  {
+    "rawMapName": "\u0006태풍의 \u0007눈 \u00051.0",
+    "cleanMapName": {
+      "cleanName": "태풍의 눈",
+      "cleanNameWithVersion": "태풍의 눈 1.0",
+      "partiallyCleanName": "태풍의 눈",
+      "partiallyCleanNameWithVersion": "태풍의 눈 1.0",
+      "originalName": "태풍의 눈 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1893 Shuttle vs herO.rep"
+  },
+  {
+    "rawMapName": "\u0006신 추풍령\u00052.1",
+    "cleanMapName": {
+      "cleanName": "신 추풍령",
+      "cleanNameWithVersion": "신 추풍령 2.1",
+      "partiallyCleanName": "신 추풍령",
+      "partiallyCleanNameWithVersion": "신 추풍령 2.1",
+      "originalName": "신 추풍령2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Type-B vs F.Monster.rep"
+  },
+  {
+    "rawMapName": "\u0007Colosseum\u0006II\u00052.0",
+    "cleanMapName": {
+      "cleanName": "ColosseumII",
+      "cleanNameWithVersion": "ColosseumII 2.0",
+      "partiallyCleanName": "ColosseumII",
+      "partiallyCleanNameWithVersion": "ColosseumII 2.0",
+      "originalName": "ColosseumII2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Stork vs johnrambo.rep"
+  },
+  {
+    "rawMapName": "\u0007Othello \u00051.1",
+    "cleanMapName": {
+      "cleanName": "Othello",
+      "cleanNameWithVersion": "Othello 1.1",
+      "partiallyCleanName": "Othello",
+      "partiallyCleanNameWithVersion": "Othello 1.1",
+      "originalName": "Othello 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Jaedong vs Mind 4.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Electric Circuit 1.0",
+    "cleanMapName": {
+      "cleanName": "Electric Circuit",
+      "cleanNameWithVersion": "Electric Circuit 1.0",
+      "partiallyCleanName": "Electric Circuit",
+      "partiallyCleanNameWithVersion": "Electric Circuit 1.0",
+      "originalName": "| iCCup | Electric Circuit 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3585 jAiPaiP HatcheZ AssauZ.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Dantes Peak SE 2.0",
+    "cleanMapName": {
+      "cleanName": "Dantes Peak SE",
+      "cleanNameWithVersion": "Dantes Peak SE 2.0",
+      "partiallyCleanName": "Dantes Peak SE",
+      "partiallyCleanNameWithVersion": "Dantes Peak SE 2.0",
+      "originalName": "| iCCup | Dantes Peak SE 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "4295 TattOOZ repsPro7ecTT.rep"
+  },
+  {
+    "rawMapName": "\u0004Para\u0006doxxx \u0007ll \u00052.0",
+    "cleanMapName": {
+      "cleanName": "Paradoxxx ll",
+      "cleanNameWithVersion": "Paradoxxx ll 2.0",
+      "partiallyCleanName": "Paradoxxx ll",
+      "partiallyCleanNameWithVersion": "Paradoxxx ll 2.0",
+      "originalName": "Paradoxxx ll 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1914 sky vs larva.rep"
+  },
+  {
+    "rawMapName": "| iCCup | NeoMedusa 2.1",
+    "cleanMapName": {
+      "cleanName": "NeoMedusa",
+      "cleanNameWithVersion": "NeoMedusa 2.1",
+      "partiallyCleanName": "NeoMedusa",
+      "partiallyCleanNameWithVersion": "NeoMedusa 2.1",
+      "originalName": "| iCCup | NeoMedusa 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "Violet vs Ever)T(Reality 10.rep"
+  },
+  {
+    "rawMapName": "\u0007Nostalgia \u00051.3",
+    "cleanMapName": {
+      "cleanName": "Nostalgia",
+      "cleanNameWithVersion": "Nostalgia 1.3",
+      "partiallyCleanName": "Nostalgia",
+      "partiallyCleanNameWithVersion": "Nostalgia 1.3",
+      "originalName": "Nostalgia 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1928 sky vs larva.rep"
+  },
+  {
+    "rawMapName": "\u0004Neo \u0006The Lost Temple \u00052.0",
+    "cleanMapName": {
+      "cleanName": "Neo The Lost Temple",
+      "cleanNameWithVersion": "Neo The Lost Temple 2.0",
+      "partiallyCleanName": "Neo The Lost Temple",
+      "partiallyCleanNameWithVersion": "Neo The Lost Temple 2.0",
+      "originalName": "Neo The Lost Temple 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1935 NaDa vs herO.rep"
+  },
+  {
+    "rawMapName": "Neo Jungle story",
+    "cleanMapName": {
+      "cleanName": "Neo Jungle story",
+      "cleanNameWithVersion": "Neo Jungle story",
+      "partiallyCleanName": "Neo Jungle story",
+      "partiallyCleanNameWithVersion": "Neo Jungle story",
+      "originalName": "Neo Jungle story",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1936 NaDa vs herO.rep"
+  },
+  {
+    "rawMapName": "\u0006Neo \u0003Guillotine \u00052.1",
+    "cleanMapName": {
+      "cleanName": "Neo Guillotine",
+      "cleanNameWithVersion": "Neo Guillotine 2.1",
+      "partiallyCleanName": "Neo Guillotine",
+      "partiallyCleanNameWithVersion": "Neo Guillotine 2.1",
+      "originalName": "Neo Guillotine 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1937 NaDa vs herO.rep"
+  },
+  {
+    "rawMapName": "\u0007The Hunters\u0005-\u0003KPGA",
+    "cleanMapName": {
+      "cleanName": "The Hunters-KPGA",
+      "cleanNameWithVersion": "The Hunters-KPGA",
+      "partiallyCleanName": "The Hunters-KPGA",
+      "partiallyCleanNameWithVersion": "The Hunters-KPGA",
+      "originalName": "The Hunters-KPGA",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1969 ByP maZ stZ maZ flZ BP.rep"
+  },
+  {
+    "rawMapName": "WCG_Neo Jungle story",
+    "cleanMapName": {
+      "cleanName": "WCG_Neo Jungle story",
+      "cleanNameWithVersion": "WCG_Neo Jungle story",
+      "partiallyCleanName": "WCG_Neo Jungle story",
+      "partiallyCleanNameWithVersion": "WCG_Neo Jungle story",
+      "originalName": "WCG_Neo Jungle story",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "mariovsKenka.rep"
+  },
+  {
+    "rawMapName": "\u0007<WCG>\u0004Neo Legacy of Char",
+    "cleanMapName": {
+      "cleanName": "Neo Legacy of Char",
+      "cleanNameWithVersion": "Neo Legacy of Char",
+      "partiallyCleanName": "<WCG>Neo Legacy of Char",
+      "partiallyCleanNameWithVersion": "<WCG>Neo Legacy of Char",
+      "originalName": "<WCG>Neo Legacy of Char",
+      "metadata": {
+        "version": null,
+        "tags": [
+          "WCG"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "BoxervsMmmbop.rep"
+  },
+  {
+    "rawMapName": "\u0007Requiem \u00051.4",
+    "cleanMapName": {
+      "cleanName": "Requiem",
+      "cleanNameWithVersion": "Requiem 1.4",
+      "partiallyCleanName": "Requiem",
+      "partiallyCleanNameWithVersion": "Requiem 1.4",
+      "originalName": "Requiem 1.4",
+      "metadata": {
+        "version": "1.4",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "2 kt.mgw)hak vs snail.rep"
+  },
+  {
+    "rawMapName": "\u0007투혼 \u00051.3(자동옵)",
+    "cleanMapName": {
+      "cleanName": "투혼",
+      "cleanNameWithVersion": "투혼 1.3",
+      "partiallyCleanName": "투혼 1.3(자동옵)",
+      "partiallyCleanNameWithVersion": "투혼 1.3(자동옵) 1.3",
+      "originalName": "투혼 1.3(자동옵)",
+      "metadata": {
+        "version": "1.3",
+        "tags": [
+          "자동옵"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "1a2a3a[fOu]Zmahell[gsp]Z_2.rep"
+  },
+  {
+    "rawMapName": "\u0003A\u0004ztec\u00051.1",
+    "cleanMapName": {
+      "cleanName": "Aztec",
+      "cleanNameWithVersion": "Aztec 1.1",
+      "partiallyCleanName": "Aztec",
+      "partiallyCleanNameWithVersion": "Aztec 1.1",
+      "originalName": "Aztec1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "MondayKiz[KaS]P1a2a3a[fOu]Z.rep"
+  },
+  {
+    "rawMapName": "\u0003L\u0004una \u0006the \u0007Final",
+    "cleanMapName": {
+      "cleanName": "Luna the Final",
+      "cleanNameWithVersion": "Luna the Final",
+      "partiallyCleanName": "Luna the Final",
+      "partiallyCleanNameWithVersion": "Luna the Final",
+      "originalName": "Luna the Final",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "2243 Melverc@T vs Myth.Ra@Z.rep"
+  },
+  {
+    "rawMapName": "\u0007STL\u0006_\u0003BlueStorm 1.2",
+    "cleanMapName": {
+      "cleanName": "BlueStorm",
+      "cleanNameWithVersion": "BlueStorm 1.2",
+      "partiallyCleanName": "BlueStorm",
+      "partiallyCleanNameWithVersion": "BlueStorm 1.2",
+      "originalName": "STL_BlueStorm 1.2",
+      "metadata": {
+        "version": "1.2",
+        "tags": [],
+        "isObserverMap": false,
+        "isSTL": true
+      }
+    },
+    "srcFilename": "2#Mydream vs rage_lt 02.rep"
+  },
+  {
+    "rawMapName": "\u0004신 \u0007단장의 \u0006능선",
+    "cleanMapName": {
+      "cleanName": "신 단장의 능선",
+      "cleanNameWithVersion": "신 단장의 능선",
+      "partiallyCleanName": "신 단장의 능선",
+      "partiallyCleanNameWithVersion": "신 단장의 능선",
+      "originalName": "신 단장의 능선",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "2100 Melverc@T vs Myth.Ra@Z.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Moon Glaive 2.1",
+    "cleanMapName": {
+      "cleanName": "Moon Glaive",
+      "cleanNameWithVersion": "Moon Glaive 2.1",
+      "partiallyCleanName": "Moon Glaive",
+      "partiallyCleanNameWithVersion": "Moon Glaive 2.1",
+      "originalName": "| iCCup | Moon Glaive 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "2075 LRMChoP ScanT fryodaT.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Medusa 2.1",
+    "cleanMapName": {
+      "cleanName": "Medusa",
+      "cleanNameWithVersion": "Medusa 2.1",
+      "partiallyCleanName": "Medusa",
+      "partiallyCleanNameWithVersion": "Medusa 2.1",
+      "originalName": "| iCCup | Medusa 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "2090 ScanZ NbTeT fryoZ EtrP.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Hunters_KeSPA 1.1",
+    "cleanMapName": {
+      "cleanName": "Hunters",
+      "cleanNameWithVersion": "Hunters 1.1",
+      "partiallyCleanName": "Hunters",
+      "partiallyCleanNameWithVersion": "Hunters 1.1",
+      "originalName": "| iCCup | Hunters_KeSPA 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true,
+        "isKeSPA": true
+      }
+    },
+    "srcFilename": "3194 battT ShieZ SoapZ pluZ.rep"
+  },
+  {
+    "rawMapName": "1 Million Zerglings",
+    "cleanMapName": {
+      "cleanName": "1 Million Zerglings",
+      "cleanNameWithVersion": "1 Million Zerglings",
+      "partiallyCleanName": "1 Million Zerglings",
+      "partiallyCleanNameWithVersion": "1 Million Zerglings",
+      "originalName": "1 Million Zerglings",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "2108 pixxavila@Z coehdfkr@P.rep"
+  },
+  {
+    "rawMapName": "\u0007R\u0001andom\u0007M\u0001icro\u0007C\u0001hallenge\u00072",
+    "cleanMapName": {
+      "cleanName": "RandomMicroChallenge2",
+      "cleanNameWithVersion": "RandomMicroChallenge2",
+      "partiallyCleanName": "RandomMicroChallenge2",
+      "partiallyCleanNameWithVersion": "RandomMicroChallenge2",
+      "originalName": "RandomMicroChallenge2",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "2118 Qualified@P native_lt@.rep"
+  },
+  {
+    "rawMapName": "\u0007Op Rain \u0006투혼 \u0004NEW",
+    "cleanMapName": {
+      "cleanName": "Op Rain 투혼 NEW",
+      "cleanNameWithVersion": "Op Rain 투혼 NEW",
+      "partiallyCleanName": "Op Rain 투혼 NEW",
+      "partiallyCleanNameWithVersion": "Op Rain 투혼 NEW",
+      "originalName": "Op Rain 투혼 NEW",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "2208 INH vs [NeOx]LOLUSER2.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Chain Reaction 1.0",
+    "cleanMapName": {
+      "cleanName": "Chain Reaction",
+      "cleanNameWithVersion": "Chain Reaction 1.0",
+      "partiallyCleanName": "Chain Reaction",
+      "partiallyCleanNameWithVersion": "Chain Reaction 1.0",
+      "originalName": "| iCCup | Chain Reaction 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3853 NeOxScanT repsGoTuNkP.rep"
+  },
+  {
+    "rawMapName": "\u0006뽀누나의 \u0003투혼 \u00041.3",
+    "cleanMapName": {
+      "cleanName": "뽀누나의 투혼",
+      "cleanNameWithVersion": "뽀누나의 투혼 1.3",
+      "partiallyCleanName": "뽀누나의 투혼",
+      "partiallyCleanNameWithVersion": "뽀누나의 투혼 1.3",
+      "originalName": "뽀누나의 투혼 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "2320 Melverc@T vs Highlight.rep"
+  },
+  {
+    "rawMapName": "\u0006Triathlon \u00051.11",
+    "cleanMapName": {
+      "cleanName": "Triathlon",
+      "cleanNameWithVersion": "Triathlon 1.11",
+      "partiallyCleanName": "Triathlon",
+      "partiallyCleanNameWithVersion": "Triathlon 1.11",
+      "originalName": "Triathlon 1.11",
+      "metadata": {
+        "version": "1.11",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "ever)p(Pianist vs nabi_lt.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Ground Zero 1.2",
+    "cleanMapName": {
+      "cleanName": "Ground Zero",
+      "cleanNameWithVersion": "Ground Zero 1.2",
+      "partiallyCleanName": "Ground Zero",
+      "partiallyCleanNameWithVersion": "Ground Zero 1.2",
+      "originalName": "| iCCup | Ground Zero 1.2",
+      "metadata": {
+        "version": "1.2",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "4390 ScanZ sasDrawP.rep"
+  },
+  {
+    "rawMapName": "\u0003Op GsP- \u0007투혼 \u0006[Ob]",
+    "cleanMapName": {
+      "cleanName": "Op GsP- 투혼",
+      "cleanNameWithVersion": "Op GsP- 투혼",
+      "partiallyCleanName": "Op GsP- 투혼 [Ob]",
+      "partiallyCleanNameWithVersion": "Op GsP- 투혼 [Ob]",
+      "originalName": "Op GsP- 투혼 [Ob]",
+      "metadata": {
+        "version": null,
+        "tags": [
+          "Ob"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "2325 Ori[GsP] vs Mess.1hO.rep"
+  },
+  {
+    "rawMapName": "\u0006뽀누나의 \u0003서킷 브레이커",
+    "cleanMapName": {
+      "cleanName": "뽀누나의 서킷 브레이커",
+      "cleanNameWithVersion": "뽀누나의 서킷 브레이커",
+      "partiallyCleanName": "뽀누나의 서킷 브레이커",
+      "partiallyCleanNameWithVersion": "뽀누나의 서킷 브레이커",
+      "originalName": "뽀누나의 서킷 브레이커",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "2337 Melverc@T vs Highlight.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Python 1.3 OBs",
+    "cleanMapName": {
+      "cleanName": "Python",
+      "cleanNameWithVersion": "Python 1.3",
+      "partiallyCleanName": "Python",
+      "partiallyCleanNameWithVersion": "Python 1.3",
+      "originalName": "| iCCup | Python 1.3 OBs",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": true,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "2354 LynP RoiZ iFUP UcZ iCT.rep"
+  },
+  {
+    "rawMapName": "| iCCup | ColosseumII 2.0 OBs",
+    "cleanMapName": {
+      "cleanName": "ColosseumII",
+      "cleanNameWithVersion": "ColosseumII 2.0",
+      "partiallyCleanName": "ColosseumII",
+      "partiallyCleanNameWithVersion": "ColosseumII 2.0",
+      "originalName": "| iCCup | ColosseumII 2.0 OBs",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": true,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3533 HatcheZ 123456P iCCupZ.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Icarus 1.1",
+    "cleanMapName": {
+      "cleanName": "Icarus",
+      "cleanNameWithVersion": "Icarus 1.1",
+      "partiallyCleanName": "Icarus",
+      "partiallyCleanNameWithVersion": "Icarus 1.1",
+      "originalName": "| iCCup | Icarus 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "2366 iFUOctZergP vTvScanZ.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Beltway 2.0",
+    "cleanMapName": {
+      "cleanName": "Beltway",
+      "cleanNameWithVersion": "Beltway 2.0",
+      "partiallyCleanName": "Beltway",
+      "partiallyCleanNameWithVersion": "Beltway 2.0",
+      "originalName": "| iCCup | Beltway 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "2467 repsPro7ecT vTvScanP.rep"
+  },
+  {
+    "rawMapName": "\u0007Outlier \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Outlier",
+      "cleanNameWithVersion": "Outlier 1.0",
+      "partiallyCleanName": "Outlier",
+      "partiallyCleanNameWithVersion": "Outlier 1.0",
+      "originalName": "Outlier 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "bong vs minho_lt 1.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Gaia",
+    "cleanMapName": {
+      "cleanName": "Gaia",
+      "cleanNameWithVersion": "Gaia",
+      "partiallyCleanName": "Gaia",
+      "partiallyCleanNameWithVersion": "Gaia",
+      "originalName": "| iCCup | Gaia",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3391 xTaeAspenP HatcheryT.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Tau Cross 1.0",
+    "cleanMapName": {
+      "cleanName": "Tau Cross",
+      "cleanNameWithVersion": "Tau Cross 1.0",
+      "partiallyCleanName": "Tau Cross",
+      "partiallyCleanNameWithVersion": "Tau Cross 1.0",
+      "originalName": "| iCCup | Tau Cross 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "4114 Sziky Z vs Scan Z.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Match Point 1.3",
+    "cleanMapName": {
+      "cleanName": "Match Point",
+      "cleanNameWithVersion": "Match Point 1.3",
+      "partiallyCleanName": "Match Point",
+      "partiallyCleanNameWithVersion": "Match Point 1.3",
+      "originalName": "| iCCup | Match Point 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "sas.DrawP_SJ.TerrOrT.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Pathfinder 1.0",
+    "cleanMapName": {
+      "cleanName": "Pathfinder",
+      "cleanNameWithVersion": "Pathfinder 1.0",
+      "partiallyCleanName": "Pathfinder",
+      "partiallyCleanNameWithVersion": "Pathfinder 1.0",
+      "originalName": "| iCCup | Pathfinder 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "4115 Sziky Z vs Scan Z.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Lost Temple 2.4",
+    "cleanMapName": {
+      "cleanName": "Lost Temple",
+      "cleanNameWithVersion": "Lost Temple 2.4",
+      "partiallyCleanName": "Lost Temple",
+      "partiallyCleanNameWithVersion": "Lost Temple 2.4",
+      "originalName": "| iCCup | Lost Temple 2.4",
+      "metadata": {
+        "version": "2.4",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3624 TaZaZ ZeusZ plusZ JonZ.rep"
+  },
+  {
+    "rawMapName": "\u0004신 \u0007단장의 \u0006능선 \u00052.0",
+    "cleanMapName": {
+      "cleanName": "신 단장의 능선",
+      "cleanNameWithVersion": "신 단장의 능선 2.0",
+      "partiallyCleanName": "신 단장의 능선",
+      "partiallyCleanNameWithVersion": "신 단장의 능선 2.0",
+      "originalName": "신 단장의 능선 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "2991 ktfpsyP iopss2T choboT.rep"
+  },
+  {
+    "rawMapName": "WCG_Neo Legacy of Char",
+    "cleanMapName": {
+      "cleanName": "WCG_Neo Legacy of Char",
+      "cleanNameWithVersion": "WCG_Neo Legacy of Char",
+      "partiallyCleanName": "WCG_Neo Legacy of Char",
+      "partiallyCleanNameWithVersion": "WCG_Neo Legacy of Char",
+      "originalName": "WCG_Neo Legacy of Char",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "nidovsabeja.rep"
+  },
+  {
+    "rawMapName": "\u0007<WCG>\u0004Neo Jungle story",
+    "cleanMapName": {
+      "cleanName": "Neo Jungle story",
+      "cleanNameWithVersion": "Neo Jungle story",
+      "partiallyCleanName": "<WCG>Neo Jungle story",
+      "partiallyCleanNameWithVersion": "<WCG>Neo Jungle story",
+      "originalName": "<WCG>Neo Jungle story",
+      "metadata": {
+        "version": null,
+        "tags": [
+          "WCG"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "GonniavsSmuff.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Outlier 2.2",
+    "cleanMapName": {
+      "cleanName": "Outlier",
+      "cleanNameWithVersion": "Outlier 2.2",
+      "partiallyCleanName": "Outlier",
+      "partiallyCleanNameWithVersion": "Outlier 2.2",
+      "originalName": "| iCCup | Outlier 2.2",
+      "metadata": {
+        "version": "2.2",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3855 NeOxScT sasDraP saszaZ.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Outlier 1.0",
+    "cleanMapName": {
+      "cleanName": "Outlier",
+      "cleanNameWithVersion": "Outlier 1.0",
+      "partiallyCleanName": "Outlier",
+      "partiallyCleanNameWithVersion": "Outlier 1.0",
+      "originalName": "| iCCup | Outlier 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3108 ScanP ifumustP.rep"
+  },
+  {
+    "rawMapName": "신전부수기\u00076 \u0006: \u0004新바람의행진곡",
+    "cleanMapName": {
+      "cleanName": "신전부수기6 : 新바람의행진곡",
+      "cleanNameWithVersion": "신전부수기6 : 新바람의행진곡",
+      "partiallyCleanName": "신전부수기6 : 新바람의행진곡",
+      "partiallyCleanNameWithVersion": "신전부수기6 : 新바람의행진곡",
+      "originalName": "신전부수기6 : 新바람의행진곡",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "3014 KOT rkT NeZ wiZ CoP CP.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Central Districts 1.2",
+    "cleanMapName": {
+      "cleanName": "Central Districts",
+      "cleanNameWithVersion": "Central Districts 1.2",
+      "partiallyCleanName": "Central Districts",
+      "partiallyCleanNameWithVersion": "Central Districts 1.2",
+      "originalName": "| iCCup | Central Districts 1.2",
+      "metadata": {
+        "version": "1.2",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3114 ScanZ repsDewaltP.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Fortress SE 2.0",
+    "cleanMapName": {
+      "cleanName": "Fortress SE",
+      "cleanNameWithVersion": "Fortress SE 2.0",
+      "partiallyCleanName": "Fortress SE",
+      "partiallyCleanNameWithVersion": "Fortress SE 2.0",
+      "originalName": "| iCCup | Fortress SE 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3713 SeaSRP HatcheP iCCupFZ.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Destination 1.1 OBs",
+    "cleanMapName": {
+      "cleanName": "Destination",
+      "cleanNameWithVersion": "Destination 1.1",
+      "partiallyCleanName": "Destination",
+      "partiallyCleanNameWithVersion": "Destination 1.1",
+      "originalName": "| iCCup | Destination 1.1 OBs",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": true,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3129 LRMPZ ScanT vTvDP vTvT.rep"
+  },
+  {
+    "rawMapName": "\u0003中原 \u00051.2",
+    "cleanMapName": {
+      "cleanName": "中原",
+      "cleanNameWithVersion": "中原 1.2",
+      "partiallyCleanName": "中原",
+      "partiallyCleanNameWithVersion": "中原 1.2",
+      "originalName": "中原 1.2",
+      "metadata": {
+        "version": "1.2",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "3306 By.Rain vs Jaedong.rep"
+  },
+  {
+    "rawMapName": "\u0006Hunters\u0003_KeSPA \u0007MinDClan",
+    "cleanMapName": {
+      "cleanName": "Hunters MinDClan",
+      "cleanNameWithVersion": "Hunters MinDClan",
+      "partiallyCleanName": "Hunters MinDClan",
+      "partiallyCleanNameWithVersion": "Hunters MinDClan",
+      "originalName": "Hunters_KeSPA MinDClan",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isKeSPA": true
+      }
+    },
+    "srcFilename": "3474 NaZ neP NeZ yaZ NeZ NT.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Tornado 2.2",
+    "cleanMapName": {
+      "cleanName": "Tornado",
+      "cleanNameWithVersion": "Tornado 2.2",
+      "partiallyCleanName": "Tornado",
+      "partiallyCleanNameWithVersion": "Tornado 2.2",
+      "originalName": "| iCCup | Tornado 2.2",
+      "metadata": {
+        "version": "2.2",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3314 ShieP cabiZ plusZ xTaT.rep"
+  },
+  {
+    "rawMapName": "\u0003넥뿌 정식2 \u0002Absolute",
+    "cleanMapName": {
+      "cleanName": "넥뿌 정식2 Absolute",
+      "cleanNameWithVersion": "넥뿌 정식2 Absolute",
+      "partiallyCleanName": "넥뿌 정식2 Absolute",
+      "partiallyCleanNameWithVersion": "넥뿌 정식2 Absolute",
+      "originalName": "넥뿌 정식2 Absolute",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "3293 NeT NeT NeT NeT CrT ET.rep"
+  },
+  {
+    "rawMapName": "\u0007G\u0006rand\u0007L\u0006ine\u0005_SE 2.2",
+    "cleanMapName": {
+      "cleanName": "GrandLine_SE",
+      "cleanNameWithVersion": "GrandLine_SE 2.2",
+      "partiallyCleanName": "GrandLine_SE",
+      "partiallyCleanNameWithVersion": "GrandLine_SE 2.2",
+      "originalName": "GrandLine_SE 2.2",
+      "metadata": {
+        "version": "2.2",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "maejang (T) vs tmxk2akdg.rep"
+  },
+  {
+    "rawMapName": "\u0007태양의 제국 \u00051.1",
+    "cleanMapName": {
+      "cleanName": "태양의 제국",
+      "cleanNameWithVersion": "태양의 제국 1.1",
+      "partiallyCleanName": "태양의 제국",
+      "partiallyCleanNameWithVersion": "태양의 제국 1.1",
+      "originalName": "태양의 제국 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "3368 Jaedong vs Sky[kal].rep"
+  },
+  {
+    "rawMapName": "| iCCup | Dantes Peak SE 2.0 (Ob)",
+    "cleanMapName": {
+      "cleanName": "Dantes Peak SE",
+      "cleanNameWithVersion": "Dantes Peak SE 2.0",
+      "partiallyCleanName": "Dantes Peak SE",
+      "partiallyCleanNameWithVersion": "Dantes Peak SE 2.0",
+      "originalName": "| iCCup | Dantes Peak SE 2.0 (Ob)",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": true,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3393 ElroyJP HatcheZ iCCupZ.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Lost Temple 2.4 OBs",
+    "cleanMapName": {
+      "cleanName": "Lost Temple",
+      "cleanNameWithVersion": "Lost Temple 2.4",
+      "partiallyCleanName": "Lost Temple",
+      "partiallyCleanNameWithVersion": "Lost Temple 2.4",
+      "originalName": "| iCCup | Lost Temple 2.4 OBs",
+      "metadata": {
+        "version": "2.4",
+        "tags": [],
+        "isObserverMap": true,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3461 ShieT s2Z KisSP plusZ.rep"
+  },
+  {
+    "rawMapName": "Hunters KeSPA1.4 \u0003Op BeaT_",
+    "cleanMapName": {
+      "cleanName": "Hunters KeSPA1.4 Op BeaT_",
+      "cleanNameWithVersion": "Hunters KeSPA1.4 Op BeaT_",
+      "partiallyCleanName": "Hunters KeSPA1.4 Op BeaT_",
+      "partiallyCleanNameWithVersion": "Hunters KeSPA1.4 Op BeaT_",
+      "originalName": "Hunters KeSPA1.4 Op BeaT_",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "3509 yueZ RedT NeOT erP HoZ.rep"
+  },
+  {
+    "rawMapName": "\u0006The Fortress \u00051.1",
+    "cleanMapName": {
+      "cleanName": "The Fortress",
+      "cleanNameWithVersion": "The Fortress 1.1",
+      "partiallyCleanName": "The Fortress",
+      "partiallyCleanNameWithVersion": "The Fortress 1.1",
+      "originalName": "The Fortress 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "3639 Jaedong vs Ever)P(sHy.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Gladiator 1.1",
+    "cleanMapName": {
+      "cleanName": "Gladiator",
+      "cleanNameWithVersion": "Gladiator 1.1",
+      "partiallyCleanName": "Gladiator",
+      "partiallyCleanNameWithVersion": "Gladiator 1.1",
+      "originalName": "| iCCup | Gladiator 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3581 MPaiNT HatcheryZ.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Chain Reaction 2.0",
+    "cleanMapName": {
+      "cleanName": "Chain Reaction",
+      "cleanNameWithVersion": "Chain Reaction 2.0",
+      "partiallyCleanName": "Chain Reaction",
+      "partiallyCleanNameWithVersion": "Chain Reaction 2.0",
+      "originalName": "| iCCup | Chain Reaction 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "3584 MichaelPaiZ HatcheryZ.rep"
+  },
+  {
+    "rawMapName": "\u0006TvsP \u0003Training",
+    "cleanMapName": {
+      "cleanName": "TvsP Training",
+      "cleanNameWithVersion": "TvsP Training",
+      "partiallyCleanName": "TvsP Training",
+      "partiallyCleanNameWithVersion": "TvsP Training",
+      "originalName": "TvsP Training",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "3890 tvp training 2nd try.rep"
+  },
+  {
+    "rawMapName": "\u0007Sin \u0004★ \u0007빠\u0006른\u0003무\u0001한",
+    "cleanMapName": {
+      "cleanName": "Sin ★ 빠른무한",
+      "cleanNameWithVersion": "Sin ★ 빠른무한",
+      "partiallyCleanName": "Sin ★ 빠른무한",
+      "partiallyCleanNameWithVersion": "Sin ★ 빠른무한",
+      "originalName": "Sin ★ 빠른무한",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "4v4 [NeOx]SpeCiaLT[neox]hwP.rep"
+  },
+  {
+    "rawMapName": "\u0007IEF\u0006_\u0003Andromeda 1.0",
+    "cleanMapName": {
+      "cleanName": "IEF_Andromeda",
+      "cleanNameWithVersion": "IEF_Andromeda 1.0",
+      "partiallyCleanName": "IEF_Andromeda",
+      "partiallyCleanNameWithVersion": "IEF_Andromeda 1.0",
+      "originalName": "IEF_Andromeda 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "stork vs vulture 1.rep"
+  },
+  {
+    "rawMapName": "\u0007Vs\u0004투혼\u00061.3\u0005(초딩짤)",
+    "cleanMapName": {
+      "cleanName": "Vs투혼",
+      "cleanNameWithVersion": "Vs투혼 1.3",
+      "partiallyCleanName": "Vs투혼1.3(초딩짤)",
+      "partiallyCleanNameWithVersion": "Vs투혼1.3(초딩짤) 1.3",
+      "originalName": "Vs투혼1.3(초딩짤)",
+      "metadata": {
+        "version": "1.3",
+        "tags": [
+          "초딩짤"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "legend_net vs style[name].rep"
+  },
+  {
+    "rawMapName": "| iCCup | Benzene 1.1",
+    "cleanMapName": {
+      "cleanName": "Benzene",
+      "cleanNameWithVersion": "Benzene 1.1",
+      "partiallyCleanName": "Benzene",
+      "partiallyCleanNameWithVersion": "Benzene 1.1",
+      "originalName": "| iCCup | Benzene 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "4105 BOSS1P OverloT repsPrZ.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Ride of Valkyries 1.0",
+    "cleanMapName": {
+      "cleanName": "Ride of Valkyries",
+      "cleanNameWithVersion": "Ride of Valkyries 1.0",
+      "partiallyCleanName": "Ride of Valkyries",
+      "partiallyCleanNameWithVersion": "Ride of Valkyries 1.0",
+      "originalName": "| iCCup | Ride of Valkyries 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "4292 TattOOT BOSSdaZ.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Blue Storm 1.2 OBs",
+    "cleanMapName": {
+      "cleanName": "Blue Storm",
+      "cleanNameWithVersion": "Blue Storm 1.2",
+      "partiallyCleanName": "Blue Storm",
+      "partiallyCleanNameWithVersion": "Blue Storm 1.2",
+      "originalName": "| iCCup | Blue Storm 1.2 OBs",
+      "metadata": {
+        "version": "1.2",
+        "tags": [],
+        "isObserverMap": true,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "4297 bossorT TattOOZ fryodP.rep"
+  },
+  {
+    "rawMapName": "| iCCup | NeoMedusa 2.1 OBs",
+    "cleanMapName": {
+      "cleanName": "NeoMedusa",
+      "cleanNameWithVersion": "NeoMedusa 2.1",
+      "partiallyCleanName": "NeoMedusa",
+      "partiallyCleanNameWithVersion": "NeoMedusa 2.1",
+      "originalName": "| iCCup | NeoMedusa 2.1 OBs",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": true,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "4303 bossorT TattOOT fryodT.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Othello 1.1 OBs",
+    "cleanMapName": {
+      "cleanName": "Othello",
+      "cleanNameWithVersion": "Othello 1.1",
+      "partiallyCleanName": "Othello",
+      "partiallyCleanNameWithVersion": "Othello 1.1",
+      "originalName": "| iCCup | Othello 1.1 OBs",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": true,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "4299 TattOOT bossorT fryodP.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Dante's Peak SE 2.0",
+    "cleanMapName": {
+      "cleanName": "Dante's Peak SE",
+      "cleanNameWithVersion": "Dante's Peak SE 2.0",
+      "partiallyCleanName": "Dante's Peak SE",
+      "partiallyCleanNameWithVersion": "Dante's Peak SE 2.0",
+      "originalName": "| iCCup | Dante's Peak SE 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "4301 repsLaT TattOOZ fryodZ.rep"
+  },
+  {
+    "rawMapName": "초빠른☆무한 - Fast♧Unlimited",
+    "cleanMapName": {
+      "cleanName": "초빠른☆무한 - Fast♧Unlimited",
+      "cleanNameWithVersion": "초빠른☆무한 - Fast♧Unlimited",
+      "partiallyCleanName": "초빠른☆무한 - Fast♧Unlimited",
+      "partiallyCleanNameWithVersion": "초빠른☆무한 - Fast♧Unlimited",
+      "originalName": "초빠른☆무한 - Fast♧Unlimited",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "4v4 [neox]hwangsoT[NeOx]SpZ.rep"
+  },
+  {
+    "rawMapName": "\u0003神\u0004의 정원 \u00051.0",
+    "cleanMapName": {
+      "cleanName": "神의 정원",
+      "cleanNameWithVersion": "神의 정원 1.0",
+      "partiallyCleanName": "神의 정원",
+      "partiallyCleanNameWithVersion": "神의 정원 1.0",
+      "originalName": "神의 정원 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "[NC]YellOw vs Defy[Shield].rep"
+  },
+  {
+    "rawMapName": "\u0007Op BrOwn \u0006투혼 \u00021.3",
+    "cleanMapName": {
+      "cleanName": "Op BrOwn 투혼",
+      "cleanNameWithVersion": "Op BrOwn 투혼 1.3",
+      "partiallyCleanName": "Op BrOwn 투혼",
+      "partiallyCleanNameWithVersion": "Op BrOwn 투혼 1.3",
+      "originalName": "Op BrOwn 투혼 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "some other p vs z.rep"
+  },
+  {
+    "rawMapName": "\u0007단장의 \u0006능선 \u00051.1",
+    "cleanMapName": {
+      "cleanName": "단장의 능선",
+      "cleanNameWithVersion": "단장의 능선 1.1",
+      "partiallyCleanName": "단장의 능선",
+      "partiallyCleanNameWithVersion": "단장의 능선 1.1",
+      "originalName": "단장의 능선 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "wico`gwang v qwetklqwejtlkj.rep"
+  },
+  {
+    "rawMapName": "WCG_Neo Hall of Valhalla",
+    "cleanMapName": {
+      "cleanName": "WCG_Neo Hall of Valhalla",
+      "cleanNameWithVersion": "WCG_Neo Hall of Valhalla",
+      "partiallyCleanName": "WCG_Neo Hall of Valhalla",
+      "partiallyCleanNameWithVersion": "WCG_Neo Hall of Valhalla",
+      "originalName": "WCG_Neo Hall of Valhalla",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "mariovsabeja.rep"
+  },
+  {
+    "rawMapName": "\u0007Outsider SE \u00052.0",
+    "cleanMapName": {
+      "cleanName": "Outsider SE",
+      "cleanNameWithVersion": "Outsider SE 2.0",
+      "partiallyCleanName": "Outsider SE",
+      "partiallyCleanNameWithVersion": "Outsider SE 2.0",
+      "originalName": "Outsider SE 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Stork vs Koll 2.rep"
+  },
+  {
+    "rawMapName": "\u0007Outsider \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Outsider",
+      "cleanNameWithVersion": "Outsider 1.0",
+      "partiallyCleanName": "Outsider",
+      "partiallyCleanNameWithVersion": "Outsider 1.0",
+      "originalName": "Outsider 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "[NC]YellOw vs Moon.rep"
+  },
+  {
+    "rawMapName": "\u0004신 \u0003청풍명월 \u00052.1",
+    "cleanMapName": {
+      "cleanName": "신 청풍명월",
+      "cleanNameWithVersion": "신 청풍명월 2.1",
+      "partiallyCleanName": "신 청풍명월",
+      "partiallyCleanNameWithVersion": "신 청풍명월 2.1",
+      "originalName": "신 청풍명월 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Light vs Hwasin.rep"
+  },
+  {
+    "rawMapName": "\u0007왕의 귀환 \u00051.1",
+    "cleanMapName": {
+      "cleanName": "왕의 귀환",
+      "cleanNameWithVersion": "왕의 귀환 1.1",
+      "partiallyCleanName": "왕의 귀환",
+      "partiallyCleanNameWithVersion": "왕의 귀환 1.1",
+      "originalName": "왕의 귀환 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "hyvaa vs Midas.rep"
+  },
+  {
+    "rawMapName": "MoonGlaive1.2",
+    "cleanMapName": {
+      "cleanName": "MoonGlaive",
+      "cleanNameWithVersion": "MoonGlaive 1.2",
+      "partiallyCleanName": "MoonGlaive",
+      "partiallyCleanNameWithVersion": "MoonGlaive 1.2",
+      "originalName": "MoonGlaive1.2",
+      "metadata": {
+        "version": "1.2",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "force[name] vs eagle 4.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Destination 1.1 OBS",
+    "cleanMapName": {
+      "cleanName": "Destination",
+      "cleanNameWithVersion": "Destination 1.1",
+      "partiallyCleanName": "Destination",
+      "partiallyCleanNameWithVersion": "Destination 1.1",
+      "originalName": "| iCCup | Destination 1.1 OBS",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": true,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "Baby v Paralyze.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Medusa 1.1",
+    "cleanMapName": {
+      "cleanName": "Medusa",
+      "cleanNameWithVersion": "Medusa 1.1",
+      "partiallyCleanName": "Medusa",
+      "partiallyCleanNameWithVersion": "Medusa 1.1",
+      "originalName": "| iCCup | Medusa 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "KT.MGW)Zero vs Rushgoon.rep"
+  },
+  {
+    "rawMapName": "\u0007P\u0006lasma \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Plasma",
+      "cleanNameWithVersion": "Plasma 1.0",
+      "partiallyCleanName": "Plasma",
+      "partiallyCleanNameWithVersion": "Plasma 1.0",
+      "originalName": "Plasma 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "July vs Kal.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Medusa 1.0",
+    "cleanMapName": {
+      "cleanName": "Medusa",
+      "cleanNameWithVersion": "Medusa 1.0",
+      "partiallyCleanName": "Medusa",
+      "partiallyCleanNameWithVersion": "Medusa 1.0",
+      "originalName": "| iCCup | Medusa 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "Beckham vs Diana- 3.rep"
+  },
+  {
+    "rawMapName": "\u0007Medusa\u00051.0",
+    "cleanMapName": {
+      "cleanName": "Medusa",
+      "cleanNameWithVersion": "Medusa 1.0",
+      "partiallyCleanName": "Medusa",
+      "partiallyCleanNameWithVersion": "Medusa 1.0",
+      "originalName": "Medusa1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Soo[S.siR] vs Calm 1.rep"
+  },
+  {
+    "rawMapName": "\u0006[SaSin] \u0007Blue Storm  \u00041.2 v.AH",
+    "cleanMapName": {
+      "cleanName": "Blue Storm 1.2 v.AH",
+      "cleanNameWithVersion": "Blue Storm 1.2 v.AH",
+      "partiallyCleanName": "[SaSin] Blue Storm 1.2 v.AH",
+      "partiallyCleanNameWithVersion": "[SaSin] Blue Storm 1.2 v.AH",
+      "originalName": "[SaSin] Blue Storm 1.2 v.AH",
+      "metadata": {
+        "version": null,
+        "tags": [
+          "SaSin"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Sangho vs Force[name].rep"
+  },
+  {
+    "rawMapName": "\u0004Neo\u0007Medusa\u00052.1",
+    "cleanMapName": {
+      "cleanName": "NeoMedusa",
+      "cleanNameWithVersion": "NeoMedusa 2.1",
+      "partiallyCleanName": "NeoMedusa",
+      "partiallyCleanNameWithVersion": "NeoMedusa 2.1",
+      "originalName": "NeoMedusa2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "sea.kh vs mong[name] 1.rep"
+  },
+  {
+    "rawMapName": "\u0003Loki \u0005II",
+    "cleanMapName": {
+      "cleanName": "Loki II",
+      "cleanNameWithVersion": "Loki II",
+      "partiallyCleanName": "Loki II",
+      "partiallyCleanNameWithVersion": "Loki II",
+      "originalName": "Loki II",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Bisu vs Firefist.rep"
+  },
+  {
+    "rawMapName": "\u0006신 \u0003백두대간 \u00052.4",
+    "cleanMapName": {
+      "cleanName": "신 백두대간",
+      "cleanNameWithVersion": "신 백두대간 2.4",
+      "partiallyCleanName": "신 백두대간",
+      "partiallyCleanNameWithVersion": "신 백두대간 2.4",
+      "originalName": "신 백두대간 2.4",
+      "metadata": {
+        "version": "2.4",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Violet vs tiny[S.G].rep"
+  },
+  {
+    "rawMapName": "\u0007K\u0006atrina\u00051.3",
+    "cleanMapName": {
+      "cleanName": "Katrina",
+      "cleanNameWithVersion": "Katrina 1.3",
+      "partiallyCleanName": "Katrina",
+      "partiallyCleanNameWithVersion": "Katrina 1.3",
+      "originalName": "Katrina1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Mind vs Kal.rep"
+  },
+  {
+    "rawMapName": "\u0007<WCG>\u0004The Lost Temple",
+    "cleanMapName": {
+      "cleanName": "The Lost Temple",
+      "cleanNameWithVersion": "The Lost Temple",
+      "partiallyCleanName": "<WCG>The Lost Temple",
+      "partiallyCleanNameWithVersion": "<WCG>The Lost Temple",
+      "originalName": "<WCG>The Lost Temple",
+      "metadata": {
+        "version": null,
+        "tags": [
+          "WCG"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "BoxervsElky.rep"
+  },
+  {
+    "rawMapName": "\u0004Neo\u0007Medusa\u00052.0",
+    "cleanMapName": {
+      "cleanName": "NeoMedusa",
+      "cleanNameWithVersion": "NeoMedusa 2.0",
+      "partiallyCleanName": "NeoMedusa",
+      "partiallyCleanNameWithVersion": "NeoMedusa 2.0",
+      "originalName": "NeoMedusa2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "By.Barracks vs Force 2009.rep"
+  },
+  {
+    "rawMapName": "| iCCup | MoonGlaive 2.1",
+    "cleanMapName": {
+      "cleanName": "MoonGlaive",
+      "cleanNameWithVersion": "MoonGlaive 2.1",
+      "partiallyCleanName": "MoonGlaive",
+      "partiallyCleanNameWithVersion": "MoonGlaive 2.1",
+      "originalName": "| iCCup | MoonGlaive 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "ruian[gm] vs iu.rep"
+  },
+  {
+    "rawMapName": "\u0007Medusa\u00051.1",
+    "cleanMapName": {
+      "cleanName": "Medusa",
+      "cleanNameWithVersion": "Medusa 1.1",
+      "partiallyCleanName": "Medusa",
+      "partiallyCleanNameWithVersion": "Medusa 1.1",
+      "originalName": "Medusa1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "sea.kh vs aka.arashi.rep"
+  },
+  {
+    "rawMapName": "\u0007R\u0006ush \u0007H\u0006our \u00053.1",
+    "cleanMapName": {
+      "cleanName": "Rush Hour",
+      "cleanNameWithVersion": "Rush Hour 3.1",
+      "partiallyCleanName": "Rush Hour",
+      "partiallyCleanNameWithVersion": "Rush Hour 3.1",
+      "originalName": "Rush Hour 3.1",
+      "metadata": {
+        "version": "3.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Much vs By.Hydra.rep"
+  },
+  {
+    "rawMapName": "\u0003B\u0004yzantium \u0002II \u00052.21",
+    "cleanMapName": {
+      "cleanName": "Byzantium II",
+      "cleanNameWithVersion": "Byzantium II 2.21",
+      "partiallyCleanName": "Byzantium II",
+      "partiallyCleanNameWithVersion": "Byzantium II 2.21",
+      "originalName": "Byzantium II 2.21",
+      "metadata": {
+        "version": "2.21",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Effort vs Iris.rep"
+  },
+  {
+    "rawMapName": "\u0003청풍명월 \u00050.93",
+    "cleanMapName": {
+      "cleanName": "청풍명월",
+      "cleanNameWithVersion": "청풍명월 0.93",
+      "partiallyCleanName": "청풍명월",
+      "partiallyCleanNameWithVersion": "청풍명월 0.93",
+      "originalName": "청풍명월 0.93",
+      "metadata": {
+        "version": "0.93",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Kwanro vs sAviOr (7 vs 1).rep"
+  },
+  {
+    "rawMapName": "\u0006Neo \u0007Requiem \u00052.1",
+    "cleanMapName": {
+      "cleanName": "Neo Requiem",
+      "cleanNameWithVersion": "Neo Requiem 2.1",
+      "partiallyCleanName": "Neo Requiem",
+      "partiallyCleanNameWithVersion": "Neo Requiem 2.1",
+      "originalName": "Neo Requiem 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "sOo[S.siR] vs July 1.rep"
+  },
+  {
+    "rawMapName": "\u0006Beltway \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Beltway",
+      "cleanNameWithVersion": "Beltway 1.0",
+      "partiallyCleanName": "Beltway",
+      "partiallyCleanNameWithVersion": "Beltway 1.0",
+      "originalName": "Beltway 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "FlaSh vs By.herO 3.rep"
+  },
+  {
+    "rawMapName": "\u0007C\u0006olosseum\u00051.0",
+    "cleanMapName": {
+      "cleanName": "Colosseum",
+      "cleanNameWithVersion": "Colosseum 1.0",
+      "partiallyCleanName": "Colosseum",
+      "partiallyCleanNameWithVersion": "Colosseum 1.0",
+      "originalName": "Colosseum1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Violet vs By.Flash.rep"
+  },
+  {
+    "rawMapName": "\u0004Blue \u0007S\u0006torm \u00051.16",
+    "cleanMapName": {
+      "cleanName": "Blue Storm",
+      "cleanNameWithVersion": "Blue Storm 1.16",
+      "partiallyCleanName": "Blue Storm",
+      "partiallyCleanNameWithVersion": "Blue Storm 1.16",
+      "originalName": "Blue Storm 1.16",
+      "metadata": {
+        "version": "1.16",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "FlaSh vs Leta 1.rep"
+  },
+  {
+    "rawMapName": "\u0006폭풍의 \u0004언덕 \u00050.95",
+    "cleanMapName": {
+      "cleanName": "폭풍의 언덕",
+      "cleanNameWithVersion": "폭풍의 언덕 0.95",
+      "partiallyCleanName": "폭풍의 언덕",
+      "partiallyCleanNameWithVersion": "폭풍의 언덕 0.95",
+      "originalName": "폭풍의 언덕 0.95",
+      "metadata": {
+        "version": "0.95",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "FlaSh vs Leta 2.rep"
+  },
+  {
+    "rawMapName": "\u0007Othello \u00050.991",
+    "cleanMapName": {
+      "cleanName": "Othello",
+      "cleanNameWithVersion": "Othello 0.991",
+      "partiallyCleanName": "Othello",
+      "partiallyCleanNameWithVersion": "Othello 0.991",
+      "originalName": "Othello 0.991",
+      "metadata": {
+        "version": "0.991",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "FlaSh vs Leta 3.rep"
+  },
+  {
+    "rawMapName": "\u0006추풍령\u00051.0",
+    "cleanMapName": {
+      "cleanName": "추풍령",
+      "cleanNameWithVersion": "추풍령 1.0",
+      "partiallyCleanName": "추풍령",
+      "partiallyCleanNameWithVersion": "추풍령 1.0",
+      "originalName": "추풍령1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "FlaSh vs Sangho.rep"
+  },
+  {
+    "rawMapName": "\u0006H\u0004oly\u0006W\u0004orld \u00051.1",
+    "cleanMapName": {
+      "cleanName": "HolyWorld",
+      "cleanNameWithVersion": "HolyWorld 1.1",
+      "partiallyCleanName": "HolyWorld",
+      "partiallyCleanNameWithVersion": "HolyWorld 1.1",
+      "originalName": "HolyWorld 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Flash vs 815 2.rep"
+  },
+  {
+    "rawMapName": "\u0004Blue \u0007S\u0006torm \u00051.1",
+    "cleanMapName": {
+      "cleanName": "Blue Storm",
+      "cleanNameWithVersion": "Blue Storm 1.1",
+      "partiallyCleanName": "Blue Storm",
+      "partiallyCleanNameWithVersion": "Blue Storm 1.1",
+      "originalName": "Blue Storm 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Mind vs TheRocK.rep"
+  },
+  {
+    "rawMapName": "\u0004몽\u0003환 \u00051.1",
+    "cleanMapName": {
+      "cleanName": "몽환",
+      "cleanNameWithVersion": "몽환 1.1",
+      "partiallyCleanName": "몽환",
+      "partiallyCleanNameWithVersion": "몽환 1.1",
+      "originalName": "몽환 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Flash vs Chojja.rep"
+  },
+  {
+    "rawMapName": "\u0006D\u0005esperado",
+    "cleanMapName": {
+      "cleanName": "Desperado",
+      "cleanNameWithVersion": "Desperado",
+      "partiallyCleanName": "Desperado",
+      "partiallyCleanNameWithVersion": "Desperado",
+      "originalName": "Desperado",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Flash vs Ever)Z(aQua.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Heatbreak Ridge",
+    "cleanMapName": {
+      "cleanName": "Heatbreak Ridge",
+      "cleanNameWithVersion": "Heatbreak Ridge",
+      "partiallyCleanName": "Heatbreak Ridge",
+      "partiallyCleanNameWithVersion": "Heatbreak Ridge",
+      "originalName": "| iCCup | Heatbreak Ridge",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "Violet vs WARMASTER.rep"
+  },
+  {
+    "rawMapName": "\u0003Un'\u0006Goro \u0007Crater \u00051.2",
+    "cleanMapName": {
+      "cleanName": "Un'Goro Crater",
+      "cleanNameWithVersion": "Un'Goro Crater 1.2",
+      "partiallyCleanName": "Un'Goro Crater",
+      "partiallyCleanNameWithVersion": "Un'Goro Crater 1.2",
+      "originalName": "Un'Goro Crater 1.2",
+      "metadata": {
+        "version": "1.2",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Jaedong vs TheRock.rep"
+  },
+  {
+    "rawMapName": "The Lost Temple Game-Q.com",
+    "cleanMapName": {
+      "cleanName": "The Lost Temple Game-Q.com",
+      "cleanNameWithVersion": "The Lost Temple Game-Q.com",
+      "partiallyCleanName": "The Lost Temple Game-Q.com",
+      "partiallyCleanNameWithVersion": "The Lost Temple Game-Q.com",
+      "originalName": "The Lost Temple Game-Q.com",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "FroZ vs DiDi.rep"
+  },
+  {
+    "rawMapName": "\u0006itsM\u0006e_\u0004P\u0003ython1.3\u0007(Ob)\u0005F!nal",
+    "cleanMapName": {
+      "cleanName": "itsMe_Python1.3(Ob)F!nal",
+      "cleanNameWithVersion": "itsMe_Python1.3(Ob)F!nal",
+      "partiallyCleanName": "itsMe_Python1.3(Ob)F!nal",
+      "partiallyCleanNameWithVersion": "itsMe_Python1.3(Ob)F!nal",
+      "originalName": "itsMe_Python1.3(Ob)F!nal",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Gloomy vs maejang.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Outsider",
+    "cleanMapName": {
+      "cleanName": "Outsider",
+      "cleanNameWithVersion": "Outsider",
+      "partiallyCleanName": "Outsider",
+      "partiallyCleanNameWithVersion": "Outsider",
+      "originalName": "| iCCup | Outsider",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "issue vs rising[kal].rep"
+  },
+  {
+    "rawMapName": "\u0007Colosseum\u0006II\u00051.92",
+    "cleanMapName": {
+      "cleanName": "ColosseumII",
+      "cleanNameWithVersion": "ColosseumII 1.92",
+      "partiallyCleanName": "ColosseumII",
+      "partiallyCleanNameWithVersion": "ColosseumII 1.92",
+      "originalName": "ColosseumII1.92",
+      "metadata": {
+        "version": "1.92",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Really vs Upmagic 2 (10vs2).rep"
+  },
+  {
+    "rawMapName": "\u0003청풍명월 \u00051.0",
+    "cleanMapName": {
+      "cleanName": "청풍명월",
+      "cleanNameWithVersion": "청풍명월 1.0",
+      "partiallyCleanName": "청풍명월",
+      "partiallyCleanNameWithVersion": "청풍명월 1.0",
+      "originalName": "청풍명월 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Light vs F.Monster (11vs5).rep"
+  },
+  {
+    "rawMapName": "\u0006추풍령\u00051.1",
+    "cleanMapName": {
+      "cleanName": "추풍령",
+      "cleanNameWithVersion": "추풍령 1.1",
+      "partiallyCleanName": "추풍령",
+      "partiallyCleanNameWithVersion": "추풍령 1.1",
+      "originalName": "추풍령1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "History vs rOo.rep"
+  },
+  {
+    "rawMapName": "\u0003B\u0004yzantium \u0002II \u00052.2",
+    "cleanMapName": {
+      "cleanName": "Byzantium II",
+      "cleanNameWithVersion": "Byzantium II 2.2",
+      "partiallyCleanName": "Byzantium II",
+      "partiallyCleanNameWithVersion": "Byzantium II 2.2",
+      "originalName": "Byzantium II 2.2",
+      "metadata": {
+        "version": "2.2",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Really vs Upmagic 3.rep"
+  },
+  {
+    "rawMapName": "\u0007Athena \u0002II \u00052.0",
+    "cleanMapName": {
+      "cleanName": "Athena II",
+      "cleanNameWithVersion": "Athena II 2.0",
+      "partiallyCleanName": "Athena II",
+      "partiallyCleanNameWithVersion": "Athena II 2.0",
+      "originalName": "Athena II 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Really vs Free 2.rep"
+  },
+  {
+    "rawMapName": "\u0006DTR.\u0007X\u0006[\u0007D\u0006estinatioN]\u0007SaSin",
+    "cleanMapName": {
+      "cleanName": "DTR.X[DestinatioN]SaSin",
+      "cleanNameWithVersion": "DTR.X[DestinatioN]SaSin",
+      "partiallyCleanName": "DTR.X[DestinatioN]SaSin",
+      "partiallyCleanNameWithVersion": "DTR.X[DestinatioN]SaSin",
+      "originalName": "DTR.X[DestinatioN]SaSin",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Wuk vs InTrO)BABO.rep"
+  },
+  {
+    "rawMapName": "\u0003Neo\u0006MoonGlaive\u00052.1",
+    "cleanMapName": {
+      "cleanName": "NeoMoonGlaive",
+      "cleanNameWithVersion": "NeoMoonGlaive 2.1",
+      "partiallyCleanName": "NeoMoonGlaive",
+      "partiallyCleanNameWithVersion": "NeoMoonGlaive 2.1",
+      "originalName": "NeoMoonGlaive2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "icarus vs dreamjin.rep"
+  },
+  {
+    "rawMapName": "\u0001황\u0006혼의 \u0001그\u0006림자 \u00051.0",
+    "cleanMapName": {
+      "cleanName": "황혼의 그림자",
+      "cleanNameWithVersion": "황혼의 그림자 1.0",
+      "partiallyCleanName": "황혼의 그림자",
+      "partiallyCleanNameWithVersion": "황혼의 그림자 1.0",
+      "originalName": "황혼의 그림자 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Jaedong vs HerO[Shield] 2.rep"
+  },
+  {
+    "rawMapName": "\u0003Jade \u00050.99",
+    "cleanMapName": {
+      "cleanName": "Jade",
+      "cleanNameWithVersion": "Jade 0.99",
+      "partiallyCleanName": "Jade",
+      "partiallyCleanNameWithVersion": "Jade 0.99",
+      "originalName": "Jade 0.99",
+      "metadata": {
+        "version": "0.99",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Jaedong vs Light.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Blue Storm 1.1",
+    "cleanMapName": {
+      "cleanName": "Blue Storm",
+      "cleanNameWithVersion": "Blue Storm 1.1",
+      "partiallyCleanName": "Blue Storm",
+      "partiallyCleanNameWithVersion": "Blue Storm 1.1",
+      "originalName": "| iCCup | Blue Storm 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "Jangbi vs History 3.rep"
+  },
+  {
+    "rawMapName": "\u0007용\u0003오\u0004름 \u00050.92",
+    "cleanMapName": {
+      "cleanName": "용오름",
+      "cleanNameWithVersion": "용오름 0.92",
+      "partiallyCleanName": "용오름",
+      "partiallyCleanNameWithVersion": "용오름 0.92",
+      "originalName": "용오름 0.92",
+      "metadata": {
+        "version": "0.92",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Jangbi vs Smart.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Tornado 2.1",
+    "cleanMapName": {
+      "cleanName": "Tornado",
+      "cleanNameWithVersion": "Tornado 2.1",
+      "partiallyCleanName": "Tornado",
+      "partiallyCleanNameWithVersion": "Tornado 2.1",
+      "originalName": "| iCCup | Tornado 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "Paralyze vs Clare 2.rep"
+  },
+  {
+    "rawMapName": "\u0007Destination \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Destination",
+      "cleanNameWithVersion": "Destination 1.0",
+      "partiallyCleanName": "Destination",
+      "partiallyCleanNameWithVersion": "Destination 1.0",
+      "originalName": "Destination 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Sangho vs Suny.rep"
+  },
+  {
+    "rawMapName": "\u0007Athena \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Athena",
+      "cleanNameWithVersion": "Athena 1.0",
+      "partiallyCleanName": "Athena",
+      "partiallyCleanNameWithVersion": "Athena 1.0",
+      "originalName": "Athena 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Really vs Suny.rep"
+  },
+  {
+    "rawMapName": "\u0003B\u0004yzantium \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Byzantium",
+      "cleanNameWithVersion": "Byzantium 1.0",
+      "partiallyCleanName": "Byzantium",
+      "partiallyCleanNameWithVersion": "Byzantium 1.0",
+      "originalName": "Byzantium 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Really vs nbs.rep"
+  },
+  {
+    "rawMapName": "\u0007DTR\u0003[\u0004Destination1.1\u0003]\u0006ArtOf-",
+    "cleanMapName": {
+      "cleanName": "DTR[Destination1.1]ArtOf-",
+      "cleanNameWithVersion": "DTR[Destination1.1]ArtOf-",
+      "partiallyCleanName": "DTR[Destination1.1]ArtOf-",
+      "partiallyCleanNameWithVersion": "DTR[Destination1.1]ArtOf-",
+      "originalName": "DTR[Destination1.1]ArtOf-",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "id_neo.g vs P7GAB[Kal].rep"
+  },
+  {
+    "rawMapName": "\u0004FIShServer \u0007NeOxCLan 투혼\u0003[Ob]",
+    "cleanMapName": {
+      "cleanName": "FIShServer NeOxCLan 투혼",
+      "cleanNameWithVersion": "FIShServer NeOxCLan 투혼",
+      "partiallyCleanName": "FIShServer NeOxCLan 투혼[Ob]",
+      "partiallyCleanNameWithVersion": "FIShServer NeOxCLan 투혼[Ob]",
+      "originalName": "FIShServer NeOxCLan 투혼[Ob]",
+      "metadata": {
+        "version": null,
+        "tags": [
+          "Ob"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Sky[kal] 1 vs Pusan 11.rep"
+  },
+  {
+    "rawMapName": "\u0007C\u0006olosseum\u00050.93",
+    "cleanMapName": {
+      "cleanName": "Colosseum",
+      "cleanNameWithVersion": "Colosseum 0.93",
+      "partiallyCleanName": "Colosseum",
+      "partiallyCleanNameWithVersion": "Colosseum 0.93",
+      "originalName": "Colosseum0.93",
+      "metadata": {
+        "version": "0.93",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Smart vs CuteBOy.rep"
+  },
+  {
+    "rawMapName": "\u0007[Op 9-] \u0005투혼 \u00051.3 (수동옵)",
+    "cleanMapName": {
+      "cleanName": "[Op 9-] 투혼",
+      "cleanNameWithVersion": "[Op 9-] 투혼 1.3",
+      "partiallyCleanName": "[Op 9-] 투혼 1.3 (수동옵)",
+      "partiallyCleanNameWithVersion": "[Op 9-] 투혼 1.3 (수동옵) 1.3",
+      "originalName": "[Op 9-] 투혼 1.3 (수동옵)",
+      "metadata": {
+        "version": "1.3",
+        "tags": [
+          "수동옵"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Sonata[ArnC]@T vs nto`dobal.rep"
+  },
+  {
+    "rawMapName": "The Lost Temple_Gamei",
+    "cleanMapName": {
+      "cleanName": "The Lost Temple_Gamei",
+      "cleanNameWithVersion": "The Lost Temple_Gamei",
+      "partiallyCleanName": "The Lost Temple_Gamei",
+      "partiallyCleanNameWithVersion": "The Lost Temple_Gamei",
+      "originalName": "The Lost Temple_Gamei",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Soul.R-nAVIZ[neox]sinbiT.rep"
+  },
+  {
+    "rawMapName": "\u0007IEF\u0006_\u0003Python 1.3",
+    "cleanMapName": {
+      "cleanName": "IEF_Python",
+      "cleanNameWithVersion": "IEF_Python 1.3",
+      "partiallyCleanName": "IEF_Python",
+      "partiallyCleanNameWithVersion": "IEF_Python 1.3",
+      "originalName": "IEF_Python 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Stork vs Bisu 2.rep"
+  },
+  {
+    "rawMapName": "\u0006투혼(OB) 1.3 (Boni)",
+    "cleanMapName": {
+      "cleanName": "투혼(OB)",
+      "cleanNameWithVersion": "투혼(OB) 1.3",
+      "partiallyCleanName": "투혼(OB) 1.3 (Boni)",
+      "partiallyCleanNameWithVersion": "투혼(OB) 1.3 (Boni) 1.3",
+      "originalName": "투혼(OB) 1.3 (Boni)",
+      "metadata": {
+        "version": "1.3",
+        "tags": [
+          "Boni"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "scat.pose vs Learn..so..fma.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Heartbreak Ridge 1.2",
+    "cleanMapName": {
+      "cleanName": "Heartbreak Ridge",
+      "cleanNameWithVersion": "Heartbreak Ridge 1.2",
+      "partiallyCleanName": "Heartbreak Ridge",
+      "partiallyCleanNameWithVersion": "Heartbreak Ridge 1.2",
+      "originalName": "| iCCup | Heartbreak Ridge 1.2",
+      "metadata": {
+        "version": "1.2",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "Violet(T) vs FlySoul[Micro].rep"
+  },
+  {
+    "rawMapName": "| iCCup | Outsider 2.0",
+    "cleanMapName": {
+      "cleanName": "Outsider",
+      "cleanNameWithVersion": "Outsider 2.0",
+      "partiallyCleanName": "Outsider",
+      "partiallyCleanNameWithVersion": "Outsider 2.0",
+      "originalName": "| iCCup | Outsider 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "Violet (T) vs Mate_ra.rep"
+  },
+  {
+    "rawMapName": "\u0007L\u0005onginusⅡ",
+    "cleanMapName": {
+      "cleanName": "LonginusⅡ",
+      "cleanNameWithVersion": "LonginusⅡ",
+      "partiallyCleanName": "LonginusⅡ",
+      "partiallyCleanNameWithVersion": "LonginusⅡ",
+      "originalName": "LonginusⅡ",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Violet vs aMeBa[S.G].rep"
+  },
+  {
+    "rawMapName": "\u0004B\u0001litz",
+    "cleanMapName": {
+      "cleanName": "Blitz",
+      "cleanNameWithVersion": "Blitz",
+      "partiallyCleanName": "Blitz",
+      "partiallyCleanNameWithVersion": "Blitz",
+      "originalName": "Blitz",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Violet vs Style[Shield] 2.rep"
+  },
+  {
+    "rawMapName": "\u0004Hitch\u0003hiker\u00051.1",
+    "cleanMapName": {
+      "cleanName": "Hitchhiker",
+      "cleanNameWithVersion": "Hitchhiker 1.1",
+      "partiallyCleanName": "Hitchhiker",
+      "partiallyCleanNameWithVersion": "Hitchhiker 1.1",
+      "originalName": "Hitchhiker1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Violet vs maGma[S.G].rep"
+  },
+  {
+    "rawMapName": "| iCCup | Heartbreak Ridge 1.1",
+    "cleanMapName": {
+      "cleanName": "Heartbreak Ridge",
+      "cleanNameWithVersion": "Heartbreak Ridge 1.1",
+      "partiallyCleanName": "Heartbreak Ridge",
+      "partiallyCleanNameWithVersion": "Heartbreak Ridge 1.1",
+      "originalName": "| iCCup | Heartbreak Ridge 1.1",
+      "metadata": {
+        "version": "1.1",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "Violet vs NsP_flOwer.rep"
+  },
+  {
+    "rawMapName": "R - \u0004Point",
+    "cleanMapName": {
+      "cleanName": "R - Point",
+      "cleanNameWithVersion": "R - Point",
+      "partiallyCleanName": "R - Point",
+      "partiallyCleanNameWithVersion": "R - Point",
+      "originalName": "R - Point",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Violet vs LaKe[Name].rep"
+  },
+  {
+    "rawMapName": "\u0007L\u0005onginus",
+    "cleanMapName": {
+      "cleanName": "Longinus",
+      "cleanNameWithVersion": "Longinus",
+      "partiallyCleanName": "Longinus",
+      "partiallyCleanNameWithVersion": "Longinus",
+      "originalName": "Longinus",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Violet vs jjonga[3.33].rep"
+  },
+  {
+    "rawMapName": "신 \u0003개척\u0006시대 \u00052.1",
+    "cleanMapName": {
+      "cleanName": "신 개척시대",
+      "cleanNameWithVersion": "신 개척시대 2.1",
+      "partiallyCleanName": "신 개척시대",
+      "partiallyCleanNameWithVersion": "신 개척시대 2.1",
+      "originalName": "신 개척시대 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Violet vs Ever)T(NanSu.rep"
+  },
+  {
+    "rawMapName": "\u0007Reverse \u0004Temple \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Reverse Temple",
+      "cleanNameWithVersion": "Reverse Temple 1.0",
+      "partiallyCleanName": "Reverse Temple",
+      "partiallyCleanNameWithVersion": "Reverse Temple 1.0",
+      "originalName": "Reverse Temple 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Violet vs Sea.Pie.rep"
+  },
+  {
+    "rawMapName": "\u0004Neo \u0007F\u0005orte 2.1",
+    "cleanMapName": {
+      "cleanName": "Neo Forte",
+      "cleanNameWithVersion": "Neo Forte 2.1",
+      "partiallyCleanName": "Neo Forte",
+      "partiallyCleanNameWithVersion": "Neo Forte 2.1",
+      "originalName": "Neo Forte 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Violet vs some zerg.rep"
+  },
+  {
+    "rawMapName": "PGT - Luna The Final [07]\r\u001f",
+    "cleanMapName": {
+      "cleanName": "Luna The Final [07]",
+      "cleanNameWithVersion": "Luna The Final [07]",
+      "partiallyCleanName": "Luna The Final [07]",
+      "partiallyCleanNameWithVersion": "Luna The Final [07]",
+      "originalName": "PGT - Luna The Final [07]",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false,
+        "isPGT": true
+      }
+    },
+    "srcFilename": "Violet vs PuPuPu[Gamei].rep"
+  },
+  {
+    "rawMapName": "\u0007R\u0006ush \u0004Hour \u0002Ⅱ",
+    "cleanMapName": {
+      "cleanName": "Rush Hour Ⅱ",
+      "cleanNameWithVersion": "Rush Hour Ⅱ",
+      "partiallyCleanName": "Rush Hour Ⅱ",
+      "partiallyCleanNameWithVersion": "Rush Hour Ⅱ",
+      "originalName": "Rush Hour Ⅱ",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Violet vs Pj.rep"
+  },
+  {
+    "rawMapName": "\u0007R\u0006ush \u0004Hour \u0002Ⅲ",
+    "cleanMapName": {
+      "cleanName": "Rush Hour Ⅲ",
+      "cleanNameWithVersion": "Rush Hour Ⅲ",
+      "partiallyCleanName": "Rush Hour Ⅲ",
+      "partiallyCleanNameWithVersion": "Rush Hour Ⅲ",
+      "originalName": "Rush Hour Ⅲ",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "Violet vs hErb[Shield].rep"
+  },
+  {
+    "rawMapName": "PLU_\u0006Soul of Fighter \u00051.3",
+    "cleanMapName": {
+      "cleanName": "Soul of Fighter",
+      "cleanNameWithVersion": "Soul of Fighter 1.3",
+      "partiallyCleanName": "Soul of Fighter",
+      "partiallyCleanNameWithVersion": "Soul of Fighter 1.3",
+      "originalName": "PLU_Soul of Fighter 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false,
+        "isPLU": true
+      }
+    },
+    "srcFilename": "zero vs jaystar1.rep"
+  },
+  {
+    "rawMapName": "PLU_\u0004Circuit \u0007Breakers \u00051.0",
+    "cleanMapName": {
+      "cleanName": "Circuit Breakers",
+      "cleanNameWithVersion": "Circuit Breakers 1.0",
+      "partiallyCleanName": "Circuit Breakers",
+      "partiallyCleanNameWithVersion": "Circuit Breakers 1.0",
+      "originalName": "PLU_Circuit Breakers 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isPLU": true
+      }
+    },
+    "srcFilename": "zero vs jaystar2.rep"
+  },
+  {
+    "rawMapName": "PLU_\u0004Neo \u0007Jade\u0005 2.0",
+    "cleanMapName": {
+      "cleanName": "Neo Jade",
+      "cleanNameWithVersion": "Neo Jade 2.0",
+      "partiallyCleanName": "Neo Jade",
+      "partiallyCleanNameWithVersion": "Neo Jade 2.0",
+      "originalName": "PLU_Neo Jade 2.0",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isPLU": true
+      }
+    },
+    "srcFilename": "bisu vs zero 3.rep"
+  },
+  {
+    "rawMapName": "\u0007<WCG>\u0004Hall of Valhalla",
+    "cleanMapName": {
+      "cleanName": "Hall of Valhalla",
+      "cleanNameWithVersion": "Hall of Valhalla",
+      "partiallyCleanName": "<WCG>Hall of Valhalla",
+      "partiallyCleanNameWithVersion": "<WCG>Hall of Valhalla",
+      "originalName": "<WCG>Hall of Valhalla",
+      "metadata": {
+        "version": null,
+        "tags": [
+          "WCG"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "gonia119vselky.rep"
+  },
+  {
+    "rawMapName": "\u0007WizClan투혼 \u00051.3",
+    "cleanMapName": {
+      "cleanName": "WizClan투혼",
+      "cleanNameWithVersion": "WizClan투혼 1.3",
+      "partiallyCleanName": "WizClan투혼",
+      "partiallyCleanNameWithVersion": "WizClan투혼 1.3",
+      "originalName": "WizClan투혼 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "gust vs [hon]o.rep"
+  },
+  {
+    "rawMapName": "\u0003Ak Guild \u0007투혼 \u0006[ob]",
+    "cleanMapName": {
+      "cleanName": "Ak Guild 투혼",
+      "cleanNameWithVersion": "Ak Guild 투혼",
+      "partiallyCleanName": "Ak Guild 투혼 [ob]",
+      "partiallyCleanNameWithVersion": "Ak Guild 투혼 [ob]",
+      "originalName": "Ak Guild 투혼 [ob]",
+      "metadata": {
+        "version": null,
+        "tags": [
+          "ob"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "jeak.dorasi vs AksiT.rep"
+  },
+  {
+    "rawMapName": "\u0007C-SPL\u0002_\u0003Destination 1.1_OB",
+    "cleanMapName": {
+      "cleanName": "C-SPL_Destination 1.1_OB",
+      "cleanNameWithVersion": "C-SPL_Destination 1.1_OB",
+      "partiallyCleanName": "C-SPL_Destination 1.1_OB",
+      "partiallyCleanNameWithVersion": "C-SPL_Destination 1.1_OB",
+      "originalName": "C-SPL_Destination 1.1_OB",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "js vs ssak 3.rep"
+  },
+  {
+    "rawMapName": "\u0007C-SPL\u0002_\u0003Neo_Aztec 2.1_OB",
+    "cleanMapName": {
+      "cleanName": "C-SPL_Neo_Aztec 2.1_OB",
+      "cleanNameWithVersion": "C-SPL_Neo_Aztec 2.1_OB",
+      "partiallyCleanName": "C-SPL_Neo_Aztec 2.1_OB",
+      "partiallyCleanNameWithVersion": "C-SPL_Neo_Aztec 2.1_OB",
+      "originalName": "C-SPL_Neo_Aztec 2.1_OB",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "js vs ssak 4.rep"
+  },
+  {
+    "rawMapName": "\u0007C-SPL\u0002_\u0003Neo_Medusa 2.2_OB",
+    "cleanMapName": {
+      "cleanName": "C-SPL_Neo_Medusa 2.2_OB",
+      "cleanNameWithVersion": "C-SPL_Neo_Medusa 2.2_OB",
+      "partiallyCleanName": "C-SPL_Neo_Medusa 2.2_OB",
+      "partiallyCleanNameWithVersion": "C-SPL_Neo_Medusa 2.2_OB",
+      "originalName": "C-SPL_Neo_Medusa 2.2_OB",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "js vs ssak 5.rep"
+  },
+  {
+    "rawMapName": "| iCCup | Katrina 1.3",
+    "cleanMapName": {
+      "cleanName": "Katrina",
+      "cleanNameWithVersion": "Katrina 1.3",
+      "partiallyCleanName": "Katrina",
+      "partiallyCleanNameWithVersion": "Katrina 1.3",
+      "originalName": "| iCCup | Katrina 1.3",
+      "metadata": {
+        "version": "1.3",
+        "tags": [],
+        "isObserverMap": false,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "keke vs SungEun.rep"
+  },
+  {
+    "rawMapName": "\u0006HSL \u0007그라운드제로\u0004 1.2",
+    "cleanMapName": {
+      "cleanName": "HSL 그라운드제로",
+      "cleanNameWithVersion": "HSL 그라운드제로 1.2",
+      "partiallyCleanName": "HSL 그라운드제로",
+      "partiallyCleanNameWithVersion": "HSL 그라운드제로 1.2",
+      "originalName": "HSL 그라운드제로 1.2",
+      "metadata": {
+        "version": "1.2",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "precious_lt vs zergman.rep"
+  },
+  {
+    "rawMapName": "\u0007Op BrOwn \u0006투혼 \u0002\u0004LAST",
+    "cleanMapName": {
+      "cleanName": "Op BrOwn 투혼 LAST",
+      "cleanNameWithVersion": "Op BrOwn 투혼 LAST",
+      "partiallyCleanName": "Op BrOwn 투혼 LAST",
+      "partiallyCleanNameWithVersion": "Op BrOwn 투혼 LAST",
+      "originalName": "Op BrOwn 투혼 LAST",
+      "metadata": {
+        "version": null,
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "max.mapae vs sidepower.rep"
+  },
+  {
+    "rawMapName": "\u0007F\u0006un\u0007F\u0006un\u0007G\u0006ame \u0006신 추풍령\u00052.1",
+    "cleanMapName": {
+      "cleanName": "FunFunGame 신 추풍령",
+      "cleanNameWithVersion": "FunFunGame 신 추풍령 2.1",
+      "partiallyCleanName": "FunFunGame 신 추풍령",
+      "partiallyCleanNameWithVersion": "FunFunGame 신 추풍령 2.1",
+      "originalName": "FunFunGame 신 추풍령2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "sea.kh vs mong[name] 2.rep"
+  },
+  {
+    "rawMapName": "\u0006신 \u0007풍운 \u00052.1",
+    "cleanMapName": {
+      "cleanName": "신 풍운",
+      "cleanNameWithVersion": "신 풍운 2.1",
+      "partiallyCleanName": "신 풍운",
+      "partiallyCleanNameWithVersion": "신 풍운 2.1",
+      "originalName": "신 풍운 2.1",
+      "metadata": {
+        "version": "2.1",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "shuttle vs sasin)snail.rep"
+  },
+  {
+    "rawMapName": "\u0007[pOkJu] \u0005투혼 \u00051.3 (수동옵)",
+    "cleanMapName": {
+      "cleanName": "투혼",
+      "cleanNameWithVersion": "투혼 1.3",
+      "partiallyCleanName": "[pOkJu] 투혼 1.3 (수동옵)",
+      "partiallyCleanNameWithVersion": "[pOkJu] 투혼 1.3 (수동옵) 1.3",
+      "originalName": "[pOkJu] 투혼 1.3 (수동옵)",
+      "metadata": {
+        "version": "1.3",
+        "tags": [
+          "수동옵",
+          "pOkJu"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "sorry vs family]t[gagda 2.rep"
+  },
+  {
+    "rawMapName": "| iCCup | ColosseumII 2.0 OBS",
+    "cleanMapName": {
+      "cleanName": "ColosseumII",
+      "cleanNameWithVersion": "ColosseumII 2.0",
+      "partiallyCleanName": "ColosseumII",
+      "partiallyCleanNameWithVersion": "ColosseumII 2.0",
+      "originalName": "| iCCup | ColosseumII 2.0 OBS",
+      "metadata": {
+        "version": "2.0",
+        "tags": [],
+        "isObserverMap": true,
+        "isICCup": true
+      }
+    },
+    "srcFilename": "sorry[kal] 8 vs nsp_terran.rep"
+  },
+  {
+    "rawMapName": "\u0007IEF\u0006_\u0003Troy 1.0",
+    "cleanMapName": {
+      "cleanName": "IEF_Troy",
+      "cleanNameWithVersion": "IEF_Troy 1.0",
+      "partiallyCleanName": "IEF_Troy",
+      "partiallyCleanNameWithVersion": "IEF_Troy 1.0",
+      "originalName": "IEF_Troy 1.0",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "stork vs vulture 2.rep"
+  },
+  {
+    "rawMapName": "\u0003Jade \u00050.90",
+    "cleanMapName": {
+      "cleanName": "Jade",
+      "cleanNameWithVersion": "Jade 0.90",
+      "partiallyCleanName": "Jade",
+      "partiallyCleanNameWithVersion": "Jade 0.90",
+      "originalName": "Jade 0.90",
+      "metadata": {
+        "version": "0.90",
+        "tags": [],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "ultra vs core[kal].rep"
+  },
+  {
+    "rawMapName": "MoDelClanː투혼 1.3 (킹옵)",
+    "cleanMapName": {
+      "cleanName": "MoDelClanː투혼",
+      "cleanNameWithVersion": "MoDelClanː투혼 1.3",
+      "partiallyCleanName": "MoDelClanː투혼 1.3 (킹옵)",
+      "partiallyCleanNameWithVersion": "MoDelClanː투혼 1.3 (킹옵) 1.3",
+      "originalName": "MoDelClanː투혼 1.3 (킹옵)",
+      "metadata": {
+        "version": "1.3",
+        "tags": [
+          "킹옵"
+        ],
+        "isObserverMap": false
+      }
+    },
+    "srcFilename": "wyvern_lt vs ins2.pose.rep"
+  },
+  {
+    "rawMapName": "\u0007Citadel \u00051.0 BSL",
+    "cleanMapName": {
+      "cleanName": "Citadel",
+      "cleanNameWithVersion": "Citadel 1.0",
+      "partiallyCleanName": "Citadel",
+      "partiallyCleanNameWithVersion": "Citadel 1.0",
+      "originalName": "Citadel 1.0 BSL",
+      "metadata": {
+        "version": "1.0",
+        "tags": [],
+        "isObserverMap": false,
+        "isBSL": true
+      }
+    },
+    "srcFilename": "dada bsl test.rep"
+  }
+]
