@@ -42,7 +42,7 @@ export const textData: BwTextData = {
 }
 
 // These are all the game speeds that can be set.
-// The original vanilla StarCraft default speed online was "normal".
+// The original vanilla StarCraft default speed online was "fast".
 // It got changed to "fastest" when Brood War launched, which is the default today.
 // The number indicates the milliseconds taken per game frame.
 export const gameSpeedData: BwGameSpeed[] = [
