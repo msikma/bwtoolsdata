@@ -132,16 +132,16 @@ export const gameTypeData: BwGameType[] = [
   {id: 0x02, name: 'Melee', slug: 'melee', data: {}},
   {id: 0x03, name: 'Free For All', slug: 'ffa', data: {}},
   {id: 0x04, name: 'One on One', slug: '1v1', data: {}},
-  {id: 0x05, name: 'Capture The Flag', slug: 'ctf', data: {}},
+  {id: 0x05, name: 'Capture the Flag', slug: 'ctf', data: {}},
   {id: 0x06, name: 'Greed', slug: 'greed', data: {}},
   {id: 0x07, name: 'Slaughter', slug: 'slaughter', data: {}},
   {id: 0x08, name: 'Sudden Death', slug: 'sudden_death', data: {}},
   // Despite the name, "ladder" is not used for ladder games. See "Top vs Bottom".
   {id: 0x09, name: 'Ladder', slug: 'ladder', data: {}},
-  {id: 0x0a, name: 'Use map settings', slug: 'ums', data: {}},
+  {id: 0x0a, name: 'Use Map Settings', slug: 'ums', data: {}},
   {id: 0x0b, name: 'Team Melee', slug: 'team_melee', data: {}},
   {id: 0x0c, name: 'Team Free For All', slug: 'team_ffa', data: {}},
-  {id: 0x0d, name: 'Team Capture The Flag', slug: 'team_ctf', data: {}},
+  {id: 0x0d, name: 'Team Capture the Flag', slug: 'team_ctf', data: {}},
   // "Unknown" is a placeholder and is not actually defined in any Blizzard game.
   {id: 0x0e, name: 'Unknown', slug: 'unk', data: {isUnselectable: true}},
   // "Top vs Bottom" is a selectable game mode and is the default type for ladder games.
